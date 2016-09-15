@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>00FF00</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again.</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="48" posy="-65">oldhouse.jpg</imaxe>
+              <texto posx="253" posy="358" ancho="434" largo="89"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="20">THE OLD HOUSE</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="bathroom">bathroom.jpg</cousa>
+              <cousa nome="bedroom">bedroom.jpg</cousa>
+              <cousa nome="garden">garden.jpg</cousa>
+              <cousa nome="kitchen">kitchen.jpg</cousa>
+              <cousa nome="living room">livingroom.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>3</modo>
+              <cousa nome="laundry">laundryroom.jpg</cousa>
+              <cousa nome="terrace">terrace.jpg</cousa>
+              <cousa nome="basement">basement.jpg</cousa>
+              <cousa nome="porche">porche.jpg</cousa>
+              <cousa nome="study">studyroom.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words of the pictures</cabeceira>
+              <modo>1</modo>
+              <cousa nome="laundry">laundryroom.jpg</cousa>
+              <cousa nome="bedroom">bedroom.jpg</cousa>
+              <cousa nome="attic">attic.jpg</cousa>
+              <cousa nome="living room">livingroom.jpg</cousa>
+              <cousa nome="study">studyroom.jpg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>7</tipo>
+              <cabeceira>What things do you find in the kitchen or in the bathroom?</cabeceira>
+              <fondocaixa1 trans="25">kitchen.jpg</fondocaixa1>
+              <fondocaixa2 trans="25">bathroom.jpg</fondocaixa2>
+              <caixa1>Kitchen</caixa1>
+              <caixa2>Bathroom</caixa2>
+              <mini caixa="2">basin.png</mini>
+              <mini caixa="2">bath.jpg</mini>
+              <mini caixa="1">cooker.jpg</mini>
+              <mini caixa="1">oven.jpg</mini>
+              <mini caixa="2">mirror.jpg</mini>
+              <mini caixa="1">tablechairs.jpg</mini>
+              <cfondo>00FF00</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>13</tipo>
+              <cabeceira>Match the sentences</cabeceira>
+              <unir texto="The garden is full of ">plants and flowers.</unir>
+              <unir texto="In the bedroom">there is a bed.</unir>
+              <unir texto="I brush my teeth">in the bathroom.</unir>
+              <unir texto="I watch TV">in the living room.</unir>
+              <unir texto="In the kitchen">we cook and eat.</unir>
+        </paxina>
+        <paxina id="7" >
+              <tipo>10</tipo>
+              <cabeceira>Answer these questions</cabeceira>
+              <imaxe>house.jpg</imaxe>
+              <pregunta res="In the kithen.">Where do we cook?</pregunta>
+              <pregunta res="In the bedroom.">Where do we sleep?</pregunta>
+              <pregunta res="In the bathroom.">Where do we have bath?</pregunta>
+              <pregunta res="In the living room.">Where do we watch TV?</pregunta>
+        </paxina>
+        <paxina id="8" >
+              <tipo>4</tipo>
+              <cabeceira>Solve this word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="oven.jpg">oven</sopa>
+              <sopa enun="mat.jpg">mat</sopa>
+              <sopa enun="mirror.jpg">mirror</sopa>
+              <sopa enun="plants.png">plants</sopa>
+              <sopa enun="toilet.jpg">toilet</sopa>
+              <sopa enun="cooker.jpg">cooker</sopa>
+              <sopa enun="stairs.jpg">stairs</sopa>
+              <sopa enun="sofa.jpg">sofa</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>asdfghjkl</fondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <texto><![CDATA[I've got a *house, a lovely house.
+I live in it, I *sleep in it.
+I eat, I bath, I watch TV
+with my *family all happily.
+It's got a *kitchen to eat my meals,
+It's got a bathroom to brush my *teeth,
+It's got a bedroom, a *living room 
+and a garage and a garden too.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>sink.jpg</parellas>
+              <parellas>cupboards.jpg</parellas>
+              <parellas>cooker.jpg</parellas>
+              <parellas>washingmachine.jpg</parellas>
+              <parellas>oven.jpg</parellas>
+              <parellas>tablechairs.jpg</parellas>
+              <cfondo>00FF00</cfondo>
+              <ctapa>FF00FF</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>4</tipo>
+              <cabeceira>Solve this word search</cabeceira>
+              <modo>1</modo>
+              <sopa enun="We eat in this room.">kitchen</sopa>
+              <sopa enun="We sleep in this room.">bedroom</sopa>
+              <sopa enun="We watch TV in this room.">living room</sopa>
+              <sopa enun="We brush our teeth in this room.">bathroom</sopa>
+              <sopa enun="We study in the room.">study</sopa>
+              <sopa enun="We do the laundry in this room.">laundry</sopa>
+              <sopa enun="We grow plants in this place.">garden</sopa>
+              <sopa enun="We keep the car in this room.">garage</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>zxcvbnm</fondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>attic.jpg</parellas>
+              <parellas>bath.jpg</parellas>
+              <parellas>toilet.jpg</parellas>
+              <parellas>bed.jpg</parellas>
+              <parellas>computer.jpg</parellas>
+              <parellas>daisies.jpg</parellas>
+              <cfondo>00FF00</cfondo>
+              <ctapa>FFFF00</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="sister">sister.jpg</cousa>
+              <cousa nome="grandma">grandma.jpg</cousa>
+              <cousa nome="brother">brother.jpg</cousa>
+              <cousa nome="grandpa">grandpa.jpg</cousa>
+              <cousa nome="mum">mum.jpg</cousa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="">sister.jpg</cousa>
+              <cousa nome="">brother.jpg</cousa>
+              <cousa nome="">mum.jpg</cousa>
+              <cousa nome="">dad.jpg</cousa>
+              <cousa nome="">grandpa.jpg</cousa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>17</tipo>
+              <cabeceira>Family matching game</cabeceira>
+              <parellas>grandma.jpg</parellas>
+              <parellas>grandpa.jpg</parellas>
+              <parellas>brother.jpg</parellas>
+              <parellas>mum.jpg</parellas>
+              <parellas>dad.jpg</parellas>
+              <parellas>sister.jpg</parellas>
+              <cfondo>00FF00</cfondo>
+              <ctapa>C0C0C0</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the family word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="grandma.jpg">grandma</sopa>
+              <sopa enun="dad.jpg">dad</sopa>
+              <sopa enun="mum.jpg">mum</sopa>
+              <sopa enun="aunt.jpg">aunt</sopa>
+              <sopa enun="brother.jpg">brother</sopa>
+              <sopa enun="grandpa.jpg">grandpa</sopa>
+              <sopa enun="sister.jpg">sister</sopa>
+              <sopa enun="uncle.jpg">uncle</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>pytrwq</fondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="cat">cat.jpg</cousa>
+              <cousa nome="guinea pig">guineapig.jpg</cousa>
+              <cousa nome="hamster">hamster.jpg</cousa>
+              <cousa nome="turtle">turtle.jpg</cousa>
+              <cousa nome="goldfish">goldfish.jpg</cousa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>17</tipo>
+              <cabeceira>Pets matching game</cabeceira>
+              <parellas>goldfish.jpg</parellas>
+              <parellas>hamster.jpg</parellas>
+              <parellas>canary.jpg</parellas>
+              <parellas>dog.jpg</parellas>
+              <parellas>turtle.jpg</parellas>
+              <parellas>guineapig.jpg</parellas>
+              <cfondo>00FF00</cfondo>
+              <ctapa>FF8000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>7</tipo>
+              <cabeceira>What do they eat?</cabeceira>
+              <fondocaixa1 trans="35">meat.jpg</fondocaixa1>
+              <fondocaixa2 trans="35">vegetables.jpg</fondocaixa2>
+              <caixa1>Meat</caixa1>
+              <caixa2>Vegetables</caixa2>
+              <mini caixa="1">dog.jpg</mini>
+              <mini caixa="2">rabbit.jpg</mini>
+              <mini caixa="1">turtle.jpg</mini>
+              <mini caixa="2">hamster.jpg</mini>
+              <cfondo>00FF00</cfondo>
+              <cadro>100</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="20" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the Pets word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="canary.jpg">canary</sopa>
+              <sopa enun="hamster.jpg">hamster</sopa>
+              <sopa enun="turtle.jpg">turtle</sopa>
+              <sopa enun="goldfish.jpg">goldfish</sopa>
+              <sopa enun="cat.jpg">cat</sopa>
+              <sopa enun="dog.jpg">dog</sopa>
+              <sopa enun="guineapig.jpg">guineapig</sopa>
+              <sopa enun="parrot.jpg">parrot</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>qwrtplk</fondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>house.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

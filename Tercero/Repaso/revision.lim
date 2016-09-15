@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-10" posy="-50" trans="30">revising-hi.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Great!</correcto>
+        <incorrecto son="" modo="1" >Try again</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>13</tipo>
+              <unir texto="What&apos;s your name?">My name is...</unir>
+              <unir texto="How old are you?">I&apos;m 8 years old</unir>
+              <unir texto="When is your bithday?">It&apos;s on 7th May</unir>
+              <unir texto="Where do you live?">I live in..</unir>
+              <unir texto="Have you got a pet?">I have a dog</unir>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="It is cloudy">cloudy.png</cousa>
+              <cousa nome="It is sunny">sunny.jpg</cousa>
+              <cousa nome="It is rainy">rainy.jpeg</cousa>
+              <cousa nome="It is stormy">stormy.png</cousa>
+              <cousa nome="It is windy">windy.gif</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="It is cloudy">cloudy.png</cousa>
+              <cousa nome="It is sunny">sunny.jpg</cousa>
+              <cousa nome="It is rainy">rainy.jpeg</cousa>
+              <cousa nome="It is stormy">stormy.png</cousa>
+              <cousa nome="It is windy">windy.gif</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <imaxe>windy.gif</imaxe>
+              <texto>What's the weather like?</texto>
+              <resp texto="" valor="0">It is rainy</resp>
+              <resp texto="" valor="1">It is windy</resp>
+              <resp texto="" valor="0">It is sunny</resp>
+              <resp texto="" valor="0">It is cloudy</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>cloudy.png</imaxe>
+              <texto>What's the weather like?</texto>
+              <resp texto="" valor="1">It is cloudy</resp>
+              <resp texto="" valor="0">It is sunny</resp>
+              <resp texto="" valor="0">It is rainy</resp>
+              <resp texto="" valor="0">It is windy</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <imaxe>sunny.jpg</imaxe>
+              <texto>What's the weather like?</texto>
+              <resp texto="" valor="0">It is stormy</resp>
+              <resp texto="" valor="1">It is sunny</resp>
+              <resp texto="" valor="0">It is rainy</resp>
+              <resp texto="" valor="0">It is cloudy</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <imaxe>stormy.png</imaxe>
+              <texto>What's the weather like?</texto>
+              <resp texto="" valor="0">It is rainy</resp>
+              <resp texto="" valor="0">It is windy</resp>
+              <resp texto="" valor="0">It is cloudy</resp>
+              <resp texto="" valor="1">It is stormy</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="stormy.png">stormy</sopa>
+              <sopa enun="sunny.jpg">sunny</sopa>
+              <sopa enun="t-shirt.png">t-shirt</sopa>
+              <sopa enun="windy.gif">windy</sopa>
+              <sopa enun="skirt.jpg">skirt</sopa>
+              <sopa enun="shoes.jpg">shoes</sopa>
+              <sopa enun="cloudy.png">cloudy</sopa>
+              <sopa enun="gloves.jpg">gloves</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="9" >
+              <tipo>7</tipo>
+              <caixa1>Summer</caixa1>
+              <caixa2>Winter</caixa2>
+              <mini caixa="1">t-shirt.png</mini>
+              <mini caixa="2">scarf.jpg</mini>
+              <mini caixa="1">skirt.jpg</mini>
+              <mini caixa="2">jeans.jpg</mini>
+              <mini caixa="1">hat.png</mini>
+              <mini caixa="2">shoes.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>47</tipo>
+              <caixa1>Weather,Clothes,Food,Body</caixa1>
+              <nome caixa="1">Sunny</nome>
+              <nome caixa="4">Arm</nome>
+              <nome caixa="4">Foot</nome>
+              <nome caixa="2">Hat</nome>
+              <nome caixa="3">Salad</nome>
+              <nome caixa="4">Claws</nome>
+        </paxina>
+        <paxina id="11" >
+              <tipo>47</tipo>
+              <caixa1>Food,Clothes,Body,Activities</caixa1>
+              <nome caixa="4">Drawing</nome>
+              <nome caixa="4">Jumping</nome>
+              <nome caixa="2">Skirt</nome>
+              <nome caixa="1">Chicken</nome>
+              <nome caixa="3">Beak</nome>
+              <nome caixa="1">Crisps</nome>
+        </paxina>
+        <paxina id="12" >
+              <tipo>25</tipo>
+              <modo>0</modo>
+              <forma>5</forma>
+              <texto>What time is it?</texto>
+              <reloxo hora="8:30">It&apos;s half past eight</reloxo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>25</tipo>
+              <modo>0</modo>
+              <forma>1</forma>
+              <texto>What time is it?</texto>
+              <reloxo hora="20:00">It&apos;s eight o&apos;clock</reloxo>
+        </paxina>
+        <paxina id="14" >
+              <tipo>25</tipo>
+              <modo>1</modo>
+              <forma>1</forma>
+              <texto>What time is it?</texto>
+              <reloxo hora="21:30">It&apos;s half past nine</reloxo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>25</tipo>
+              <modo>1</modo>
+              <forma>1</forma>
+              <texto>What time is it?</texto>
+              <reloxo hora="10:30">It&apos;s half past ten</reloxo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="coat">coat.jpeg</cousa>
+              <cousa nome="gloves">gloves.jpg</cousa>
+              <cousa nome="jumper">jumper.png</cousa>
+              <cousa nome="hat">hat.png</cousa>
+              <cousa nome="jeans">jeans.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="coat">coat.jpeg</cousa>
+              <cousa nome="gloves">gloves.jpg</cousa>
+              <cousa nome="jumper">jumper.png</cousa>
+              <cousa nome="hat">hat.png</cousa>
+              <cousa nome="jeans">jeans.jpg</cousa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="jeans">jeans.jpg</cousa>
+              <cousa nome="scarf">scarf.jpg</cousa>
+              <cousa nome="shoes">shoes.jpg</cousa>
+              <cousa nome="jumper">jumper.png</cousa>
+              <cousa nome="skirt">skirt.jpg</cousa>
+        </paxina>
+        <paxina id="19" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="jeans">jeans.jpg</cousa>
+              <cousa nome="scarf">scarf.jpg</cousa>
+              <cousa nome="shoes">shoes.jpg</cousa>
+              <cousa nome="jumper">jumper.png</cousa>
+              <cousa nome="skirt">skirt.jpg</cousa>
+        </paxina>
+        <paxina id="20" >
+              <tipo>17</tipo>
+              <parellas>coat.jpeg</parellas>
+              <parellas>t-shirt.png</parellas>
+              <parellas>jeans.jpg</parellas>
+              <parellas>jumper.png</parellas>
+              <parellas>hat.png</parellas>
+              <parellas>scarf.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8000</ctapa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="" texto="jeans">jeans.jpg</parellas>
+              <parellas imaxe="" texto="t-shirt">t-shirt.png</parellas>
+              <parellas imaxe="" texto="scarf">scarf.jpg</parellas>
+              <parellas imaxe="" texto="coat">coat.jpeg</parellas>
+              <parellas imaxe="" texto="skirt">skirt.jpg</parellas>
+              <parellas imaxe="" texto="jumper">jumper.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8000</ctapa>
+              <tempo>20</tempo>
+        </paxina>
+        <paxina id="22" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="beak.gif">beak</sopa>
+              <sopa enun="claws.gif">claws</sopa>
+              <sopa enun="feather.png">feathers</sopa>
+              <sopa enun="hands.jpg">hands</sopa>
+              <sopa enun="leg.jpg">legs</sopa>
+              <sopa enun="scales.jpg">scales</sopa>
+              <sopa enun="tail.png">tail</sopa>
+              <sopa enun="teeth.jpg">teeth</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="23" >
+              <tipo>44</tipo>
+              <cousa nome="It is brown. It has a tail, two hands and two legs. It can climb. It likes bananas" son="">monkey-clipart-4ib5bExig.jpeg</cousa>
+              <cousa nome="It has whiskers and long hair. it hasn&apos;t got scales or wings. It can run. It likes sleeping." son="">lion-clip-art-lion_male_clipart.png</cousa>
+              <cousa nome="It is long. It&apos;s got scales and a long tongue. It hasn&apos;t got legs or arms." son="">Snake-clip-art-free-clipart-images.jpeg</cousa>
+        </paxina>
+        <paxina id="24" >
+              <tipo>44</tipo>
+              <cousa nome="it&apos;s got four legs, a long tail, big teeth and scales. It hasn&apos;t got whiskers or wings. it can swim." son="">crocodile.png</cousa>
+              <cousa nome="It&apos;s got four legs, a tail and two ears. it is black and white. It can run and jump." son="">zebra-clipart-clip-art-zebras-427882.jpg</cousa>
+              <cousa nome="It&apos;s got two wings, a beak and feathers. it hasn&apos;t got teeth or whiskers. it can fly" son="">cute-parrot-clipart-RcAAp87cL.jpeg</cousa>
+        </paxina>
+        <paxina id="25" >
+              <tipo>5</tipo>
+              <imaxe>revising-hi.png</imaxe>
+              <imfondo  posx="0" posy="0">getup.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>get up</resp>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="26" >
+              <tipo>5</tipo>
+              <imaxe>revising-hi.png</imaxe>
+              <imfondo  posx="56" posy="7">dohomework.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>do my homework</resp>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="27" >
+              <tipo>5</tipo>
+              <imaxe>revising-hi.png</imaxe>
+              <imfondo  posx="81" posy="0">getdressed.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>get dressed</resp>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="28" >
+              <tipo>5</tipo>
+              <imaxe>revising-hi.png</imaxe>
+              <imfondo  posx="78" posy="0">gotobed.jpeg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>go to bed</resp>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="29" >
+              <tipo>13</tipo>
+              <unir texto="I wake up ">at half past seven</unir>
+              <unir texto="I have a shower">at eight o&apos;clock</unir>
+              <unir texto="I go to school">at nine o&apos;clock</unir>
+              <unir texto="I go home">at two o&apos;clock</unir>
+              <unir texto="I have luch ">at half past two</unir>
+        </paxina>
+        <paxina id="30" >
+              <tipo>13</tipo>
+              <unir texto="I do my homework">at half past four</unir>
+              <unir texto="I read a book ">at six o&apos;clock</unir>
+              <unir texto="I watch T.V">at half past seven</unir>
+              <unir texto="I have dinner">at nine o&apos;clock</unir>
+              <unir texto="I go to bed ">at ten o&apos;clock</unir>
+        </paxina>
+        <paxina id="31" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="crisps">crisps.jpg</cousa>
+              <cousa nome="juice">juice.jpg</cousa>
+              <cousa nome="salad">salad.png</cousa>
+              <cousa nome="ice cream">ice_cream.jpg</cousa>
+              <cousa nome="chocolate">chocolate.jpg</cousa>
+        </paxina>
+        <paxina id="32" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="crisps">crisps.jpg</cousa>
+              <cousa nome="juice">juice.jpg</cousa>
+              <cousa nome="salad">salad.png</cousa>
+              <cousa nome="ice cream">ice_cream.jpg</cousa>
+              <cousa nome="chocolate">chocolate.jpg</cousa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="chicken">chicken.png</cousa>
+              <cousa nome="eating">eating.jpg</cousa>
+              <cousa nome="smoothie">smoothie.gif</cousa>
+              <cousa nome="fruit salad">fruit_salad.jpg</cousa>
+              <cousa nome="sandwich">sandwich.jpg</cousa>
+        </paxina>
+        <paxina id="34" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="chicken">chicken.png</cousa>
+              <cousa nome="eating">eating.jpg</cousa>
+              <cousa nome="smoothie">smoothie.gif</cousa>
+              <cousa nome="fruit salad">fruit_salad.jpg</cousa>
+              <cousa nome="sandwich">sandwich.jpg</cousa>
+        </paxina>
+        <paxina id="35" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="chocolate">chocolate.jpg</cousa>
+              <cousa nome="fruit salad">fruit_salad.jpg</cousa>
+              <cousa nome="strawberry">strawberry.jpg</cousa>
+              <cousa nome="ice cream">ice_cream.jpg</cousa>
+              <cousa nome="chicken">chicken.png</cousa>
+        </paxina>
+        <paxina id="36" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="chocolate">chocolate.jpg</cousa>
+              <cousa nome="fruit salad">fruit_salad.jpg</cousa>
+              <cousa nome="strawberry">strawberry.jpg</cousa>
+              <cousa nome="ice cream">ice_cream.jpg</cousa>
+              <cousa nome="chicken">chicken.png</cousa>
+        </paxina>
+        <paxina id="37" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="eating.jpg">eating</sopa>
+              <sopa enun="juice.jpg">juice</sopa>
+              <sopa enun="water.jpg">water</sopa>
+              <sopa enun="yoghurt.jpg">yoghurt</sopa>
+              <sopa enun="salad.png">salad</sopa>
+              <sopa enun="drinking.gif">drinking</sopa>
+              <sopa enun="strawberry.jpg">strawberry</sopa>
+              <sopa enun="smoothie.gif">smoothie</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="38" >
+              <tipo>18</tipo>
+              <modo>3</modo>
+              <completa ant="Do you " post="eggs?">like</completa>
+              <completa ant="I" post="like chicken">don&apos;t</completa>
+              <completa ant="Do you like cheese?" post="I like cheese">Yes,</completa>
+              <completa ant="Do you like apples?" post="I don&apos;t like apples">No,</completa>
+              <completa ant="My favourite food " post="pasta">is</completa>
+              <completa ant="I have milk and cereals" post="breakfast">for</completa>
+        </paxina>
+    </libro>
+</lim>

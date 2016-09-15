@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >VERY GOOD!</correcto>
+        <incorrecto son="" modo="1" >SORRY!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>24</tipo>
+              <cabeceira>CAVE</cabeceira>
+              <etiqueta imaxe="cave.png" texto="">1</etiqueta>
+              <etiqueta imaxe="caveboy.png" texto="">0</etiqueta>
+              <etiqueta imaxe="club.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>CAVE BOY</cabeceira>
+              <etiqueta imaxe="cave.png" texto="">0</etiqueta>
+              <etiqueta imaxe="caveboy.png" texto="">1</etiqueta>
+              <etiqueta imaxe="club.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>CLUB</cabeceira>
+              <etiqueta imaxe="cave.png" texto="">0</etiqueta>
+              <etiqueta imaxe="caveboy.png" texto="">0</etiqueta>
+              <etiqueta imaxe="club.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>FIRE</cabeceira>
+              <etiqueta imaxe="cave.png" texto="">0</etiqueta>
+              <etiqueta imaxe="caveboy.png" texto="">0</etiqueta>
+              <etiqueta imaxe="club.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">1</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>ROCKS</cabeceira>
+              <etiqueta imaxe="cave.png" texto="">0</etiqueta>
+              <etiqueta imaxe="caveboy.png" texto="">0</etiqueta>
+              <etiqueta imaxe="club.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">1</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>STICKS</cabeceira>
+              <etiqueta imaxe="cave.png" texto="">0</etiqueta>
+              <etiqueta imaxe="caveboy.png" texto="">0</etiqueta>
+              <etiqueta imaxe="club.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>WOOLLY MAMMOTH</cabeceira>
+              <etiqueta imaxe="mammoth.png" texto="">1</etiqueta>
+              <etiqueta imaxe="dodo.png" texto="">0</etiqueta>
+              <etiqueta imaxe="tiger.png" texto="">0</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>DODO BIRD</cabeceira>
+              <etiqueta imaxe="mammoth.png" texto="">0</etiqueta>
+              <etiqueta imaxe="dodo.png" texto="">1</etiqueta>
+              <etiqueta imaxe="tiger.png" texto="">0</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>SABER-TOOTHED TIGER</cabeceira>
+              <etiqueta imaxe="mammoth.png" texto="">0</etiqueta>
+              <etiqueta imaxe="dodo.png" texto="">0</etiqueta>
+              <etiqueta imaxe="tiger.png" texto="">1</etiqueta>
+              <etiqueta imaxe="fire.png" texto="">0</etiqueta>
+              <etiqueta imaxe="rocks.png" texto="">0</etiqueta>
+              <etiqueta imaxe="sticks.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <parellas>caveboy.png</parellas>
+              <parellas>cave.png</parellas>
+              <parellas>club.jpg</parellas>
+              <parellas>sticks.png</parellas>
+              <parellas>rocks.png</parellas>
+              <parellas>fire.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8040</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>17</tipo>
+              <parellas>caveboy.png</parellas>
+              <parellas>mammoth.png</parellas>
+              <parellas>club.jpg</parellas>
+              <parellas>tiger.png</parellas>
+              <parellas>rocks.png</parellas>
+              <parellas>dodo.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>008000</ctapa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>5</tipo>
+              <imaxe>question-marks-lots.jpg</imaxe>
+              <imfondo  posx="0" posy="0">dodo.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>DODO</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="13" >
+              <tipo>5</tipo>
+              <imaxe>question-marks-lots.jpg</imaxe>
+              <imfondo  posx="0" posy="0">tiger.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>SABER-TOOTHED TIGER</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <imaxe>question-marks-lots.jpg</imaxe>
+              <imfondo  posx="0" posy="0">mammoth.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>WOOLLY MAMMOTH</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>5</tipo>
+              <imaxe>question-marks-lots.jpg</imaxe>
+              <imfondo  posx="43" posy="0">caveboy.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>CAVE BOY</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="16" >
+              <tipo>3</tipo>
+              <imaxe>tiger.png</imaxe>
+              <filas>2</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>32</tipo>
+              <modo></modo>
+              <etiqueta>rocks.png</etiqueta>
+              <etiqueta>mammoth.png</etiqueta>
+              <etiqueta>club.jpg</etiqueta>
+              <etiqueta>dodo.png</etiqueta>
+        </paxina>
+        <paxina id="18" >
+              <tipo>7</tipo>
+              <caixa1>PETS</caixa1>
+              <caixa2>THINGS</caixa2>
+              <mini caixa="1">dodo.png</mini>
+              <mini caixa="2">club.jpg</mini>
+              <mini caixa="1">mammoth.png</mini>
+              <mini caixa="2">rocks.png</mini>
+              <mini caixa="1">tiger.png</mini>
+              <mini caixa="2">sticks.png</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>mammoth.png</completa>
+              <completa>tiger.png</completa>
+              <completa>dodo.png</completa>
+        </paxina>
+        <paxina id="20" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>rocks.png</completa>
+              <completa>sticks.png</completa>
+              <completa>club.jpg</completa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>51</tipo>
+              <valor>6</valor>
+              <peza imaxe="dodo.png">1</peza>
+              <peza imaxe="caveboy.png">2</peza>
+        </paxina>
+    </libro>
+</lim>

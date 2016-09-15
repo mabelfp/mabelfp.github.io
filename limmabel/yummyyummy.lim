@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>80FFFF</corfondo>
+        <corbanda>FFFF00</corbanda>
+        <cornavega>FFFF00</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Yummy, yummy!</titulo>
+        <autor>DCE</autor>
+        <imaxefondo posx="156" posy="82" trans="10">cover.jpg</imaxefondo>
+        <informe>1</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Great!</correcto>
+        <incorrecto son="" modo="1" >Try again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="Chicken">chicken.jpg</cousa>
+              <cousa nome="Bananas">bananas.jpg</cousa>
+              <cousa nome="Apple">apple.jpg</cousa>
+              <cousa nome="Orange juice">juice.jpg</cousa>
+              <cousa nome="Soup">soup.jpg</cousa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>1</tipo>
+              <imaxe>chicken.jpg</imaxe>
+              <resp texto="" valor="1">Chicken</resp>
+              <resp texto="" valor="0">String beans</resp>
+              <resp texto="" valor="0">Spinach</resp>
+              <resp texto="" valor="0">Water</resp>
+        </paxina>
+        <paxina id="3" >
+              <tipo>1</tipo>
+              <imaxe>bread.gif</imaxe>
+              <resp texto="" valor="0">Water</resp>
+              <resp texto="" valor="1">Bread</resp>
+              <resp texto="" valor="0">Apple</resp>
+              <resp texto="" valor="0">Soup</resp>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <imaxe>strawberry-clip-art-strawberry_clip_art_12891.jpg</imaxe>
+              <resp texto="" valor="0">Soup</resp>
+              <resp texto="" valor="1">Strawberry</resp>
+              <resp texto="" valor="0">Bread</resp>
+              <resp texto="" valor="0">Bananas</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>espinacas.jpg</imaxe>
+              <resp texto="" valor="0">Fish</resp>
+              <resp texto="" valor="0">Bread</resp>
+              <resp texto="" valor="0">Chicken</resp>
+              <resp texto="" valor="1">Spinach</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="espinacas.jpg">spinach</sopa>
+              <sopa enun="spaghetti_and_sauce_clip_art_13426.jpg">spaghetti</sopa>
+              <sopa enun="soup.jpg">soup</sopa>
+              <sopa enun="blue_fish_clip_art_6291_-_copia.jpg">fish</sopa>
+              <sopa enun="ice-cream-clip-art-ice-cream-clip-art-1.jpg">icecream</sopa>
+              <sopa enun="beans.gif">greenbeans</sopa>
+              <sopa enun="chicken.jpg">chicken</sopa>
+              <sopa enun="roast_beef.jpg">roastbeef</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="Orange juice">juice.jpg</cousa>
+              <cousa nome="Bananas">bananas.jpg</cousa>
+              <cousa nome="Soup">soup.jpg</cousa>
+              <cousa nome="Apple">apple.jpg</cousa>
+              <cousa nome="Chicken">chicken.jpg</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>7</tipo>
+              <caixa1>Fruit</caixa1>
+              <caixa2>Vegetables</caixa2>
+              <mini caixa="1">bananas.jpg</mini>
+              <mini caixa="2">espinacas.jpg</mini>
+              <mini caixa="1">apple.jpg</mini>
+              <mini caixa="2">beans.gif</mini>
+              <mini caixa="1">strawberry-clip-art-strawberry_clip_art_12891.jpg</mini>
+              <mini caixa="2">bbroccoli.jpg</mini>
+              <cfondo>80FFFF</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>13</tipo>
+              <unir texto="Do you">like fish?</unir>
+              <unir texto="She ">likes apples</unir>
+              <unir texto="I like">orange juice</unir>
+              <unir texto="I don&apos;t ">like ice cream</unir>
+              <unir texto="My favourite">food is roast beef</unir>
+        </paxina>
+        <paxina id="10" >
+              <tipo>10</tipo>
+              <imaxe>yuck.png</imaxe>
+              <pregunta res="No, he doesn&apos;t like string beans">Does he like string beans?</pregunta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>13</tipo>
+              <unir texto="Monday">string beans</unir>
+              <unir texto="Tuesday">spaghetti</unir>
+              <unir texto="Wednesday">soup</unir>
+              <unir texto="Thursday">roast beef</unir>
+              <unir texto="Friday">fresh fish</unir>
+        </paxina>
+        <paxina id="12" >
+              <tipo>13</tipo>
+              <unir texto="Saturday">chicken</unir>
+              <unir texto="Sunday ">ice-cream</unir>
+              <unir texto="you hungry children">come and eat it up</unir>
+        </paxina>
+        <paxina id="13" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="broccoli">bbroccoli.jpg</cousa>
+              <cousa nome="cheese">swiss-basic.jpg</cousa>
+              <cousa nome="eggs">eggs.jpg</cousa>
+              <cousa nome="chips">chips-clipart-Fries_Food_Clipart.png</cousa>
+              <cousa nome="cereals">cereal-clipart-cereal.gif</cousa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="Eggs">eggs.jpg</cousa>
+              <cousa nome="Chips">chips-clipart-Fries_Food_Clipart.png</cousa>
+              <cousa nome="Broccoli">bbroccoli.jpg</cousa>
+              <cousa nome="Cheese">swiss-basic.jpg</cousa>
+              <cousa nome="Cereals">cereal-clipart-cereal.gif</cousa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>1</tipo>
+              <imaxe>bbroccoli.jpg</imaxe>
+              <resp texto="" valor="1">Broccoli</resp>
+              <resp texto="" valor="0">Chips</resp>
+              <resp texto="" valor="0">Cereals</resp>
+              <resp texto="" valor="0">Eggs</resp>
+        </paxina>
+        <paxina id="16" >
+              <tipo>1</tipo>
+              <imaxe>cereal-clipart-cereal.gif</imaxe>
+              <resp texto="" valor="0">Fish</resp>
+              <resp texto="" valor="0">Orange juice</resp>
+              <resp texto="" valor="1">Cereals</resp>
+              <resp texto="" valor="0">Milk</resp>
+        </paxina>
+        <paxina id="17" >
+              <tipo>1</tipo>
+              <imaxe>eggs.jpg</imaxe>
+              <resp texto="" valor="0">Spinach</resp>
+              <resp texto="" valor="1">Eggs</resp>
+              <resp texto="" valor="0">Apple</resp>
+              <resp texto="" valor="0">Chips</resp>
+        </paxina>
+        <paxina id="18" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="eggs.jpg">eggs</sopa>
+              <sopa enun="milk-carton-clip-art-229054.jpg">milk</sopa>
+              <sopa enun="chips-clipart-Fries_Food_Clipart.png">chips</sopa>
+              <sopa enun="blue_fish_clip_art_6291_-_copia.jpg">fish</sopa>
+              <sopa enun="broccoli.jpg">broccoli</sopa>
+              <sopa enun="cereal-clipart-cereal.gif">cereals</sopa>
+              <sopa enun="swiss-basic.jpg">cheese</sopa>
+              <sopa enun="hotdog-clipart-gallery.jpg">hotdog</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="19" >
+              <tipo>7</tipo>
+              <caixa1>Food</caixa1>
+              <caixa2>Drinks</caixa2>
+              <mini caixa="1">eggs.jpg</mini>
+              <mini caixa="1">spaghetti_and_sauce_clip_art_13426.jpg</mini>
+              <mini caixa="1">hotdog-clipart-gallery.jpg</mini>
+              <mini caixa="2">milk-carton-clip-art-229054.jpg</mini>
+              <mini caixa="2">juice.jpg</mini>
+              <mini caixa="2">water.jpg</mini>
+              <cfondo>80FFFF</cfondo>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Meals a day</titulo>
+        <imaxefondo posx="-378" posy="-58" trans="20">meals.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-34">breakflunchdinner.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the word.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="spaghetti">spaghetti.jpg</cousa>
+              <cousa nome="fish and chips">fishandchips.jpg</cousa>
+              <cousa nome="jam">jam.jpg</cousa>
+              <cousa nome="milk">milk.jpg</cousa>
+              <cousa nome="eggs">eggs.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="lunch">lunch.jpg</cousa>
+              <cousa nome="breakfast">breakfast.jpg</cousa>
+              <cousa nome="bread">bread.jpg</cousa>
+              <cousa nome="dinner">dinner.jpg</cousa>
+              <cousa nome="toast">toast.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="cereal">cereal.jpg</cousa>
+              <cousa nome="cookies">cookies.jpg</cousa>
+              <cousa nome="orange juice">orangejuice.jpg</cousa>
+              <cousa nome="ice cream">icecream.jpg</cousa>
+              <cousa nome="pizza">pizza.jpg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the words</cabeceira>
+              <modo>3</modo>
+              <cousa nome="fries">fries.jpg</cousa>
+              <cousa nome="soup">soup.jpg</cousa>
+              <cousa nome="steak">steak.jpg</cousa>
+              <cousa nome="rice">rice.jpg</cousa>
+              <cousa nome="sponge cake">spongecake.jpg</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">eggs.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>eggs</resp>
+              <rdim>55</rdim>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>cereal.jpg</parellas>
+              <parellas>cookies.jpg</parellas>
+              <parellas>fishandchips.jpg</parellas>
+              <parellas>icecream.jpg</parellas>
+              <parellas>orangejuice.jpg</parellas>
+              <parellas>meatballs.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0000FF</ctapa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">spaghetti.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>spaghetti</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>jam.jpg</parellas>
+              <parellas>fruit.jpg</parellas>
+              <parellas>fries.jpg</parellas>
+              <parellas>eggs.jpg</parellas>
+              <parellas>yogurt.jpg</parellas>
+              <parellas>spongecake.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <cabeceira>Word search.</cabeceira>
+              <modo>2</modo>
+              <sopa enun="soup.jpg">soup</sopa>
+              <sopa enun="milk.jpg">milk</sopa>
+              <sopa enun="pizza.jpg">pizza</sopa>
+              <sopa enun="salad.jpg">salad</sopa>
+              <sopa enun="butter.jpg">butter</sopa>
+              <sopa enun="cereal.png">cereal</sopa>
+              <sopa enun="spaghetti.jpg">spaghetti</sopa>
+              <sopa enun="fries.jpg">fries</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>qazwsxedcrfvtgbyhnujmikolp</fondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answers.</cabeceira>
+              <imaxe>fishandchips.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="1">Fish</resp>
+              <resp texto="" valor="0">Meat balls</resp>
+              <resp texto="" valor="1">Chips</resp>
+              <resp texto="" valor="0">Steak</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>fries.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="0">Fish</resp>
+              <resp texto="" valor="1">Fries</resp>
+              <resp texto="" valor="0">Chips</resp>
+              <resp texto="" valor="0">Steak</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>steak.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="0">Fish</resp>
+              <resp texto="" valor="0">Water</resp>
+              <resp texto="" valor="0">Chips</resp>
+              <resp texto="" valor="1">Steak</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>water.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="1">Water</resp>
+              <resp texto="" valor="0">Orange juice</resp>
+              <resp texto="" valor="0">Apple juice</resp>
+              <resp texto="" valor="0">Coke</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>7</tipo>
+              <caixa1>Breakfast</caixa1>
+              <caixa2>Lunch</caixa2>
+              <mini caixa="1">toast.jpg</mini>
+              <mini caixa="1">orangejuice.jpg</mini>
+              <mini caixa="1">jam.jpg</mini>
+              <mini caixa="2">steak.jpg</mini>
+              <mini caixa="2">meatballs.jpg</mini>
+              <mini caixa="2">pizza.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word.</cabeceira>
+              <imaxe>spongecake.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sponge cake</resp>
+              <modo>0</modo>
+              <forma>1</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the correct word.</cabeceira>
+              <texto><![CDATA[What's for breakfast?
+What's for *breakfast?
+Toast and cereal. *Toast and *cereal.
+What's for lunch?
+What's for *lunch?
+Pizza and *ice *cream. *Pizza and ice cream.
+What's for *dinner?
+What's for dinner?
+*Bread and soup. Bread and *soup.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>20</tipo>
+              <cabeceira>Choose the right word.</cabeceira>
+              <imaxe>fruit.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="70" posy="220">orange</etiqueta>
+              <etiqueta posx="271" posy="185">banana</etiqueta>
+              <etiqueta posx="124" posy="266">lemon</etiqueta>
+              <etiqueta posx="363" posy="239">grapes</etiqueta>
+              <etiqueta posx="133" posy="146">pineapple</etiqueta>
+              <etiqueta posx="220" posy="107">watermelon</etiqueta>
+        </paxina>
+        <paxina id="19" >
+              <tipo>13</tipo>
+              <cabeceira>Join the sentences</cabeceira>
+              <unir texto="What&apos;s for breakfast?">Toast and cereal.</unir>
+              <unir texto="What&apos;s for lunch?">Pizza and ice cream.</unir>
+              <unir texto="What&apos;s for dinner?">Meat balls and salad.</unir>
+        </paxina>
+        <paxina id="20" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the food you eat for LUNCH.</cabeceira>
+              <etiqueta imaxe="fishandchips.jpg" texto="Fish and chips">1</etiqueta>
+              <etiqueta imaxe="jam.jpg" texto="Jam">0</etiqueta>
+              <etiqueta imaxe="orangejuice.jpg" texto="Orange juice">0</etiqueta>
+              <etiqueta imaxe="meatballs.jpg" texto="Meat balls">1</etiqueta>
+              <etiqueta imaxe="steak.jpg" texto="Steak">1</etiqueta>
+              <etiqueta imaxe="toast.jpg" texto="Toast">0</etiqueta>
+              <cfondo>FF80FF</cfondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the food you eat for BREAKFAST.</cabeceira>
+              <etiqueta imaxe="icecream.jpg" texto="Ice cream">0</etiqueta>
+              <etiqueta imaxe="jam.jpg" texto="Jam">1</etiqueta>
+              <etiqueta imaxe="butter.jpg" texto="Butter">1</etiqueta>
+              <etiqueta imaxe="milk.jpg" texto="Milk">1</etiqueta>
+              <etiqueta imaxe="fruit.jpg" texto="Fruit">1</etiqueta>
+              <etiqueta imaxe="bacon.jpg" texto="Bacon">1</etiqueta>
+              <cfondo>8080C0</cfondo>
+        </paxina>
+        <paxina id="22" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the food you eat for DINNER.</cabeceira>
+              <etiqueta imaxe="bread.jpg" texto="Bread">1</etiqueta>
+              <etiqueta imaxe="water.jpg" texto="Water">1</etiqueta>
+              <etiqueta imaxe="eggs.jpg" texto="Eggs">1</etiqueta>
+              <etiqueta imaxe="cereal.jpg" texto="Cereal">0</etiqueta>
+              <etiqueta imaxe="fries.jpg" texto="Fries">1</etiqueta>
+              <etiqueta imaxe="salad.jpg" texto="Salad">1</etiqueta>
+              <cfondo>FF8080</cfondo>
+        </paxina>
+        <paxina id="23" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>meatballs.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">meat balls</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <texto><![CDATA[It's orange and you drink it.]]></texto>
+              <resp texto="">orange juice</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>bld.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="10" posy="152">toast</etiqueta>
+              <etiqueta posx="12" posy="247">cereal</etiqueta>
+              <etiqueta posx="114" posy="99">sandwich</etiqueta>
+              <etiqueta posx="357" posy="175">fish</etiqueta>
+              <etiqueta posx="401" posy="17">fruit</etiqueta>
+              <etiqueta posx="289" posy="106">water</etiqueta>
+        </paxina>
+        <paxina id="26" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>breakflunchdinner.jpg</imaxe>
+              <imfondo  trans="15">breakflunchdinner.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >SORRY!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="84" posy="-61">family.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>Father, DAD, DADDY</cabeceira>
+              <etiqueta imaxe="dad.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="mum.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="brother.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>Mother, MUM, MUMMY</cabeceira>
+              <etiqueta imaxe="dad.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mum.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="brother.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>Sister</cabeceira>
+              <etiqueta imaxe="dad.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mum.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="brother.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>Brother</cabeceira>
+              <etiqueta imaxe="dad.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mum.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="brother.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>Grandma, GRANNY, GRANDMOTHER</cabeceira>
+              <etiqueta imaxe="dad.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="aunt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="uncle.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Grandpa, GRANDFATHER</cabeceira>
+              <etiqueta imaxe="dad.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="aunt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="uncle.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>Baby</cabeceira>
+              <etiqueta imaxe="baby.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="aunt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="uncle.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>Aunt</cabeceira>
+              <etiqueta imaxe="baby.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="aunt.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="uncle.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>24</tipo>
+              <cabeceira>Uncle</cabeceira>
+              <etiqueta imaxe="baby.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="aunt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="uncle.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>24</tipo>
+              <cabeceira>Cousin</cabeceira>
+              <etiqueta imaxe="cousin.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="aunt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sister.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="uncle.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandma.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grandpa.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>sister.jpg</parellas>
+              <parellas>brother.jpg</parellas>
+              <parellas>grandma.jpg</parellas>
+              <parellas>dad.jpg</parellas>
+              <parellas>mum.jpg</parellas>
+              <parellas>grandpa.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>11</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>3</modo>
+              <cousa nome="father, dad, daddy">dad.jpg</cousa>
+              <cousa nome="mother, mum, mummy">mum.jpg</cousa>
+              <cousa nome="brother">brother.jpg</cousa>
+              <cousa nome="baby">baby.jpg</cousa>
+              <cousa nome="sister">sister.jpg</cousa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>11</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>3</modo>
+              <cousa nome="grandma, granny, grandmother">grandma.jpg</cousa>
+              <cousa nome="grandpa, grandfather">grandpa.jpg</cousa>
+              <cousa nome="aunt">aunt.jpg</cousa>
+              <cousa nome="uncle">uncle.jpg</cousa>
+              <cousa nome="cousin">cousin.jpg</cousa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>aunt.jpg</parellas>
+              <parellas>uncle.jpg</parellas>
+              <parellas>baby.jpg</parellas>
+              <parellas>cousin.jpg</parellas>
+              <parellas>grandma.jpg</parellas>
+              <parellas>grandpa.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF00FF</ctapa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>aunt.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">aunt</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>brother.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">brother</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>cousin.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">cousin</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>dad.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">father  dad  daddy</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>grandma.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">grandmother  grandma   granny</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>grandpa.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">grandfather  grandpa   </resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>mum.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">mother   mum   mummy</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>sister.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sister</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <cabeceira>GUESS</cabeceira>
+              <imaxe>uncle.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">uncle</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>family.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="196" posy="20">FATHER, DAD, DADDY</etiqueta>
+              <etiqueta posx="269" posy="99">MOTHER, MUM, MUMMY</etiqueta>
+              <etiqueta posx="208" posy="242">SISTER</etiqueta>
+              <etiqueta posx="278" posy="282">BROTHER</etiqueta>
+              <etiqueta posx="333" posy="138">UNCLE</etiqueta>
+              <etiqueta posx="400" posy="210">AUNT</etiqueta>
+        </paxina>
+        <paxina id="26" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="GRANDMOTHER">GRANDMA</unir>
+              <unir texto="GRANDFATHER">GRANDPA</unir>
+              <unir texto="FATHER">DAD</unir>
+              <unir texto="MOTHER">MUM</unir>
+        </paxina>
+        <paxina id="27" >
+              <tipo>14</tipo>
+              <cabeceira>Match</cabeceira>
+              <peza imaxe="aunt.jpg" texto="" son="">uncle.jpg</peza>
+              <peza imaxe="brother.jpg" texto="" son="">sister.jpg</peza>
+              <peza imaxe="grandma.jpg" texto="" son="">grandpa.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="28" >
+              <tipo>7</tipo>
+              <cabeceira>Match</cabeceira>
+              <caixa1>FEMALE</caixa1>
+              <caixa2>MALE</caixa2>
+              <mini caixa="1">grandma.jpg</mini>
+              <mini caixa="2">brother.jpg</mini>
+              <mini caixa="1">mum.jpg</mini>
+              <mini caixa="2">dad.jpg</mini>
+              <mini caixa="1">sister.jpg</mini>
+              <mini caixa="2">uncle.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="29" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="" texto="UNCLE">uncle.jpg</parellas>
+              <parellas imaxe="" texto="SISTER">sister.jpg</parellas>
+              <parellas imaxe="" texto="MOTHER, MUM, MUMMY">mum.jpg</parellas>
+              <parellas imaxe="" texto="GRANNY, GRANDMOTHER">grandma.jpg</parellas>
+              <parellas imaxe="" texto="COUSIN">cousin.jpg</parellas>
+              <parellas imaxe="" texto="BABY">baby.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>C0C0C0</ctapa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="aunt.jpg">aunt</sopa>
+              <sopa enun="brother.jpg">brother</sopa>
+              <sopa enun="dad.jpg">dad</sopa>
+              <sopa enun="grandma.jpg">grandma</sopa>
+              <sopa enun="baby.jpg">baby</sopa>
+              <sopa enun="cousin.jpg">cousin</sopa>
+              <sopa enun="family.jpg">family</sopa>
+              <sopa enun="uncle.jpg">uncle</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="31" >
+              <tipo>3</tipo>
+              <cabeceira>Puzzle</cabeceira>
+              <imaxe>family.jpg</imaxe>
+              <imfondo  trans="15">family.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

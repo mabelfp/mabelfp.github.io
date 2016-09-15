@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >GREAT!</correcto>
+        <incorrecto son="" modo="1" >SORRY!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="67" posy="-8">TITLE2.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>GOLDILOCKS</cabeceira>
+              <etiqueta imaxe="goldilocks.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bowl.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bed.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bearhouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="chair.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="3bears.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>BEAR HOUSE</cabeceira>
+              <etiqueta imaxe="goldilocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bowl.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bed.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bearhouse.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="chair.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="3bears.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>BOWL</cabeceira>
+              <etiqueta imaxe="goldilocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bowl.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bed.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bearhouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="chair.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="3bears.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>BED</cabeceira>
+              <etiqueta imaxe="goldilocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bowl.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bed.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bearhouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="chair.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="3bears.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>CHAIR</cabeceira>
+              <etiqueta imaxe="goldilocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bowl.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bed.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bearhouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="chair.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="3bears.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>BEAR FAMILY  THREE BEARS</cabeceira>
+              <etiqueta imaxe="goldilocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bowl.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bed.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bearhouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="chair.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="3bears.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>5</tipo>
+              <imaxe>Animated-swirling-question-mark-picture-moving.gif</imaxe>
+              <imfondo  posx="245" posy="69">daddy.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="9" >
+              <tipo>5</tipo>
+              <imaxe>Animated-swirling-question-mark-picture-moving.gif</imaxe>
+              <imfondo  posx="28" posy="2">mummy.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <imaxe>Animated-swirling-question-mark-picture-moving.gif</imaxe>
+              <imfondo  posx="196" posy="97">baby.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <imaxe>Animated-swirling-question-mark-picture-moving.gif</imaxe>
+              <imfondo  posx="122" posy="0">goldilocks.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>35</tipo>
+              <forma>0</forma>
+              <completa>goldilocks.jpg</completa>
+              <completa>bowl.jpg</completa>
+              <completa>chair.jpg</completa>
+              <completa>bed.jpg</completa>
+              <completa>3bears.jpg</completa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>17</tipo>
+              <parellas>chair.jpg</parellas>
+              <parellas>bed.jpg</parellas>
+              <parellas>mummy.jpg</parellas>
+              <parellas>bowl.jpg</parellas>
+              <parellas>baby.jpg</parellas>
+              <parellas>daddy.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>17</tipo>
+              <parellas>chair.jpg</parellas>
+              <parellas>bed.jpg</parellas>
+              <parellas>bearhouse.jpg</parellas>
+              <parellas>bowl.jpg</parellas>
+              <parellas>3bears.jpg</parellas>
+              <parellas>goldilocks.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FFFF</ctapa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>3</tipo>
+              <imaxe>TITLE2.jpg</imaxe>
+              <imfondo  trans="15">TITLE2.jpg</imfondo>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

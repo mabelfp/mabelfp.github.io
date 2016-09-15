@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-282" posy="-26" trans="15">numbers.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the correct word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="eleven">11.jpg</cousa>
+              <cousa nome="twelve">12.jpg</cousa>
+              <cousa nome="thirteen">13.jpg</cousa>
+              <cousa nome="fourteen">14.jpg</cousa>
+              <cousa nome="fifteen">15.jpg</cousa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="sixteen">16.jpg</cousa>
+              <cousa nome="seventeen">17.jpg</cousa>
+              <cousa nome="eighteen">18.jpg</cousa>
+              <cousa nome="nineteen">19.jpg</cousa>
+              <cousa nome="twenty">20.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the correct word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="thirty">30.jpg</cousa>
+              <cousa nome="forty">40.jpg</cousa>
+              <cousa nome="fifty">50.jpg</cousa>
+              <cousa nome="sixty">60.jpg</cousa>
+              <cousa nome="seventy">70.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>12.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">twelve</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>20.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">twenty</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>40.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">forty</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <texto><![CDATA[One - two - *three -  four -  five - six - seven - eight - nine - ten  
+eleven  - *twelve  -  thirteen  -  fourteen  -  *fifteen  -  sixteen -
+seventeen  -  *eighteen  -  nineteen -  
+*twenty  -  twenty  one  -  twenty two  - twenty three...
+*thirty    -  thirty one   -  thirty two  -  thirty three ...
+*forty  -  forty one  -  forty two  -  forty three  -  forty four...
+*fifty  -  fifty one  - fifty two  - fifty three  -  fifty four  -  fifty ...
+*sixty  -  sixty one  - sixty two  -  sixty three...
+*seventy  -  seventy one  - seventy two  -  seventy three ...]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>36.jpg</parellas>
+              <parellas>68.jpg</parellas>
+              <parellas>53.jpg</parellas>
+              <parellas>47.jpg</parellas>
+              <parellas>39.jpg</parellas>
+              <parellas>62.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF00FF</ctapa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>20.jpg</parellas>
+              <parellas>40.jpg</parellas>
+              <parellas>70.jpg</parellas>
+              <parellas>30.jpg</parellas>
+              <parellas>50.jpg</parellas>
+              <parellas>60.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="">11.jpg</cousa>
+              <cousa nome="">13.jpg</cousa>
+              <cousa nome="">19.jpg</cousa>
+              <cousa nome="">12.jpg</cousa>
+              <cousa nome="">16.jpg</cousa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="twenty five">25.jpg</cousa>
+              <cousa nome="fifty one">51.jpg</cousa>
+              <cousa nome="sixty eight">68.jpg</cousa>
+              <cousa nome="thirty nine">39.jpg</cousa>
+              <cousa nome="forty six">46.jpg</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the even numbers</cabeceira>
+              <etiqueta imaxe="16.jpg" texto="sixteen">1</etiqueta>
+              <etiqueta imaxe="53.jpg" texto="fifty three">0</etiqueta>
+              <etiqueta imaxe="70.jpg" texto="seventy">1</etiqueta>
+              <etiqueta imaxe="36.jpg" texto="thirty six">1</etiqueta>
+              <etiqueta imaxe="47.jpg" texto="forty seven">0</etiqueta>
+              <etiqueta imaxe="25.jpg" texto="twenty five">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>4</tipo>
+              <cabeceira>Sove the Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="25.jpg">twentyfive</sopa>
+              <sopa enun="30.jpg">thirty</sopa>
+              <sopa enun="53.jpg">fiftythree</sopa>
+              <sopa enun="62.jpg">sixtytwo</sopa>
+              <sopa enun="16.jpg">sixteen</sopa>
+              <sopa enun="47.jpg">fortyseven</sopa>
+              <sopa enun="12.jpg">twelve</sopa>
+              <sopa enun="70.jpg">seventy</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="14" >
+              <tipo>10</tipo>
+              <cabeceira>Answer with the correct number</cabeceira>
+              <imaxe>addition.jpg</imaxe>
+              <pregunta res="Forty six">How much is it twenty and twenty six?</pregunta>
+              <pregunta res="Sixty seven">How much is it sixteen and fifty one?</pregunta>
+              <pregunta res="Seventy">How much is it thirty and forty?</pregunta>
+              <pregunta res="Twenty nine">How much is it seventeen and twelve?</pregunta>
+        </paxina>
+        <paxina id="15" >
+              <tipo>10</tipo>
+              <cabeceira>Answer with the right number</cabeceira>
+              <imaxe>restas.jpg</imaxe>
+              <pregunta res="Thirty five">How much is it forty eight minus thirteen?</pregunta>
+              <pregunta res="Forty six">How much is it sixty six minus twenty?</pregunta>
+              <pregunta res="Forty">How much is it fifty nine minus nineteen?</pregunta>
+              <pregunta res="Eight">How much is is twenty minus twelve?</pregunta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the number</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="45" posy="9">39.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>thirty nine</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="17" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the number</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="43" posy="5">47.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>forty seven</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="18" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the number</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="35" posy="5">53.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>fifty three</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="19" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the number</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="59" posy="10">62.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>sixty two</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="20" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>numbers.jpg</imaxe>
+              <imfondo  trans="15">numbers.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

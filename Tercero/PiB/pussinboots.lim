@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="85" posy="-117">pussinboots1.jpg</imaxe>
+              <texto posx="32" posy="299" ancho="701" largo="287"><![CDATA[
+<p align="left">
+<font color="#080000" face="Lucida Handwriting" size="54">Puss in Boots</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="She is the Princess">princess.jpg</cousa>
+              <cousa nome="He is Puss in boots">pussinboots.jpg</cousa>
+              <cousa nome="She is the Queen">queen.jpg</cousa>
+              <cousa nome="He is John">john.jpg</cousa>
+              <cousa nome="He is the King">king.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="She is the Princess">princess.jpg</cousa>
+              <cousa nome="He is Puss in boots">pussinboots.jpg</cousa>
+              <cousa nome="She is the Queen">queen.jpg</cousa>
+              <cousa nome="He is John">john.jpg</cousa>
+              <cousa nome="He is the King">king.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>13</tipo>
+              <cabeceira>Choose the right ending...</cabeceira>
+              <unir texto="The King ">is wearing a crown.</unir>
+              <unir texto="John&apos;s father ">is poor and old.</unir>
+              <unir texto="The Princess">is young and beautiful</unir>
+              <unir texto="The Queen">is rich and old.</unir>
+              <unir texto="Puss in boots">is a clever cat.</unir>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>king.jpg</imaxe>
+              <texto>What is the King wearing?</texto>
+              <resp texto="" valor="0">He is wearing a crown and jeans.</resp>
+              <resp texto="" valor="0">She is wearing a crown and boots.</resp>
+              <resp texto="" valor="1">He is wearing a crown and boots.</resp>
+              <resp texto="" valor="0">She is wearing a crown and a dress.</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>queen.jpg</imaxe>
+              <texto>What is the Queen wearing?</texto>
+              <resp texto="" valor="1">She is wearing a crown and a blue dress.</resp>
+              <resp texto="" valor="0">She is wearing a crown and boots.</resp>
+              <resp texto="" valor="0">She is wearing a crown and shoes.</resp>
+              <resp texto="" valor="0">She is wearing a crown and a dress.</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>princess.jpg</imaxe>
+              <texto>What is the Princess wearing?</texto>
+              <resp texto="" valor="0">She is wearing a crown and a blue dress.</resp>
+              <resp texto="" valor="0">She is wearing a crown and boots.</resp>
+              <resp texto="" valor="0">She is wearing a crown and shoes.</resp>
+              <resp texto="" valor="1">She is wearing a crown and a yellow dress.</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>pussinboots.jpg</imaxe>
+              <texto>What is Puss in boots wearing?</texto>
+              <resp texto="" valor="0">She is wearing a hat and a blue coat.</resp>
+              <resp texto="" valor="1">He is wearing a very big hat and boots.</resp>
+              <resp texto="" valor="0">He is wearing a crown and a very big hat.</resp>
+              <resp texto="" valor="0">She is wearing boots and a coat.</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>john.jpg</imaxe>
+              <texto>What is John wearing?</texto>
+              <resp texto="" valor="0">She is wearing a hat and a blue coat.</resp>
+              <resp texto="" valor="0">He is wearing a sweater and shoes.</resp>
+              <resp texto="" valor="1">He is wearing a yellow T-shirt and blue jeans.</resp>
+              <resp texto="" valor="0">He is wearing a shirt and jeans.</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <cabeceira>Word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="father.jpg">father</sopa>
+              <sopa enun="john.jpg">Jonh</sopa>
+              <sopa enun="king.jpg">king</sopa>
+              <sopa enun="PRINCE.jpg">prince</sopa>
+              <sopa enun="crown.jpg">crown</sopa>
+              <sopa enun="princess.jpg">princess</sopa>
+              <sopa enun="pussinboots.jpg">pussinboots</sopa>
+              <sopa enun="queen.jpg">queen</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>father.jpg</imaxe>
+              <texto>How is John's father?</texto>
+              <resp texto="" valor="1">He is old and poor.</resp>
+              <resp texto="" valor="0">He is old and rich.</resp>
+              <resp texto="" valor="0">He is clever and old.</resp>
+              <resp texto="" valor="0">He is handsome and clever.</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>john.jpg</imaxe>
+              <texto>How is John?</texto>
+              <resp texto="" valor="1">He is young and handsome.</resp>
+              <resp texto="" valor="0">He is beautiful and young.</resp>
+              <resp texto="" valor="0">She is handsome and young.</resp>
+              <resp texto="" valor="0">He is handsome and clever.</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>king.jpg</imaxe>
+              <texto>How is the King?</texto>
+              <resp texto="" valor="1">He is rich and old.</resp>
+              <resp texto="" valor="0">He is clever and poor.</resp>
+              <resp texto="" valor="0">She is rich and old.</resp>
+              <resp texto="" valor="0">He is handsome and poor.</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>princess.jpg</imaxe>
+              <texto>How is the Princess?</texto>
+              <resp texto="" valor="1">She is young and beautiful.</resp>
+              <resp texto="" valor="0">He is clever and poor.</resp>
+              <resp texto="" valor="1">She is rich and young.</resp>
+              <resp texto="" valor="0">He is young a beautiful.</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer.</cabeceira>
+              <imaxe>pussinboots.jpg</imaxe>
+              <texto>How is Puss in boots?</texto>
+              <resp texto="" valor="0">She is a clever cat.</resp>
+              <resp texto="" valor="1">He is a clever cat.</resp>
+              <resp texto="" valor="0">She is a clever and big cat.</resp>
+              <resp texto="" valor="0">He is clever and old cat.</resp>
+        </paxina>
+        <paxina id="16" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>crown.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">crown</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>palace.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">palace</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>rich.gif</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">rich</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word.</cabeceira>
+              <texto><![CDATA[
+
+I am Puss in boots, I am a *clever cat.
+She is the *Princess, she is young and beautiful.
+He is the King, he is *rich.
+She is the Queen, she is wearing a *crown.
+He is John, he is young and *handsome.
+He is John's father, he is old and *poor.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>7</tipo>
+              <cabeceira>Choose:  OLD   or   YOUNG</cabeceira>
+              <caixa1>OLD</caixa1>
+              <caixa2>YOUNG</caixa2>
+              <mini caixa="1">father.jpg</mini>
+              <mini caixa="2">john.jpg</mini>
+              <mini caixa="1">king.jpg</mini>
+              <mini caixa="2">princess.jpg</mini>
+              <mini caixa="1">queen.jpg</mini>
+              <mini caixa="2">pussinboots.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>24</tipo>
+              <cabeceira>Who is young and handsome?</cabeceira>
+              <etiqueta imaxe="father.jpg" texto="John&apos;s Father">0</etiqueta>
+              <etiqueta imaxe="PRINCE.jpg" texto="The Prince">1</etiqueta>
+              <etiqueta imaxe="queen.jpg" texto="The Queen">0</etiqueta>
+              <etiqueta imaxe="princess.jpg" texto="The Princess">0</etiqueta>
+              <etiqueta imaxe="pussinboots.jpg" texto="Puss in boots">0</etiqueta>
+              <etiqueta imaxe="king.jpg" texto="The King">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="22" >
+              <tipo>24</tipo>
+              <cabeceira>Who is old and poor?</cabeceira>
+              <etiqueta imaxe="father.jpg" texto="John&apos;s Father">1</etiqueta>
+              <etiqueta imaxe="PRINCE.jpg" texto="The Prince">0</etiqueta>
+              <etiqueta imaxe="queen.jpg" texto="The Queen">0</etiqueta>
+              <etiqueta imaxe="princess.jpg" texto="The Princess">0</etiqueta>
+              <etiqueta imaxe="pussinboots.jpg" texto="Puss in boots">0</etiqueta>
+              <etiqueta imaxe="king.jpg" texto="The King">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="23" >
+              <tipo>24</tipo>
+              <cabeceira>Who is wearing a blue dress and a crown?</cabeceira>
+              <etiqueta imaxe="father.jpg" texto="John&apos;s Father">0</etiqueta>
+              <etiqueta imaxe="PRINCE.jpg" texto="The Prince">0</etiqueta>
+              <etiqueta imaxe="queen.jpg" texto="The Queen">1</etiqueta>
+              <etiqueta imaxe="princess.jpg" texto="The Princess">0</etiqueta>
+              <etiqueta imaxe="pussinboots.jpg" texto="Puss in boots">0</etiqueta>
+              <etiqueta imaxe="king.jpg" texto="The King">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="24" >
+              <tipo>24</tipo>
+              <cabeceira>Who is young and beautiful?</cabeceira>
+              <etiqueta imaxe="father.jpg" texto="John&apos;s Father">0</etiqueta>
+              <etiqueta imaxe="PRINCE.jpg" texto="The Prince">0</etiqueta>
+              <etiqueta imaxe="queen.jpg" texto="The Queen">0</etiqueta>
+              <etiqueta imaxe="princess.jpg" texto="The Princess">1</etiqueta>
+              <etiqueta imaxe="pussinboots.jpg" texto="Puss in boots">0</etiqueta>
+              <etiqueta imaxe="king.jpg" texto="The King">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="25" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>crown.jpg</parellas>
+              <parellas>PRINCE.jpg</parellas>
+              <parellas>princess.jpg</parellas>
+              <parellas>palace.jpg</parellas>
+              <parellas>pussinboots.jpg</parellas>
+              <parellas>king.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF0000</ctapa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <caixa1>RICH</caixa1>
+              <caixa2>POOR</caixa2>
+              <mini caixa="2">father.jpg</mini>
+              <mini caixa="2">john.jpg</mini>
+              <mini caixa="1">princess.jpg</mini>
+              <mini caixa="1">queen.jpg</mini>
+              <mini caixa="1">PRINCE.jpg</mini>
+              <mini caixa="2">pussinboots.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="27" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <caixa1>BEAUTIFUL</caixa1>
+              <caixa2>HANDSOME</caixa2>
+              <mini caixa="2">father.jpg</mini>
+              <mini caixa="2">john.jpg</mini>
+              <mini caixa="1">princess.jpg</mini>
+              <mini caixa="1">queen.jpg</mini>
+              <mini caixa="2">PRINCE.jpg</mini>
+              <mini caixa="2">king.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="28" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the character</cabeceira>
+              <imaxe>interrogacion.gif</imaxe>
+              <imfondo  posx="22" posy="8">pussinboots.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>Puss in boots</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="29" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>interrogacion.gif</imaxe>
+              <imfondo  posx="82" posy="95">crown.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>crown</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="30" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle.</cabeceira>
+              <imaxe>pussinboots2.jpg</imaxe>
+              <imfondo  trans="15">pussinboots2.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

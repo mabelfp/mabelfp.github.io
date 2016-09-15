@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-102" posy="-4" trans="80">fondo.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Great job!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>4</tipo>
+              <cabeceira>On Holiday. Word Search.</cabeceira>
+              <modo>2</modo>
+              <sopa enun="aquarium.jpg">aquarium</sopa>
+              <sopa enun="beach.jpg">beach</sopa>
+              <sopa enun="sp.jpg">pool</sopa>
+              <sopa enun="waterpark.jpg">waterpark</sopa>
+              <sopa enun="funfare.jpg">funfair</sopa>
+              <sopa enun="icerink.jpg">icerink</sopa>
+              <sopa enun="park.jpg">park</sopa>
+              <sopa enun="zoo.jpg">zoo</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+    </libro>
+</lim>

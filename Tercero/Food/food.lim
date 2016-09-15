@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>0000FF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>FFFFFF</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="106" posy="-3">food3rd.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Write the names of the food</cabeceira>
+              <modo>1</modo>
+              <cousa nome="chips">chips.jpg</cousa>
+              <cousa nome="ice cream">icecream.jpg</cousa>
+              <cousa nome="fish">fish.jpg</cousa>
+              <cousa nome="orange juice">Imagen1.jpg</cousa>
+              <cousa nome="macaroni">macaroni.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words and the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="rice">rice.jpg</cousa>
+              <cousa nome="salad">salad.jpg</cousa>
+              <cousa nome="sausages">sausages.jpg</cousa>
+              <cousa nome="fork">fork.jpg</cousa>
+              <cousa nome="knife">knife.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>29</tipo>
+              <cabeceira>Put the words in the right place.</cabeceira>
+              <texto><![CDATA[I *like macaroni, 
+macaroni, 
+macaroni,
+I like *macaroni 
+and I love ice cream.
+
+I don't like *fish and chips, 
+fish and *chips,
+fish and chips,
+I don't like fish and chips
+but I love ice *cream]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>knife.jpg</parellas>
+              <parellas>fork.jpg</parellas>
+              <parellas>Tablecloth.JPG</parellas>
+              <parellas>spoon.jpg</parellas>
+              <parellas>glass.jpg</parellas>
+              <parellas>plate.jpg</parellas>
+              <cfondo>0000A0</cfondo>
+              <ctapa>FF00FF</ctapa>
+              <tempo>30</tempo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>salad.jpg</parellas>
+              <parellas>fish.jpg</parellas>
+              <parellas>sausages.jpg</parellas>
+              <parellas>icecream.jpg</parellas>
+              <parellas>macaroni.jpg</parellas>
+              <parellas>rice.jpg</parellas>
+              <cfondo>0000A0</cfondo>
+              <ctapa>00FF00</ctapa>
+              <tempo>30</tempo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word for the right place.</cabeceira>
+              <texto><![CDATA[Put the *knife on the table.
+Put the fork on the *table.
+knife, fork, knife, fork.
+The *plate on the table.
+Put the *spoon on the table
+And the *glass on the table
+And now it's time to *lunch.
+Oh, I'm very *hungry! Oh, I'm very hungry!
+Oh, I'm very hungry!
+Can I have some more?
+Yippee.]]></texto>
+              <ctexto>FFFFFF</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>20</tipo>
+              <cabeceira>Put the words in the right number.</cabeceira>
+              <imaxe>setthetable.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="34" posy="135">tablecloth</etiqueta>
+              <etiqueta posx="93" posy="105">fork</etiqueta>
+              <etiqueta posx="158" posy="121">plate</etiqueta>
+              <etiqueta posx="241" posy="116">spoon</etiqueta>
+              <etiqueta posx="278" posy="105">knife</etiqueta>
+              <etiqueta posx="137" posy="24">glass</etiqueta>
+        </paxina>
+        <paxina id="9" >
+              <tipo>30</tipo>
+              <cabeceira>Write the correct words.</cabeceira>
+              <imaxe posx="90" posy="51">setthetable.jpg</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="208" posy="182">plate</etiqueta>
+              <etiqueta posx="280" posy="148">spoon</etiqueta>
+              <etiqueta posx="346" posy="99">knife</etiqueta>
+              <etiqueta posx="219" posy="57">glass</etiqueta>
+              <etiqueta posx="85" posy="144">fork</etiqueta>
+              <etiqueta posx="178" posy="232">tablecloth</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>10</tipo>
+              <cabeceira>True or false.</cabeceira>
+              <imaxe>fruit.jpg</imaxe>
+              <pregunta res="False">Cheese comes  from grains.</pregunta>
+              <pregunta res="True">Butter comes from animals.</pregunta>
+              <pregunta res="True">Vegetables and fruit come from plants.</pregunta>
+              <pregunta res="True">Bread and rice come from grains.</pregunta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <cabeceira>Choose my menu for today.</cabeceira>
+              <imaxe>menu.jpg</imaxe>
+              <texto>My menu.
+First Course.        I like salad but I don't like macaroni.
+Second Course.   I like chicken but I don't like fish.
+Dessert.               I like apple but I don't like ice cream.
+What am I going to eat?</texto>
+              <resp texto="" valor="1">Salad</resp>
+              <resp texto="" valor="1">Chicken</resp>
+              <resp texto="" valor="1">Apple</resp>
+              <resp texto="" valor="0">Ice cream</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>7</tipo>
+              <cabeceira>What food is for a first o second course and what for dessert?</cabeceira>
+              <fondocaixa1 trans="50">firstcourse.jpg</fondocaixa1>
+              <fondocaixa2 trans="50">desserts.jpg</fondocaixa2>
+              <caixa1>First  Course, Second Course</caixa1>
+              <caixa2>Dessert</caixa2>
+              <mini caixa="2">icecream.jpg</mini>
+              <mini caixa="2">yoghurt.jpg</mini>
+              <mini caixa="1">macaroni.jpg</mini>
+              <mini caixa="2">salad.jpg</mini>
+              <mini caixa="1">rice.jpg</mini>
+              <mini caixa="1">fruit.jpg</mini>
+              <cfondo>0000FF</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>desserts.jpg</imaxe>
+              <texto><![CDATA[The food you eat at the end of your meal.]]></texto>
+              <resp texto="">Dessert</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>knife.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">knife</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>menu.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sausages</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words in this word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="butter.jpg">butter</sopa>
+              <sopa enun="fork.jpg">fork</sopa>
+              <sopa enun="macaroni.jpg">macaroni</sopa>
+              <sopa enun="sausages.jpg">sausages</sopa>
+              <sopa enun="knife.jpg">knife</sopa>
+              <sopa enun="chips.jpg">chips</sopa>
+              <sopa enun="fish.jpg">fish</sopa>
+              <sopa enun="spoon.jpg">spoon</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>zxcvbnm</fondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>3</tipo>
+              <cabeceira>Solve this puzzle</cabeceira>
+              <imaxe>vegetables1.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

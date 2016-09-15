@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Las máquinas simples</titulo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="61" posy="46">SIMPLES.png</imaxe>
+              <texto posx="400" posy="297" ancho="93" largo="31"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="12"></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="Compuesta por una rueda con un canal.">polea</sopa>
+              <sopa enun="Tabla de madera con un punto de apoyo.  ">palanca</sopa>
+              <sopa enun="Rueda dentada que encaja con otras.">engranaje</sopa>
+              <sopa enun="Pieza de metal con forma de seta y rosca">tornillo</sopa>
+              <sopa enun="Formada con planos inclinados, corta.">cuña</sopa>
+              <sopa enun="Palanca fijada a un eje.">manivela</sopa>
+              <sopa enun="Barra conectada a un cuerpio que gira.">biela</sopa>
+              <sopa enun="Cilindro de madera con una cuerda.">torno</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>qwertyuiopasdfghjklñzxcvbnm</fondo>
+        </paxina>
+    </libro>
+</lim>

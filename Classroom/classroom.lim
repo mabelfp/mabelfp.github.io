@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="44" posy="50" trans="30">supplies.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="44" posy="-38">supplies.jpg</imaxe>
+              <texto posx="44" posy="-17" ancho="487" largo="119"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="24">Playing with Classroom Vocabulary</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="bin">bin.jpg</cousa>
+              <cousa nome="books">books.jpg</cousa>
+              <cousa nome="chair">chair.jpg</cousa>
+              <cousa nome="crayons">crayons.jpg</cousa>
+              <cousa nome="desk">desk.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="chair">chair.jpg</cousa>
+              <cousa nome="desk">desk.jpg</cousa>
+              <cousa nome="crayons">crayons.jpg</cousa>
+              <cousa nome="books">books.jpg</cousa>
+              <cousa nome="bin">bin.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <texto><![CDATA[Classroom furniture]]></texto>
+              <resp texto="">chair</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="13" posy="6">pencilsharpener.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>pencil sharpener</resp>
+              <rdim>65</rdim>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="glue">glue.jpg</cousa>
+              <cousa nome="notebook">notebook.jpg</cousa>
+              <cousa nome="pen">pen.jpg</cousa>
+              <cousa nome="pencil">pencil.jpg</cousa>
+              <cousa nome="pencil case">pencilcase.jpg</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="glue">glue.jpg</cousa>
+              <cousa nome="notebook">notebook.jpg</cousa>
+              <cousa nome="pen">pen.jpg</cousa>
+              <cousa nome="pencil">pencil.jpg</cousa>
+              <cousa nome="pencil case">pencilcase.jpg</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>Secret word</cabeceira>
+              <texto><![CDATA[Classroom material]]></texto>
+              <resp texto="">glue</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>Secret word</cabeceira>
+              <texto><![CDATA[Classroom material]]></texto>
+              <resp texto="">scissors</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="22" posy="4">schoolbag.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>school bag</resp>
+              <rdim>65</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="pencil sharpener">pencilsharpener.jpg</cousa>
+              <cousa nome="rubber">rubber.jpg</cousa>
+              <cousa nome="ruler">ruler.jpg</cousa>
+              <cousa nome="school bag">schoolbag.jpg</cousa>
+              <cousa nome="scissors">scissors.jpg</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="pencil sharpener">pencilsharpener.jpg</cousa>
+              <cousa nome="rubber">rubber.jpg</cousa>
+              <cousa nome="ruler">ruler.jpg</cousa>
+              <cousa nome="school bag">schoolbag.jpg</cousa>
+              <cousa nome="scissors">scissors.jpg</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <texto><![CDATA[Classroom material]]></texto>
+              <resp texto="">notebook</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <texto><![CDATA[Classroom material]]></texto>
+              <resp texto="">rubber</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="35" posy="8">ruler.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>ruler</resp>
+              <rdim>65</rdim>
+        </paxina>
+        <paxina id="16" >
+              <tipo>17</tipo>
+              <cabeceira>Match the pairs</cabeceira>
+              <parellas>bin.jpg</parellas>
+              <parellas>books.jpg</parellas>
+              <parellas>chair.jpg</parellas>
+              <parellas>crayons.jpg</parellas>
+              <parellas>desk.jpg</parellas>
+              <parellas>glue.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF0000</ctapa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>17</tipo>
+              <cabeceira>Match the pairs</cabeceira>
+              <parellas>notebook.jpg</parellas>
+              <parellas>pencil.jpg</parellas>
+              <parellas>pencilsharpener.jpg</parellas>
+              <parellas>pen.jpg</parellas>
+              <parellas>pencilcase.jpg</parellas>
+              <parellas>rubber.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>80FF00</ctapa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>17</tipo>
+              <cabeceira>Match the pairs</cabeceira>
+              <parellas>ruler.jpg</parellas>
+              <parellas>schoolbag.jpg</parellas>
+              <parellas>notebook.jpg</parellas>
+              <parellas>school.jpg</parellas>
+              <parellas>scissors.jpg</parellas>
+              <parellas>teacher.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FFFF</ctapa>
+        </paxina>
+        <paxina id="19" >
+              <tipo>11</tipo>
+              <cabeceira>Where&apos;s the rabbit?</cabeceira>
+              <modo>3</modo>
+              <cousa nome="It&apos;s under the desk.">under.jpg</cousa>
+              <cousa nome="It&apos;s in the box.">in.jpg</cousa>
+              <cousa nome="It&apos;s on the desk.">on.jpg</cousa>
+        </paxina>
+        <paxina id="20" >
+              <tipo>11</tipo>
+              <cabeceira>Where&apos;s the rabbit?</cabeceira>
+              <modo>1</modo>
+              <cousa nome="It&apos;s under the desk.">under.jpg</cousa>
+              <cousa nome="It&apos;s in the box.">in.jpg</cousa>
+              <cousa nome="It&apos;s on the desk.">on.jpg</cousa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>19</tipo>
+              <texto><![CDATA[Preposition]]></texto>
+              <resp texto="">under</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <texto><![CDATA[Preposition]]></texto>
+              <resp texto="">in</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>5</tipo>
+              <cabeceira>Where is the rabbit?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="0" posy="0">on.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>It&apos;s on the desk.</resp>
+              <rdim>65</rdim>
+        </paxina>
+        <paxina id="24" >
+              <tipo>10</tipo>
+              <imaxe>on.jpg</imaxe>
+              <pregunta res="It&apos;s on the desk.">Where&apos;s the rabbit?</pregunta>
+        </paxina>
+        <paxina id="25" >
+              <tipo>10</tipo>
+              <imaxe>under.jpg</imaxe>
+              <pregunta res="It&apos;s under the desk.">Where&apos;s the rabbit?</pregunta>
+        </paxina>
+        <paxina id="26" >
+              <tipo>10</tipo>
+              <imaxe>in.jpg</imaxe>
+              <pregunta res="It&apos;s in the box.">Where&apos;s the rabbit?</pregunta>
+        </paxina>
+        <paxina id="27" >
+              <tipo>7</tipo>
+              <cabeceira>Choose the right place for each picture</cabeceira>
+              <caixa1>Classroom Materials</caixa1>
+              <caixa2>Colours</caixa2>
+              <mini caixa="2">darkblue.jpg</mini>
+              <mini caixa="1">glue.jpg</mini>
+              <mini caixa="1">pencil.jpg</mini>
+              <mini caixa="1">notebook.jpg</mini>
+              <mini caixa="2">purple.jpg</mini>
+              <mini caixa="1">pencilsharpener.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="28" >
+              <tipo>7</tipo>
+              <cabeceira>Choose the right place for each picture</cabeceira>
+              <caixa1>Prepositions</caixa1>
+              <caixa2>Classroom Materials</caixa2>
+              <mini caixa="1">in.jpg</mini>
+              <mini caixa="1">schoolbag.jpg</mini>
+              <mini caixa="1">scissors.jpg</mini>
+              <mini caixa="1">on.jpg</mini>
+              <mini caixa="1">under.jpg</mini>
+              <mini caixa="1">ruler.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="29" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word puzzle</cabeceira>
+              <modo>2</modo>
+              <sopa enun="bin.jpg">bin</sopa>
+              <sopa enun="chair.jpg">chair</sopa>
+              <sopa enun="desk.jpg">desk</sopa>
+              <sopa enun="pencilsharpener.jpg">sharperner</sopa>
+              <sopa enun="ruler.jpg">ruler</sopa>
+              <sopa enun="schoolbag.jpg">school bag</sopa>
+              <sopa enun="scissors.jpg">scissors</sopa>
+              <sopa enun="teacher.jpg">teacher</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="30" >
+              <tipo>1</tipo>
+              <cabeceira>Click on the right answer</cabeceira>
+              <imaxe>bin.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="1">It&apos;s a bin.</resp>
+              <resp texto="" valor="0">It&apos;s a rubber.</resp>
+              <resp texto="" valor="0">It&apos;s a school bag.</resp>
+              <resp texto="" valor="0">It&apos;s a pencil sharpener.</resp>
+        </paxina>
+        <paxina id="31" >
+              <tipo>1</tipo>
+              <cabeceira>Click on the right answer</cabeceira>
+              <imaxe>chair.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="0">It&apos;s a bin.</resp>
+              <resp texto="" valor="1">It&apos;s a chair.</resp>
+              <resp texto="" valor="0">It&apos;s a school bag.</resp>
+              <resp texto="" valor="0">It&apos;s a pencil sharpener.</resp>
+        </paxina>
+        <paxina id="32" >
+              <tipo>1</tipo>
+              <cabeceira>Click on the right answer</cabeceira>
+              <imaxe>pencilsharpener.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="0">It&apos;s a bin.</resp>
+              <resp texto="" valor="0">It&apos;s a chair.</resp>
+              <resp texto="" valor="0">It&apos;s a school bag.</resp>
+              <resp texto="" valor="1">It&apos;s a pencil sharpener.</resp>
+        </paxina>
+        <paxina id="33" >
+              <tipo>1</tipo>
+              <cabeceira>Click on the right answer</cabeceira>
+              <imaxe>ruler.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="1">It&apos;s a ruler.</resp>
+              <resp texto="" valor="0">It&apos;s a chair.</resp>
+              <resp texto="" valor="0">It&apos;s a school bag.</resp>
+              <resp texto="" valor="0">It&apos;s a pencil sharpener.</resp>
+        </paxina>
+        <paxina id="34" >
+              <tipo>1</tipo>
+              <cabeceira>Click on the right answer</cabeceira>
+              <imaxe>pen.jpg</imaxe>
+              <texto>What's this?</texto>
+              <resp texto="" valor="0">It&apos;s a ruler.</resp>
+              <resp texto="" valor="0">It&apos;s a chair.</resp>
+              <resp texto="" valor="0">It&apos;s a school bag.</resp>
+              <resp texto="" valor="1">It&apos;s a pen.</resp>
+        </paxina>
+        <paxina id="35" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="dark blue">darkblue.jpg</cousa>
+              <cousa nome="light blue">lightblue.jpg</cousa>
+              <cousa nome="blue">blue.jpg</cousa>
+              <cousa nome="gray">gray.jpg</cousa>
+              <cousa nome="brown">brown.jpg</cousa>
+        </paxina>
+        <paxina id="36" >
+              <tipo>11</tipo>
+              <cabeceira>Write the colours</cabeceira>
+              <modo>1</modo>
+              <cousa nome="dark blue">darkblue.jpg</cousa>
+              <cousa nome="light blue">lightblue.jpg</cousa>
+              <cousa nome="blue">blue.jpg</cousa>
+              <cousa nome="gray">gray.jpg</cousa>
+              <cousa nome="brown">brown.jpg</cousa>
+        </paxina>
+        <paxina id="37" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="black">black.jpg</cousa>
+              <cousa nome="green">green.jpg</cousa>
+              <cousa nome="purple">purple.jpg</cousa>
+              <cousa nome="white">white.jpg</cousa>
+              <cousa nome="yellow">yellow.jpg</cousa>
+        </paxina>
+        <paxina id="38" >
+              <tipo>11</tipo>
+              <cabeceira>Write the colours</cabeceira>
+              <modo>1</modo>
+              <cousa nome="black">black.jpg</cousa>
+              <cousa nome="green">green.jpg</cousa>
+              <cousa nome="purple">purple.jpg</cousa>
+              <cousa nome="white">white.jpg</cousa>
+              <cousa nome="yellow">yellow.jpg</cousa>
+        </paxina>
+        <paxina id="39" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the colour</cabeceira>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">light blue</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="40" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the colour</cabeceira>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">dark orange</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="41" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the colour</cabeceira>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">purple</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="42" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the colour</cabeceira>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">white</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="43" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the colour</cabeceira>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">brown</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="44" >
+              <tipo>5</tipo>
+              <cabeceira>What colour is hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="39" posy="5">pinksmall.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>pink</resp>
+              <rdim>45</rdim>
+        </paxina>
+        <paxina id="45" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word puzzle</cabeceira>
+              <modo>2</modo>
+              <sopa enun="green.jpg">green</sopa>
+              <sopa enun="lightblue.jpg">light blue</sopa>
+              <sopa enun="purple.jpg">purple</sopa>
+              <sopa enun="white.jpg">white</sopa>
+              <sopa enun="gray.jpg">gray</sopa>
+              <sopa enun="orange.jpg">orange</sopa>
+              <sopa enun="red.jpg">red</sopa>
+              <sopa enun="yellow.jpg">yellow</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="46" >
+              <tipo>13</tipo>
+              <cabeceira>Match the sentences</cabeceira>
+              <unir texto="My fish is">orange.</unir>
+              <unir texto="My dog is">white and black.</unir>
+              <unir texto="My hamster is">light brown.</unir>
+              <unir texto="My canary is">yellow.</unir>
+              <unir texto="My turtle is">black,green and yellow</unir>
+        </paxina>
+        <paxina id="47" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="one">1.jpg</cousa>
+              <cousa nome="five">five.jpg</cousa>
+              <cousa nome="nine">nine.jpg</cousa>
+              <cousa nome="eight">eight.jpg</cousa>
+              <cousa nome="four">four.jpg</cousa>
+        </paxina>
+        <paxina id="48" >
+              <tipo>11</tipo>
+              <cabeceira>Write the numbers</cabeceira>
+              <modo>1</modo>
+              <cousa nome="one">1.jpg</cousa>
+              <cousa nome="five">five.jpg</cousa>
+              <cousa nome="nine">nine.jpg</cousa>
+              <cousa nome="eight">eight.jpg</cousa>
+              <cousa nome="four">four.jpg</cousa>
+        </paxina>
+        <paxina id="49" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="three">three.jpg</cousa>
+              <cousa nome="ten">ten.jpg</cousa>
+              <cousa nome="six">six.jpg</cousa>
+              <cousa nome="two">Two.gif</cousa>
+              <cousa nome="seven">seven.jpg</cousa>
+        </paxina>
+        <paxina id="50" >
+              <tipo>11</tipo>
+              <cabeceira>Write the numbers</cabeceira>
+              <modo>1</modo>
+              <cousa nome="three">three.jpg</cousa>
+              <cousa nome="ten">ten.jpg</cousa>
+              <cousa nome="six">six.jpg</cousa>
+              <cousa nome="two">Two.gif</cousa>
+              <cousa nome="seven">seven.jpg</cousa>
+        </paxina>
+        <paxina id="51" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>five.jpg</parellas>
+              <parellas>nine.jpg</parellas>
+              <parellas>six.jpg</parellas>
+              <parellas>seven.jpg</parellas>
+              <parellas>Two.gif</parellas>
+              <parellas>three.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF80FF</ctapa>
+        </paxina>
+        <paxina id="52" >
+              <tipo>19</tipo>
+              <texto><![CDATA[Guess the number]]></texto>
+              <resp texto="">eight</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="53" >
+              <tipo>19</tipo>
+              <texto><![CDATA[Guess the number]]></texto>
+              <resp texto="">three</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="54" >
+              <tipo>19</tipo>
+              <texto><![CDATA[Guess the number]]></texto>
+              <resp texto="">five</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="55" >
+              <tipo>7</tipo>
+              <caixa1>EVEN NUMBERS</caixa1>
+              <caixa2>ODD NUMBERS</caixa2>
+              <mini caixa="2">four.jpg</mini>
+              <mini caixa="1">five.jpg</mini>
+              <mini caixa="2">six.jpg</mini>
+              <mini caixa="1">three.jpg</mini>
+              <mini caixa="2">Two.gif</mini>
+              <mini caixa="1">1.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="56" >
+              <tipo>5</tipo>
+              <cabeceira>What number is hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="12" posy="0">three.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>three</resp>
+              <rdim>80</rdim>
+        </paxina>
+        <paxina id="57" >
+              <tipo>5</tipo>
+              <cabeceira>What number is hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="26" posy="8">seven.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>seven</resp>
+              <rdim>80</rdim>
+        </paxina>
+        <paxina id="58" >
+              <tipo>5</tipo>
+              <cabeceira>What number is hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="65" posy="38">Two.gif</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>two</resp>
+              <rdim>80</rdim>
+        </paxina>
+        <paxina id="59" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>supplies.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-90" posy="-34" trans="10">pets1.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Great!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="115" posy="23">pets.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>3</modo>
+              <cousa nome="hamster">hamster.jpg</cousa>
+              <cousa nome="kitten">kitten.jpg</cousa>
+              <cousa nome="rabbit">rabbit.jpg</cousa>
+              <cousa nome="lizard">lizard.jpg</cousa>
+              <cousa nome="puppy">puppy.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="115" posy="31">hamster.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>hamster</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>lizard.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">lizard</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="30" posy="0">puppy.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>puppy</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>kitten.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">kitten</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="62" posy="0">rabbit.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>rabbit</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="hamster">hamster.jpg</cousa>
+              <cousa nome="kitten">kitten.jpg</cousa>
+              <cousa nome="rabbit">rabbit.jpg</cousa>
+              <cousa nome="lizard">lizard.jpg</cousa>
+              <cousa nome="puppy">puppy.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>3</modo>
+              <cousa nome="bird">canary.jpg</cousa>
+              <cousa nome="fish">fish.jpg</cousa>
+              <cousa nome="guinea pig">guineapig.jpg</cousa>
+              <cousa nome="turtle">tutle.jpg</cousa>
+              <cousa nome="dog">dog.jpg</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>canary.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">bird</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>tutle.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">turtle</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="66" posy="0">guineapig.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>guinea pig</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="13" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="123" posy="72">fish.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>fish</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="14" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>dog.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">dog</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="dog">dog.jpg</cousa>
+              <cousa nome="bird">canary.jpg</cousa>
+              <cousa nome="guinea pig">guineapig.jpg</cousa>
+              <cousa nome="fish">fish.jpg</cousa>
+              <cousa nome="turtle">tutle.jpg</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>canary.jpg</parellas>
+              <parellas>dog.jpg</parellas>
+              <parellas>fish.jpg</parellas>
+              <parellas>guineapig.jpg</parellas>
+              <parellas>hamster.jpg</parellas>
+              <parellas>kitten.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="Li  has got a ">turtle.</unir>
+              <unir texto="Li hasn&apos;t got a ">rock.</unir>
+              <unir texto="Has Li got a kitten?">No, she hasn&apos;t.</unir>
+              <unir texto="Has Li got a turtle?">Yes, she has.</unir>
+        </paxina>
+        <paxina id="18" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="canary.jpg">bird</sopa>
+              <sopa enun="hamster.jpg">hamster</sopa>
+              <sopa enun="kitten.jpg">kitten</sopa>
+              <sopa enun="puppy.jpg">puppy</sopa>
+              <sopa enun="guineapig.jpg">guineapig</sopa>
+              <sopa enun="lizard.jpg">lizard</sopa>
+              <sopa enun="tutle.jpg">turtle</sopa>
+              <sopa enun="rabbit.jpg">rabbit</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="19" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="seeds">seeds.jpg</cousa>
+              <cousa nome="leaves">leaves.jpg</cousa>
+              <cousa nome="fruit">fruit.jpg</cousa>
+              <cousa nome="grass">grass.jpg</cousa>
+              <cousa nome="meat">meat.jpg</cousa>
+        </paxina>
+        <paxina id="20" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="71" posy="33">meat.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>meat</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="21" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="187" posy="114">grass.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>grass</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>seeds.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">seeds</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>leaves.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">leaves</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="61" posy="21">fruit.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>fruit</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="25" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="fruit">fruit.jpg</cousa>
+              <cousa nome="grass">grass.jpg</cousa>
+              <cousa nome="meat">meat.jpg</cousa>
+              <cousa nome="seeds">seeds.jpg</cousa>
+              <cousa nome="leaves">leaves.jpg</cousa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>14</tipo>
+              <cabeceira>What do they eat?</cabeceira>
+              <peza imaxe="canary.jpg" texto="BIRDS   EAT" son="">seeds.jpg</peza>
+              <peza imaxe="lizard.jpg" texto="LIZARDS    EAT" son="">insects.jpg</peza>
+              <peza imaxe="kitten.jpg" texto="KITTENS    EAT" son="">fishmeal.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="27" >
+              <tipo>24</tipo>
+              <cabeceira>Pets that eat MEAT.</cabeceira>
+              <etiqueta imaxe="dog.jpg" texto="DOG">1</etiqueta>
+              <etiqueta imaxe="canary.jpg" texto="BIRD">0</etiqueta>
+              <etiqueta imaxe="hamster.jpg" texto="HAMSTER">0</etiqueta>
+              <etiqueta imaxe="tutle.jpg" texto="TURTLE">1</etiqueta>
+              <etiqueta imaxe="lizard.jpg" texto="LIZARD">1</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="RABBIT">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="28" >
+              <tipo>24</tipo>
+              <cabeceira>Pets that eat INSECTS AND LEAVES.</cabeceira>
+              <etiqueta imaxe="dog.jpg" texto="DOG">0</etiqueta>
+              <etiqueta imaxe="canary.jpg" texto="BIRD">0</etiqueta>
+              <etiqueta imaxe="hamster.jpg" texto="HAMSTER">0</etiqueta>
+              <etiqueta imaxe="tutle.jpg" texto="TURTLE">0</etiqueta>
+              <etiqueta imaxe="lizard.jpg" texto="LIZARD">1</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="RABBIT">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="29" >
+              <tipo>24</tipo>
+              <cabeceira>Pets that eat SEEDS.</cabeceira>
+              <etiqueta imaxe="dog.jpg" texto="DOG">0</etiqueta>
+              <etiqueta imaxe="canary.jpg" texto="BIRD">1</etiqueta>
+              <etiqueta imaxe="hamster.jpg" texto="HAMSTER">0</etiqueta>
+              <etiqueta imaxe="tutle.jpg" texto="TURTLE">0</etiqueta>
+              <etiqueta imaxe="lizard.jpg" texto="LIZARD">0</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="RABBIT">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="30" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="fruit.jpg">fruit</sopa>
+              <sopa enun="grass.jpg">grass</sopa>
+              <sopa enun="insects.jpg">insects</sopa>
+              <sopa enun="leaves.jpg">leaves</sopa>
+              <sopa enun="vegetables.jpg">vegetables</sopa>
+              <sopa enun="fishmeal.jpg">fish</sopa>
+              <sopa enun="seeds.jpg">seeds</sopa>
+              <sopa enun="meat.jpg">meat</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="31" >
+              <tipo>17</tipo>
+              <cabeceira>Match</cabeceira>
+              <parellas>meat.jpg</parellas>
+              <parellas>grass.jpg</parellas>
+              <parellas>fishmeal.jpg</parellas>
+              <parellas>seeds.jpg</parellas>
+              <parellas>leaves.jpg</parellas>
+              <parellas>vegetables.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0000FF</ctapa>
+        </paxina>
+        <paxina id="32" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <caixa1>PETS</caixa1>
+              <caixa2>FOOD</caixa2>
+              <mini caixa="1">puppy.jpg</mini>
+              <mini caixa="2">meat.jpg</mini>
+              <mini caixa="1">lizard.jpg</mini>
+              <mini caixa="2">seeds.jpg</mini>
+              <mini caixa="1">tutle.jpg</mini>
+              <mini caixa="2">leaves.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="33" >
+              <tipo>29</tipo>
+              <cabeceira>Song: Li has got a new pet.   Complete.</cabeceira>
+              <texto><![CDATA[Has she got a *hamster?     What has she got?
+*Has she got a *rabbit?        or is it a *rock?
+
+Has she got a *puppy?      What has she got?
+Has she got a *kitten?       or is it a rock?
+
+Li has got a *turtle.
+Well, well, well.
+She's got a turtle, 
+with a *beautiful *shell.]]></texto>
+              <cfondo>8080FF</cfondo>
+              <ctexto>FFFFFF</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="34" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>tutle.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="65" posy="47">head</etiqueta>
+              <etiqueta posx="57" posy="101">eyes</etiqueta>
+              <etiqueta posx="6" posy="71">mouth</etiqueta>
+              <etiqueta posx="140" posy="184">leg</etiqueta>
+              <etiqueta posx="274" posy="88">shell</etiqueta>
+              <etiqueta posx="117" posy="134">neck</etiqueta>
+        </paxina>
+        <paxina id="35" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>tutle.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="65" posy="47">head</etiqueta>
+              <etiqueta posx="57" posy="101">eyes</etiqueta>
+              <etiqueta posx="6" posy="71">mouth</etiqueta>
+              <etiqueta posx="140" posy="184">leg</etiqueta>
+              <etiqueta posx="274" posy="88">shell</etiqueta>
+              <etiqueta posx="117" posy="134">neck</etiqueta>
+        </paxina>
+        <paxina id="36" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>pets1.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>7</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

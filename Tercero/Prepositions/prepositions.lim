@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Great!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-21">prepositions.png</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Where is it?</cabeceira>
+              <modo>3</modo>
+              <cousa nome="behind">behind.jpg</cousa>
+              <cousa nome="in">in.jpg</cousa>
+              <cousa nome="next to">nextto.jpg</cousa>
+              <cousa nome="on">on.jpg</cousa>
+              <cousa nome="under">under.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Where is it?</cabeceira>
+              <modo>1</modo>
+              <cousa nome="behind">behind.jpg</cousa>
+              <cousa nome="in">in.jpg</cousa>
+              <cousa nome="next to">nextto.jpg</cousa>
+              <cousa nome="on">on.jpg</cousa>
+              <cousa nome="under">under.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>behind.jpg</parellas>
+              <parellas>in.jpg</parellas>
+              <parellas>nextto.jpg</parellas>
+              <parellas>on.jpg</parellas>
+              <parellas>under.jpg</parellas>
+              <parellas>prepositions.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>008000</ctapa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>behind.jpg</imaxe>
+              <texto>Where is the dog?</texto>
+              <resp texto="" valor="0">It&apos;s in a box.</resp>
+              <resp texto="" valor="0">It&apos;s on a box.</resp>
+              <resp texto="" valor="1">It&apos;s behind a box.</resp>
+              <resp texto="" valor="0">It&apos;s under a box.</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <imaxe>in.jpg</imaxe>
+              <texto>Where is the mouse?</texto>
+              <resp texto="" valor="1">It&apos;s in a box.</resp>
+              <resp texto="" valor="0">It&apos;s on a box.</resp>
+              <resp texto="" valor="0">It&apos;s behind a box.</resp>
+              <resp texto="" valor="0">It&apos;s under a box.</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <imaxe>nextto.jpg</imaxe>
+              <texto>Where is the fish?</texto>
+              <resp texto="" valor="0">It&apos;s in a box.</resp>
+              <resp texto="" valor="1">It&apos;s next to a box.</resp>
+              <resp texto="" valor="0">It&apos;s behind a box.</resp>
+              <resp texto="" valor="0">It&apos;s under a box.</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <imaxe>on.jpg</imaxe>
+              <texto>Where is the ball?</texto>
+              <resp texto="" valor="0">It&apos;s in a box.</resp>
+              <resp texto="" valor="1">It&apos;s on a box.</resp>
+              <resp texto="" valor="0">It&apos;s behind a box.</resp>
+              <resp texto="" valor="0">It&apos;s next to a box.</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <imaxe>under.jpg</imaxe>
+              <texto>Where is the rabbit?</texto>
+              <resp texto="" valor="0">It&apos;s in a box.</resp>
+              <resp texto="" valor="1">It&apos;s under a desk.</resp>
+              <resp texto="" valor="0">It&apos;s behind a box.</resp>
+              <resp texto="" valor="0">It&apos;s next to a box.</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>13</tipo>
+              <cabeceira>Match the sentences.</cabeceira>
+              <unir texto="The dog is">behind a box.</unir>
+              <unir texto="The fish is">nex to a box.</unir>
+              <unir texto="The rabbit is">under a desk.</unir>
+              <unir texto="The ball is">on a box.</unir>
+              <unir texto="The mouse is">in a box.</unir>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>behind.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">behind</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>in.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">in</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>nextto.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">next to</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>on.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">on</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>under.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">under</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>5</tipo>
+              <cabeceira>Where is it?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="70" posy="38">under.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>under</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="17" >
+              <tipo>5</tipo>
+              <cabeceira>Where is it?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="181" posy="112">nextto.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>next to</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="18" >
+              <tipo>5</tipo>
+              <cabeceira>Where is it?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="107" posy="29">behind.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>behind</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="19" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right preposition.</cabeceira>
+              <texto><![CDATA[The dog is *behind a box.
+The fish is *next to a box.
+The mouse is *in a box.
+The ball is *on a box.
+The rabbit is *under a desk.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>24</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>pp.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="5" posy="115">in</etiqueta>
+              <etiqueta posx="155" posy="11">on</etiqueta>
+              <etiqueta posx="295" posy="117">under</etiqueta>
+              <etiqueta posx="50" posy="265">behind</etiqueta>
+              <etiqueta posx="200" posy="186">next to</etiqueta>
+        </paxina>
+        <paxina id="21" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>pp.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="5" posy="115">in</etiqueta>
+              <etiqueta posx="155" posy="11">on</etiqueta>
+              <etiqueta posx="295" posy="117">under</etiqueta>
+              <etiqueta posx="50" posy="265">behind</etiqueta>
+              <etiqueta posx="200" posy="186">next to</etiqueta>
+        </paxina>
+        <paxina id="22" >
+              <tipo>24</tipo>
+              <cabeceira>Where is the dog?</cabeceira>
+              <etiqueta imaxe="behind.jpg" texto="It&apos;s behing a box.">1</etiqueta>
+              <etiqueta imaxe="nextto.jpg" texto="It&apos;s next to a box.">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="It&apos;s under a desk.">0</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="It&apos;s in a box.">0</etiqueta>
+              <etiqueta imaxe="on.jpg" texto="It&apos;s on a box.">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="23" >
+              <tipo>24</tipo>
+              <cabeceira>Where is the fish?</cabeceira>
+              <etiqueta imaxe="behind.jpg" texto="It&apos;s behing a box.">0</etiqueta>
+              <etiqueta imaxe="nextto.jpg" texto="It&apos;s next to a box.">1</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="It&apos;s under a desk.">0</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="It&apos;s in a box.">0</etiqueta>
+              <etiqueta imaxe="on.jpg" texto="It&apos;s on a box.">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="24" >
+              <tipo>24</tipo>
+              <cabeceira>Where is the rabbit?</cabeceira>
+              <etiqueta imaxe="behind.jpg" texto="It&apos;s behing a box.">0</etiqueta>
+              <etiqueta imaxe="nextto.jpg" texto="It&apos;s next to a box.">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="It&apos;s under a desk.">1</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="It&apos;s in a box.">0</etiqueta>
+              <etiqueta imaxe="on.jpg" texto="It&apos;s on a box.">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="25" >
+              <tipo>24</tipo>
+              <cabeceira>Where is the mouse?</cabeceira>
+              <etiqueta imaxe="behind.jpg" texto="It&apos;s behing a box.">0</etiqueta>
+              <etiqueta imaxe="nextto.jpg" texto="It&apos;s next to a box.">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="It&apos;s under a desk.">0</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="It&apos;s in a box.">1</etiqueta>
+              <etiqueta imaxe="on.jpg" texto="It&apos;s on a box.">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="26" >
+              <tipo>24</tipo>
+              <cabeceira>Where is the ball?</cabeceira>
+              <etiqueta imaxe="behind.jpg" texto="It&apos;s behing a box.">0</etiqueta>
+              <etiqueta imaxe="nextto.jpg" texto="It&apos;s next to a box.">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="It&apos;s under a desk.">0</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="It&apos;s in a box.">0</etiqueta>
+              <etiqueta imaxe="on.jpg" texto="It&apos;s on a box.">1</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="27" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="behind.jpg">behind</sopa>
+              <sopa enun="on.jpg">on</sopa>
+              <sopa enun="under.jpg">under</sopa>
+              <sopa enun="box.jpg">box</sopa>
+              <sopa enun="in.jpg">in</sopa>
+              <sopa enun="nextto.jpg">nextto</sopa>
+              <sopa enun="prepositions.png">preposition</sopa>
+              <sopa enun="desk.png">desk</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="28" >
+              <tipo>10</tipo>
+              <cabeceira>Where are they?</cabeceira>
+              <imaxe>box.jpg</imaxe>
+              <pregunta res="It&apos;s behind a box.">Where is the dog?</pregunta>
+              <pregunta res="It&apos;s next to a box.">Where is the fish?</pregunta>
+              <pregunta res="It&apos;s in a box.">Where is the mouse?</pregunta>
+              <pregunta res="It&apos;s under a desk.">Where is the rabbit?</pregunta>
+        </paxina>
+        <paxina id="29" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the Puzzle</cabeceira>
+              <imaxe>prepositions.png</imaxe>
+              <imfondo  trans="5">prepositions.png</imfondo>
+              <filas>4</filas>
+              <columnas>7</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

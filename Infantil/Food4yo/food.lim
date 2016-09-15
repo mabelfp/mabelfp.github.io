@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-182" posy="-112" trans="25">food.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>17</tipo>
+              <cabeceira>Food Matching Game for 4 years old</cabeceira>
+              <parellas>birthdaycake.jpg</parellas>
+              <parellas>imhungry.jpg</parellas>
+              <parellas>babanacake.jpg</parellas>
+              <parellas>biscuit.jpg</parellas>
+              <parellas>sandwich.jpg</parellas>
+              <parellas>icecream4annos.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>008000</ctapa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <parellas>apple.jpg</parellas>
+              <parellas>yellow.jpg</parellas>
+              <parellas>blue.jpg</parellas>
+              <parellas>banana.jpg</parellas>
+              <parellas>green.jpg</parellas>
+              <parellas>red.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>808080</ctapa>
+        </paxina>
+    </libro>
+</lim>

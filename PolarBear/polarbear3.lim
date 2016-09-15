@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="4" posy="2" trans="40">zoo.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="1" posy="-90">zoo.jpg</imaxe>
+              <texto posx="124" posy="313" ancho="565" largo="168"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="28">Polar Bear, Polar Bear,<br>
+What can you see?</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="elephant">elephant.jpg</cousa>
+              <cousa nome="flamingo">flamingo.jpg</cousa>
+              <cousa nome="hippo">hippo.jpg</cousa>
+              <cousa nome="leopard">leopard.jpg</cousa>
+              <cousa nome="lion">lion.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write the  word.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="elephant">elephant.jpg</cousa>
+              <cousa nome="flamingo">flamingo.jpg</cousa>
+              <cousa nome="hippo">hippo.jpg</cousa>
+              <cousa nome="leopard">leopard.jpg</cousa>
+              <cousa nome="lion">lion.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="peacock">peacock.jpg</cousa>
+              <cousa nome="polar bear">polarbear.jpg</cousa>
+              <cousa nome="snake">snake.jpg</cousa>
+              <cousa nome="walrus">walrus.jpg</cousa>
+              <cousa nome="zebra">zebra.jpg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <cabeceira>Write the word.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="peacock">peacock.jpg</cousa>
+              <cousa nome="polar bear">polarbear.jpg</cousa>
+              <cousa nome="snake">snake.jpg</cousa>
+              <cousa nome="walrus">walrus.jpg</cousa>
+              <cousa nome="zebra">zebra.jpg</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>elephant.jpg</parellas>
+              <parellas>leopard.jpg</parellas>
+              <parellas>polarbear.jpg</parellas>
+              <parellas>zebra.jpg</parellas>
+              <parellas>flamingo.jpg</parellas>
+              <parellas>snake.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FFFF</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the animal</cabeceira>
+              <imaxe>peacock.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">peacock</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the animal</cabeceira>
+              <imaxe>walrus.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">walrus</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the animal</cabeceira>
+              <imaxe>flamingo.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">flamingo</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>walrus.jpg</parellas>
+              <parellas>zookeeper.jpg</parellas>
+              <parellas>hippo.jpg</parellas>
+              <parellas>polarbear.jpg</parellas>
+              <parellas>peacock.jpg</parellas>
+              <parellas>leopard.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF80</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words</cabeceira>
+              <modo>2</modo>
+              <sopa enun="walrus.jpg">walrus</sopa>
+              <sopa enun="peacock.jpg">peacock</sopa>
+              <sopa enun="hippo.jpg">hippo</sopa>
+              <sopa enun="zookeeper.jpg">zoo keeper</sopa>
+              <sopa enun="polarbear.jpg">polar bear</sopa>
+              <sopa enun="flamingo.jpg">flamingo</sopa>
+              <sopa enun="leopard.jpg">leopard</sopa>
+              <sopa enun="elephant.jpg">elephant</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="12" >
+              <tipo>13</tipo>
+              <cabeceira>Make sentences</cabeceira>
+              <unir texto="I&apos;ve got feathers,">I&apos;m a peacock.</unir>
+              <unir texto="I&apos;ve got claws,">I&apos;m a lion.</unir>
+              <unir texto="I&apos;ve got a long body,">I&apos;m a snake.</unir>
+              <unir texto="I&apos;ve got tusks,">I&apos;m a walrus.</unir>
+              <unir texto="I&apos;ve got a big body,">I&apos;m a hippo.</unir>
+        </paxina>
+        <paxina id="13" >
+              <tipo>24</tipo>
+              <cabeceira>Which of these animals appear in the story?</cabeceira>
+              <etiqueta imaxe="flamingo.jpg" texto="flamingo">1</etiqueta>
+              <etiqueta imaxe="peacock.jpg" texto="peacock">1</etiqueta>
+              <etiqueta imaxe="walrus.jpg" texto="walrus">1</etiqueta>
+              <etiqueta imaxe="monkey.jpg" texto="monkey">0</etiqueta>
+              <etiqueta imaxe="giraffe.jpg" texto="giraffe">0</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="tiger">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <cabeceira>Zoo keeper, who&apos;s hiding?</cabeceira>
+              <imaxe>zookeeper.jpg</imaxe>
+              <imfondo  posx="0" posy="26">hippo.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>hippo</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>20</tipo>
+              <cabeceira>Match the words with the pictures</cabeceira>
+              <imaxe>zoo.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="328" posy="7">elephant</etiqueta>
+              <etiqueta posx="63" posy="144">lion</etiqueta>
+              <etiqueta posx="220" posy="244">polar bear</etiqueta>
+              <etiqueta posx="4" posy="59">snake</etiqueta>
+              <etiqueta posx="438" posy="333">giraffe</etiqueta>
+              <etiqueta posx="361" posy="155">monkey</etiqueta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>20</tipo>
+              <cabeceira>Write the names of the animals</cabeceira>
+              <imaxe>zoo.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="328" posy="7">elephant</etiqueta>
+              <etiqueta posx="63" posy="144">lion</etiqueta>
+              <etiqueta posx="220" posy="244">polar bear</etiqueta>
+              <etiqueta posx="4" posy="59">snake</etiqueta>
+              <etiqueta posx="438" posy="333">giraffe</etiqueta>
+              <etiqueta posx="361" posy="155">monkey</etiqueta>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>zookeeper.jpg</imaxe>
+              <texto><![CDATA[He takes care of the animals in the zoo.]]></texto>
+              <resp texto="">zoo keeper</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>hippo.jpg</imaxe>
+              <texto><![CDATA[It's big and fat.]]></texto>
+              <resp texto="">hippo</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>giraffe.jpg</imaxe>
+              <texto><![CDATA[It likes leaves and it's got a long neck.]]></texto>
+              <resp texto="">giraffe</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>lion.jpg</parellas>
+              <parellas>monkey.jpg</parellas>
+              <parellas>flamingo.jpg</parellas>
+              <parellas>giraffe.jpg</parellas>
+              <parellas>tiger.jpg</parellas>
+              <parellas>leopard.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>8000FF</ctapa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words</cabeceira>
+              <modo>2</modo>
+              <sopa enun="monkey.jpg">monkey</sopa>
+              <sopa enun="tiger.jpg">tiger</sopa>
+              <sopa enun="zebra.jpg">zebra</sopa>
+              <sopa enun="peacock.jpg">peacock</sopa>
+              <sopa enun="lion.jpg">lion</sopa>
+              <sopa enun="giraffe.jpg">giraffe</sopa>
+              <sopa enun="snake.jpg">snake</sopa>
+              <sopa enun="walrus.jpg">walrus</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="22" >
+              <tipo>1</tipo>
+              <imaxe>zebra.jpg</imaxe>
+              <texto>Flamingo, flamingo, what can you see?</texto>
+              <resp texto="" valor="1">I can see a zebra looking at me.</resp>
+              <resp texto="" valor="0">I can see a hippo looking at me.</resp>
+              <resp texto="" valor="0">I can see a walrus looking at me.</resp>
+        </paxina>
+        <paxina id="23" >
+              <tipo>1</tipo>
+              <imaxe>snake.jpg</imaxe>
+              <texto>Snake, snake, what can you see?</texto>
+              <resp texto="" valor="0">I can see a lion looking at me.</resp>
+              <resp texto="" valor="0">I can see a polar bear looking at me.</resp>
+              <resp texto="" valor="1">I can see an elephant looking at me.</resp>
+        </paxina>
+        <paxina id="24" >
+              <tipo>1</tipo>
+              <imaxe>walrus.jpg</imaxe>
+              <texto>Walrus, walrus, what can you see?</texto>
+              <resp texto="" valor="0">I can see an elephant looking at me.</resp>
+              <resp texto="" valor="0">I can see a hippo looking at me.</resp>
+              <resp texto="" valor="1">I can see a zoo keeper looking at me.</resp>
+        </paxina>
+        <paxina id="25" >
+              <tipo>1</tipo>
+              <imaxe>walrus.jpg</imaxe>
+              <texto>Peacock, peacock, what can you see?</texto>
+              <resp texto="" valor="0">I can see an elephant looking at me.</resp>
+              <resp texto="" valor="1">I can see a walrus looking at me.</resp>
+              <resp texto="" valor="0">I can see a zoo keeper looking at me.</resp>
+        </paxina>
+        <paxina id="26" >
+              <tipo>32</tipo>
+              <cabeceira>Make a serie as in the story</cabeceira>
+              <modo>1</modo>
+              <etiqueta>polarbear.jpg</etiqueta>
+              <etiqueta>lion.jpg</etiqueta>
+              <etiqueta>hippo.jpg</etiqueta>
+              <etiqueta>flamingo.jpg</etiqueta>
+        </paxina>
+        <paxina id="27" >
+              <tipo>32</tipo>
+              <cabeceira>Make a serie as in the story</cabeceira>
+              <modo>1</modo>
+              <etiqueta>zebra.jpg</etiqueta>
+              <etiqueta>snake.jpg</etiqueta>
+              <etiqueta>elephant.jpg</etiqueta>
+              <etiqueta>leopard.jpg</etiqueta>
+        </paxina>
+        <paxina id="28" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right words.</cabeceira>
+              <texto><![CDATA[Children, *children, what can you see?
+We can see a polar bear,
+We can see a *lion,
+We *can see a hippo,
+We can see a *flamingo,
+We can see a zebra,
+We can see a *snake,
+We can see a elephant,
+We can see a *leopard,
+We can *see a peacock,
+We can see a *walrus,
+We can see a *zoo keeper looking at us. That's what we see!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>14</forma>
+        </paxina>
+        <paxina id="29" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>zoo.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="30" >
+              <tipo>6</tipo>
+              <cabeceira>Match the sentences with the pictures.</cabeceira>
+              <fondocaixa1 trans="100">snake.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">walrus.jpg</fondocaixa2>
+              <nome caixa="1">I&apos;ve got a long body.</nome>
+              <nome caixa="2">I&apos;ve got two long tusks and whiskers.</nome>
+              <nome caixa="1">I live in the jungle.</nome>
+              <nome caixa="2">I live in the North Pole.</nome>
+              <nome caixa="2">I like water. I&apos;m a good swimmer.</nome>
+              <nome caixa="1">I&apos;ve got no legs and a long tongue.</nome>
+              <caixa1>SNAKE</caixa1>
+              <caixa2>WALRUS</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="31" >
+              <tipo>6</tipo>
+              <cabeceira>Match the sentences with the pictures.</cabeceira>
+              <fondocaixa1 trans="100">zookeeper.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">tiger.jpg</fondocaixa2>
+              <nome caixa="1">I like animals.</nome>
+              <nome caixa="2">I&apos;ve got claws and whiskers.</nome>
+              <nome caixa="2">I live in the jungle or in the zoo.</nome>
+              <nome caixa="2">I&apos;ve got a long tail.</nome>
+              <nome caixa="2">I&apos;m orange with black stripes.</nome>
+              <nome caixa="1">I take care of the animals in the zoo.</nome>
+              <caixa1>ZOO  KEEPER</caixa1>
+              <caixa2>TIGER</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="32" >
+              <tipo>22</tipo>
+              <cabeceira>Match sounds and pictures</cabeceira>
+              <modo>5</modo>
+              <cousa nome="" son="elefante_(2).mp3">elephant.jpg</cousa>
+              <cousa nome="" son="hippo.mp3">hippo.jpg</cousa>
+              <cousa nome="" son="mono.mp3">monkey.jpg</cousa>
+              <cousa nome="" son="tiger.mp3">tiger.jpg</cousa>
+              <cousa nome="" son="snake.mp3">snake.jpg</cousa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>20</tipo>
+              <cabeceira>Match words with numbers</cabeceira>
+              <imaxe>tiger1.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="267" posy="0">HEAD</etiqueta>
+              <etiqueta posx="343" posy="71">WHISKERS</etiqueta>
+              <etiqueta posx="31" posy="87">TAIL</etiqueta>
+              <etiqueta posx="227" posy="199">BODY</etiqueta>
+              <etiqueta posx="133" posy="304">LEGS</etiqueta>
+              <etiqueta posx="341" posy="377">CLAWS</etiqueta>
+        </paxina>
+        <paxina id="34" >
+              <tipo>20</tipo>
+              <cabeceira>Match words with numbers</cabeceira>
+              <imaxe>walrus1.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="77" posy="27">WHISKERS</etiqueta>
+              <etiqueta posx="74" posy="102">TUSKS</etiqueta>
+              <etiqueta posx="169" posy="172">BODY</etiqueta>
+              <etiqueta posx="75" posy="355">LEGS</etiqueta>
+              <etiqueta posx="349" posy="209">FUR</etiqueta>
+              <etiqueta posx="424" posy="358">TAIL</etiqueta>
+        </paxina>
+    </libro>
+</lim>

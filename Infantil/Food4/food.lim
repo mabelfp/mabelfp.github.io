@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-102" posy="-64" trans="15">foodbig.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>24</tipo>
+              <cabeceira>Apple</cabeceira>
+              <etiqueta imaxe="apple.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="babanacake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="biscuit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="icecream4annos.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="imhungry.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="birthdaycake.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>Banana Cake</cabeceira>
+              <etiqueta imaxe="apple.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="babanacake.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="biscuit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="icecream4annos.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="imhungry.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="birthdaycake.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>Buiscuit</cabeceira>
+              <etiqueta imaxe="apple.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="babanacake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="biscuit.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="icecream4annos.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="imhungry.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="birthdaycake.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>Icecream</cabeceira>
+              <etiqueta imaxe="apple.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="babanacake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="biscuit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="icecream4annos.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="imhungry.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="birthdaycake.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>I&apos;m hungry</cabeceira>
+              <etiqueta imaxe="apple.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="babanacake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="biscuit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="icecream4annos.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="imhungry.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="birthdaycake.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>birthday cake</cabeceira>
+              <etiqueta imaxe="apple.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="babanacake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="biscuit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="icecream4annos.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="imhungry.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="birthdaycake.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <cabeceira>Food Matching Game for 4 years old</cabeceira>
+              <parellas>birthdaycake.jpg</parellas>
+              <parellas>imhungry.jpg</parellas>
+              <parellas>babanacake.jpg</parellas>
+              <parellas>biscuit.jpg</parellas>
+              <parellas>sandwich.jpg</parellas>
+              <parellas>icecream4annos.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>80FF00</ctapa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>17</tipo>
+              <parellas>apple.jpg</parellas>
+              <parellas>yellow.jpg</parellas>
+              <parellas>blue.jpg</parellas>
+              <parellas>banana.jpg</parellas>
+              <parellas>green.jpg</parellas>
+              <parellas>red.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF80FF</ctapa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>5</tipo>
+              <imaxe>interrogacion.gif</imaxe>
+              <imfondo  posx="55" posy="11">icecream4annos.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <imaxe>interrogacion.gif</imaxe>
+              <imfondo  posx="0" posy="0">birthdaycake.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <imaxe>interrogacion.gif</imaxe>
+              <imfondo  posx="80" posy="0">banana.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>14</tipo>
+              <peza imaxe="babanacake.jpg" texto="" son="">babanacake.jpg</peza>
+              <peza imaxe="biscuit.jpg" texto="" son="">biscuit.jpg</peza>
+              <peza imaxe="icecream4annos.jpg" texto="" son="">icecream4annos.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>5</tipo>
+              <imaxe>interrogacion.gif</imaxe>
+              <imfondo  posx="63" posy="3">biscuit.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="14" >
+              <tipo>3</tipo>
+              <cabeceira>Puzzle</cabeceira>
+              <imaxe>food.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

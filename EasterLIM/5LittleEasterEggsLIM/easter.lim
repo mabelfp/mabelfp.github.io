@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="welldone.mp3" modo="1" >Well done!</correcto>
+        <incorrecto son="sorry.mp3" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs01.jpg</imaxe>
+              <son>5littleeastereggs.mp3</son>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs02.jpg.jpg</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs03.jpg.jpg</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs04.jpg.jpg</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs05.jpg.jpg</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs06.jpg</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs07.jpg</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs08.jpg</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs09.jpg</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">Nueva_imagen_(5).jpg</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="39" posy="12">5leeggs10.jpg</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Easter eggs">eastereggs.jpg</cousa>
+              <cousa nome="basket">basket.jpg</cousa>
+              <cousa nome="Easter bunny">easterbunny.jpg</cousa>
+              <cousa nome="Easter egg hunt">easteregghunt.jpg</cousa>
+              <cousa nome="chocolate egg">cocolateegg.jpg</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="mummy">mummy.jpg</cousa>
+              <cousa nome="brother">brother.jpg</cousa>
+              <cousa nome="sister">sister.jpg</cousa>
+              <cousa nome="daddy">daddy.jpg</cousa>
+              <cousa nome="me">me.jpg</cousa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>17</tipo>
+              <cabeceira>Easter matching game</cabeceira>
+              <parellas>easterbunny.jpg</parellas>
+              <parellas>easteregghunt.jpg</parellas>
+              <parellas>5leeggs01.jpg</parellas>
+              <parellas>eastereggs.jpg</parellas>
+              <parellas>cocolateegg.jpg</parellas>
+              <parellas>basket.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF00FF</ctapa>
+              <tempo>30</tempo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>17</tipo>
+              <cabeceira>Easter Eggs Matching Game</cabeceira>
+              <parellas>cocolateegg.jpg</parellas>
+              <parellas>purpleeasteregg.jpg</parellas>
+              <parellas>pinkeasteregg.jpg</parellas>
+              <parellas>blueeasteregg.jpg</parellas>
+              <parellas>greeneasteregg.jpg</parellas>
+              <parellas>yelloweasteregg.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the things related with Easter</cabeceira>
+              <etiqueta imaxe="cocolateegg.jpg" texto="Chocolate Egg">1</etiqueta>
+              <etiqueta imaxe="xmastree.png" texto="Christmas Tree">0</etiqueta>
+              <etiqueta imaxe="present.jpg" texto="Present">0</etiqueta>
+              <etiqueta imaxe="easteregghunt.jpg" texto="Easter Egg Hunt">1</etiqueta>
+              <etiqueta imaxe="pumkin.jpg" texto="pumkin">0</etiqueta>
+              <etiqueta imaxe="easterbunny.jpg" texto="Easter Bunny">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words in this word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="basket.jpg">basket</sopa>
+              <sopa enun="cocolateegg.jpg">chocolate</sopa>
+              <sopa enun="easterbunny.jpg">easterbunny</sopa>
+              <sopa enun="sister.jpg">sister</sopa>
+              <sopa enun="daddy.jpg">daddy</sopa>
+              <sopa enun="eastereggs.jpg">eastereggs</sopa>
+              <sopa enun="easteregghunt.jpg">egghunt</sopa>
+              <sopa enun="mummy.jpg">mummy</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>zxcvbnm</fondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guessing game</cabeceira>
+              <imaxe>blueeasteregg.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">blue easter egg</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>5</tipo>
+              <cabeceira>Who&apos;s hiding?</cabeceira>
+              <imaxe>Signo-de-interrogacion.gif</imaxe>
+              <texto><![CDATA[It's a white animal.
+It's got long ears.]]></texto>
+              <imfondo  posx="10" posy="2">easterbunny.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>Easter bunny</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="20" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right words</cabeceira>
+              <texto><![CDATA[Five little *Easter eggs lovely colours wore,
+*Mummy ate the blue one, then there were four.
+Four little Easter *eggs, two and two you see,
+daddy ate the *green one, then there were three.
+Three *little Easter eggs, before I knew,
+My sister ate the yellow one, then there were *two.
+Two little Easter eggs, oh, what *fun!
+My *brother ate the purple one, then there was one.
+On little Easter egg, see my *run!
+I ate the last one, *then there were none.]]></texto>
+              <cfondo>FF00FF</cfondo>
+              <ctexto>0000FF</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>11</tipo>
+              <cabeceira>Write the names of the colours</cabeceira>
+              <modo>1</modo>
+              <cousa nome="brown">brown.jpg</cousa>
+              <cousa nome="pink">purple.jpg</cousa>
+              <cousa nome="purple">purple.jpg.png</cousa>
+              <cousa nome="green">green.jpg</cousa>
+              <cousa nome="orange">orange.jpg</cousa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="eleven">11.jpg</cousa>
+              <cousa nome="fifteen">15.jpg</cousa>
+              <cousa nome="twenty">20.jpg</cousa>
+              <cousa nome="thirteen">13.jpg</cousa>
+              <cousa nome="eighteen">18.jpg</cousa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle.</cabeceira>
+              <imaxe>5leeggs01.jpg</imaxe>
+              <imfondo  trans="15">5leeggs01.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

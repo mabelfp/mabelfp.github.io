@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >GREAT!</correcto>
+        <incorrecto son="" modo="1" >SORRY!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>24</tipo>
+              <cabeceira>BOOTS</cabeceira>
+              <etiqueta imaxe="boots.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="coat.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jumper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scarf.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shoes.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="winterhat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>COAT</cabeceira>
+              <etiqueta imaxe="boots.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="coat.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="jumper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scarf.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shoes.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="winterhat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>JUMPER</cabeceira>
+              <etiqueta imaxe="boots.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="coat.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jumper.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="scarf.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shoes.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="winterhat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>SCARF</cabeceira>
+              <etiqueta imaxe="boots.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="coat.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jumper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scarf.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="shoes.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="winterhat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>SHOES</cabeceira>
+              <etiqueta imaxe="boots.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="coat.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jumper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scarf.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shoes.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="winterhat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>HAT</cabeceira>
+              <etiqueta imaxe="boots.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="coat.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jumper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scarf.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shoes.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="winterhat.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <cabeceira>MATCHING GAME</cabeceira>
+              <parellas>boots.jpg</parellas>
+              <parellas>coat.jpg</parellas>
+              <parellas>shoes.jpg</parellas>
+              <parellas>jumper.jpg</parellas>
+              <parellas>scarf.jpg</parellas>
+              <parellas>winterhat.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0000FF</ctapa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>COLD</cabeceira>
+              <etiqueta imaxe="cold.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="trainers.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="Tshirt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="dress.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="hot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shorts.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>TRAINERS</cabeceira>
+              <etiqueta imaxe="cold.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="trainers.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="Tshirt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="dress.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="hot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shorts.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>24</tipo>
+              <cabeceira>T-SHIRT</cabeceira>
+              <etiqueta imaxe="cold.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="trainers.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="Tshirt.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="dress.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="hot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shorts.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>24</tipo>
+              <cabeceira>DRESS</cabeceira>
+              <etiqueta imaxe="cold.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="trainers.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="Tshirt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="dress.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="hot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shorts.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>24</tipo>
+              <cabeceira>HOT</cabeceira>
+              <etiqueta imaxe="cold.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="trainers.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="Tshirt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="dress.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="hot.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="shorts.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>24</tipo>
+              <cabeceira>SHORTS</cabeceira>
+              <etiqueta imaxe="cold.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="trainers.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="Tshirt.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="dress.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="hot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="shorts.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="14" >
+              <tipo>17</tipo>
+              <cabeceira>MATCHING GAME</cabeceira>
+              <parellas>cold.jpg</parellas>
+              <parellas>shorts.jpg</parellas>
+              <parellas>trainers.jpg</parellas>
+              <parellas>dress.jpg</parellas>
+              <parellas>hot.jpg</parellas>
+              <parellas>Tshirt.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0000FF</ctapa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>24</tipo>
+              <cabeceira>CLOUDY</cabeceira>
+              <etiqueta imaxe="cloudy.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="windy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowman.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rainy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sunny.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>WINDY</cabeceira>
+              <etiqueta imaxe="cloudy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="windy.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="snowman.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rainy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sunny.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>24</tipo>
+              <cabeceira>SNOWMAN</cabeceira>
+              <etiqueta imaxe="cloudy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="windy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowman.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="rainy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sunny.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>24</tipo>
+              <cabeceira>RAINY</cabeceira>
+              <etiqueta imaxe="cloudy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="windy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowman.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rainy.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="snowy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sunny.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>24</tipo>
+              <cabeceira>SNOWY</cabeceira>
+              <etiqueta imaxe="cloudy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="windy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowman.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rainy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowy.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="sunny.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="20" >
+              <tipo>24</tipo>
+              <cabeceira>SUNNY</cabeceira>
+              <etiqueta imaxe="cloudy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="windy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowman.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rainy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snowy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="sunny.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>17</tipo>
+              <cabeceira>MATCHING GAME</cabeceira>
+              <parellas>cloudy.jpg</parellas>
+              <parellas>snowy.jpg</parellas>
+              <parellas>sunny.jpg</parellas>
+              <parellas>rainy.jpg</parellas>
+              <parellas>snowman.jpg</parellas>
+              <parellas>windy.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0000FF</ctapa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>3</tipo>
+              <cabeceira>PUZZLE</cabeceira>
+              <imaxe>rainbow.jpg</imaxe>
+              <imfondo  trans="20">rainbow.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

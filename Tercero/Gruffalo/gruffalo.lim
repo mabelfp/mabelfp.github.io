@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="71" posy="-57">IMG_8418.JPG</imaxe>
+              <texto posx="410" posy="202" ancho="374" largo="366"><![CDATA[
+<p align="left">
+<font color="#008000" face="Arial" size="32">THE<br>
+GRUFFALO<br>
+</font><font color="#000000" face="Arial" size="12">by Julia Donaldson</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>IMG_8420.JPG</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="248" posy="196">purple prikles</etiqueta>
+              <etiqueta posx="130" posy="36">horns</etiqueta>
+              <etiqueta posx="104" posy="130">black tongue</etiqueta>
+              <etiqueta posx="314" posy="326">tail</etiqueta>
+              <etiqueta posx="58" posy="187">claws</etiqueta>
+              <etiqueta posx="140" posy="355">knobbly knees</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>IMG_8419.JPG</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">terrible teeth</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>5</tipo>
+              <cabeceira>Guess something purple...</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="107" posy="0">IMG_8422.JPG</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>purple prikles</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="5" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>IMG_8424.JPG</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="248" posy="105">whiskers</etiqueta>
+              <etiqueta posx="214" posy="70">orange eyes</etiqueta>
+              <etiqueta posx="157" posy="128">tusks</etiqueta>
+              <etiqueta posx="202" posy="382">turned-out toes</etiqueta>
+              <etiqueta posx="166" posy="227">big body</etiqueta>
+              <etiqueta posx="88" posy="347">little mouse</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>IMG_8423.JPG</parellas>
+              <parellas>IMG_8427.JPG</parellas>
+              <parellas>IMG_8430.JPG</parellas>
+              <parellas>IMG_8426.JPG</parellas>
+              <parellas>IMG_8429.JPG</parellas>
+              <parellas>IMG_8431.JPG</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>008000</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Guess something green...</cabeceira>
+              <imaxe>IMG_8432.JPG</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">poisonous wart</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>Guess something terrible...</cabeceira>
+              <imaxe>IMG_8433.JPG</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">terriblo yaws</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>IMG_8434.JPG</parellas>
+              <parellas>IMG_8437.JPG</parellas>
+              <parellas>IMG_8439.JPG</parellas>
+              <parellas>IMG_8435.JPG</parellas>
+              <parellas>IMG_8436.JPG</parellas>
+              <parellas>IMG_8440.JPG</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>Guess something black...</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="121" posy="0">IMG_8438.JPG</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tongue</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="IMG_8416.JPG">horns</sopa>
+              <sopa enun="IMG_8419.JPG">tongue</sopa>
+              <sopa enun="IMG_8422.JPG">tusks</sopa>
+              <sopa enun="IMG_8440.JPG">claws</sopa>
+              <sopa enun="IMG_8418.JPG">eyes</sopa>
+              <sopa enun="IMG_8429.JPG">knees</sopa>
+              <sopa enun="IMG_8426.JPG">yaws</sopa>
+              <sopa enun="IMG_8439.JPG">wart</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="12" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>IMG_8437.JPG</imaxe>
+              <imfondo  trans="20">IMG_8437.JPG</imfondo>
+              <filas>6</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

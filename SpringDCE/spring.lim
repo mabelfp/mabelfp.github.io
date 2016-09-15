@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="84" posy="3">spring01.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="61" posy="8">spring02.jpg</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="59" posy="9">spring03.jpg</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="74" posy="12">spring04.jpg</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="42" posy="14">spring05.jpg.jpg</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="46" posy="14">spring06.jpg</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="44" posy="10">spring07.jpg</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="41" posy="12">spring08.jpg</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="54" posy="15">spring09.jpg</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word for the right picture</cabeceira>
+              <modo>3</modo>
+              <cousa nome="raincoat">raincoat.jpg</cousa>
+              <cousa nome="rubber boots">rubberboots.jpg</cousa>
+              <cousa nome="umbrella">umbrella.jpg</cousa>
+              <cousa nome="It&apos;s raining">duck_in_rain.gif</cousa>
+              <cousa nome="flowers">flowers.gif</cousa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Write the word</cabeceira>
+              <modo>1</modo>
+              <cousa nome="raincoat">raincoat.jpg</cousa>
+              <cousa nome="rubber boots">rubberboots.jpg</cousa>
+              <cousa nome="umbrella">umbrella.jpg</cousa>
+              <cousa nome="It&apos;s raining">duck_in_rain.gif</cousa>
+              <cousa nome="flowers">flowers.gif</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>24</tipo>
+              <cabeceira>Things for SPRING</cabeceira>
+              <etiqueta imaxe="flowers.gif" texto="flowers">1</etiqueta>
+              <etiqueta imaxe="snowman.jpg" texto="snowman">0</etiqueta>
+              <etiqueta imaxe="rainbow.jpg" texto="rainbow">1</etiqueta>
+              <etiqueta imaxe="snow.jpg" texto="snow">0</etiqueta>
+              <etiqueta imaxe="duck_in_rain.gif" texto="rain">1</etiqueta>
+              <etiqueta imaxe="leaves.jpg" texto="leaves">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>rainbow.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">rainbow</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>flowers.gif</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">flowers</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>7</tipo>
+              <cabeceira>Choose the right box</cabeceira>
+              <fondocaixa1 trans="25">springflowers.jpg</fondocaixa1>
+              <fondocaixa2 trans="25">winter.jpg</fondocaixa2>
+              <caixa1>SPRING</caixa1>
+              <caixa2>WINTER</caixa2>
+              <mini caixa="1">rainoutfit.jpg</mini>
+              <mini caixa="1">duck_in_rain.gif</mini>
+              <mini caixa="2">snowman.jpg</mini>
+              <mini caixa="1">rainbow.jpg</mini>
+              <mini caixa="1">chick.jpg</mini>
+              <mini caixa="2">snow.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>umbrella.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">umbrella</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>raincoat.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">raincoat</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>20</tipo>
+              <cabeceira>Choose the right word for the correct number</cabeceira>
+              <imaxe>springpicture.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="14" posy="6">sky</etiqueta>
+              <etiqueta posx="274" posy="89">mountains</etiqueta>
+              <etiqueta posx="443" posy="57">clouds</etiqueta>
+              <etiqueta posx="254" posy="278">flowers</etiqueta>
+              <etiqueta posx="415" posy="154">lake</etiqueta>
+              <etiqueta posx="50" posy="192">tree</etiqueta>
+        </paxina>
+        <paxina id="19" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>Signo-de-interrogacion.gif</imaxe>
+              <imfondo  posx="64" posy="56">rain.gif</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>It&apos;s raining</resp>
+              <rdim>70</rdim>
+        </paxina>
+        <paxina id="20" >
+              <tipo>4</tipo>
+              <cabeceira>Solve this word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="rainbow.jpg">rainbow</sopa>
+              <sopa enun="rubberboots.jpg">rubberboots</sopa>
+              <sopa enun="rain.gif">rain</sopa>
+              <sopa enun="sun.jpg">sun</sopa>
+              <sopa enun="chick.jpg">chick</sopa>
+              <sopa enun="flowers.gif">flowers</sopa>
+              <sopa enun="raincoat.jpg">raincoat</sopa>
+              <sopa enun="umbrella.jpg">umbrella</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="21" >
+              <tipo>29</tipo>
+              <cabeceira>Fill in the gaps</cabeceira>
+              <texto><![CDATA[Pitter patter *rain drops  
+Falling from the *sky  
+Here's my *umbrella  
+Hold it high! 
+When the rain is over
+and the *sun begins to glow  
+Little *flowers start to bud  
+then grow, grow, grow!!!   
+]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>17</tipo>
+              <cabeceira>Spring Matching Game</cabeceira>
+              <parellas>flowers.gif</parellas>
+              <parellas>umbrella.jpg</parellas>
+              <parellas>sun.jpg</parellas>
+              <parellas>chick.jpg</parellas>
+              <parellas>duck_in_rain.gif</parellas>
+              <parellas>raincoat.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>springpicture.jpg</imaxe>
+              <imfondo  trans="15">springpicture.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>7</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

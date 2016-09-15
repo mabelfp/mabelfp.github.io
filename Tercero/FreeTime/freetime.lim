@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="71" posy="19">freetime2.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>What do you do in your free time?. Choose.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="I help people.">helppeople.png</cousa>
+              <cousa nome="I do sports.">dosports.jpg</cousa>
+              <cousa nome="I go on excursions.">goonexcursions.jpg</cousa>
+              <cousa nome="I listen to music.">listentomusic.png</cousa>
+              <cousa nome="I make things.">makething.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>What do you do in your free time?. Write.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="I help people.">helppeople.png</cousa>
+              <cousa nome="I do sports.">dosports.jpg</cousa>
+              <cousa nome="I go on excursions.">goonexcursions.jpg</cousa>
+              <cousa nome="I listen to music.">listentomusic.png</cousa>
+              <cousa nome="I make things.">makething.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word.</cabeceira>
+              <imaxe>listentomusic.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">I listen to music</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word.</cabeceira>
+              <imaxe>helppeople.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">I help people</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word.</cabeceira>
+              <imaxe>dosports.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">I do sports</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">goonexcursions.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>I go on excursions</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <imaxe>helppeople.png</imaxe>
+              <texto>What do you do in your free time?</texto>
+              <resp texto="" valor="0">I go on excursions.</resp>
+              <resp texto="" valor="1">I help people.</resp>
+              <resp texto="" valor="0">I listen to music.</resp>
+              <resp texto="" valor="0">I make things.</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <imaxe>dosports.jpg</imaxe>
+              <texto>What do you do in your free time?</texto>
+              <resp texto="" valor="0">I go on excursions.</resp>
+              <resp texto="" valor="1">I do sports.</resp>
+              <resp texto="" valor="0">I listen to music.</resp>
+              <resp texto="" valor="0">I make things.</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <imaxe>listentomusic.png</imaxe>
+              <texto>What do you do in your free time?</texto>
+              <resp texto="" valor="0">I go on excursions.</resp>
+              <resp texto="" valor="0">I do sports.</resp>
+              <resp texto="" valor="1">I listen to music.</resp>
+              <resp texto="" valor="0">I make things.</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>1</tipo>
+              <imaxe>makething.jpg</imaxe>
+              <texto>What do you do in your free time?</texto>
+              <resp texto="" valor="0">I go on excursions.</resp>
+              <resp texto="" valor="0">I do sports.</resp>
+              <resp texto="" valor="0">I listen to music.</resp>
+              <resp texto="" valor="1">I make things.</resp>
+        </paxina>
+        <paxina id="12" >
+              <tipo>10</tipo>
+              <cabeceira>Answer:     Yes, I do.    No, I don&apos;t.</cabeceira>
+              <imaxe>helppeople.png</imaxe>
+              <pregunta res="No, I don&apos;t.">Do you make things?</pregunta>
+              <pregunta res="Yes, I do.">Do do help people?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you listen to music?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you do sports?</pregunta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>10</tipo>
+              <cabeceira>Answer:     Yes, I do.    No, I don&apos;t.</cabeceira>
+              <imaxe>dosports.jpg</imaxe>
+              <pregunta res="No, I don&apos;t.">Do you make things?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do do help people?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you listen to music?</pregunta>
+              <pregunta res="Yes, I do.">Do you do sports?</pregunta>
+        </paxina>
+        <paxina id="14" >
+              <tipo>13</tipo>
+              <cabeceira>Match the sentences.</cabeceira>
+              <unir texto="I go on excursions.">I don&apos;t go on exc.</unir>
+              <unir texto="I help people.">I don&apos;t help people.</unir>
+              <unir texto="I listen to music.">I don&apos;t listen to m.</unir>
+              <unir texto="I make things.">I don&apos;t make things.</unir>
+              <unir texto="I do sports.">I don&apos;t do sports.</unir>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>What do you do in your free time?. Choose.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="I paint pictures.">paintapicture.png</cousa>
+              <cousa nome="I play games.">play_games.png</cousa>
+              <cousa nome="I watch films.">watchfilms.png</cousa>
+              <cousa nome="I make photos.">takephotos.jpg</cousa>
+              <cousa nome="I use a computer.">useacomputer.jpg</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>What do you do in your free time?. Write.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="I paint pictures.">paintapicture.png</cousa>
+              <cousa nome="I play games.">play_games.png</cousa>
+              <cousa nome="I watch films.">watchfilms.png</cousa>
+              <cousa nome="I take photos.">takephotos.jpg</cousa>
+              <cousa nome="I use a computer.">useacomputer.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Guess.</cabeceira>
+              <imaxe>play_games.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">I play games.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess.</cabeceira>
+              <imaxe>useacomputer.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">I use a computer.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Guess.</cabeceira>
+              <imaxe>watchfilms.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">I watch films.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">paintapicture.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>I paint pictures.</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="21" >
+              <tipo>1</tipo>
+              <imaxe>useacomputer.jpg</imaxe>
+              <texto>What do you do in your free time?</texto>
+              <resp texto="" valor="1">I use a computer.</resp>
+              <resp texto="" valor="0">I take photos.</resp>
+              <resp texto="" valor="0">I watch films.</resp>
+              <resp texto="" valor="0">I paint pictures.</resp>
+        </paxina>
+        <paxina id="22" >
+              <tipo>1</tipo>
+              <imaxe>play_games.png</imaxe>
+              <texto>What do you do in your free time?</texto>
+              <resp texto="" valor="1">I play games.</resp>
+              <resp texto="" valor="0">I take photos.</resp>
+              <resp texto="" valor="0">I watch films.</resp>
+              <resp texto="" valor="0">I paint pictures.</resp>
+        </paxina>
+        <paxina id="23" >
+              <tipo>10</tipo>
+              <cabeceira>Answer:     Yes, I do.      No, I don&apos;t.</cabeceira>
+              <imaxe>play_games.png</imaxe>
+              <pregunta res="Yes, I do.">Do you  play games?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you take photos?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you use a computer?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you watch films?</pregunta>
+        </paxina>
+        <paxina id="24" >
+              <tipo>10</tipo>
+              <cabeceira>Answer:     Yes, I do.      No, I don&apos;t.</cabeceira>
+              <imaxe>watchfilms.png</imaxe>
+              <pregunta res="No, I don&apos;t.">Do you  play games?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you take photos?</pregunta>
+              <pregunta res="No, I don&apos;t.">Do you use a computer?</pregunta>
+              <pregunta res="Yes, I do.">Do you watch films?</pregunta>
+        </paxina>
+        <paxina id="25" >
+              <tipo>13</tipo>
+              <cabeceira>Match the sentences.</cabeceira>
+              <unir texto="I paint pictures.">I don&apos;t paint pictures</unir>
+              <unir texto="I take photos.">I don&apos;t take photos.</unir>
+              <unir texto="I use a computer.">I don&apos;t use a computer</unir>
+              <unir texto="I watch films.">I don&apos;t watch films.</unir>
+              <unir texto="I play games.">I don&apos;t play games.</unir>
+        </paxina>
+        <paxina id="26" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="goonexcursions.jpg">excursions</sopa>
+              <sopa enun="helppeople.png">helppeople</sopa>
+              <sopa enun="listentomusic.png">music</sopa>
+              <sopa enun="takephotos.jpg">takephotos</sopa>
+              <sopa enun="dosports.jpg">dosports</sopa>
+              <sopa enun="paintapicture.png">paint</sopa>
+              <sopa enun="watchfilms.png">watchfilms</sopa>
+              <sopa enun="useacomputer.jpg">computer</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="27" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>useacomputer.jpg</parellas>
+              <parellas>helppeople.png</parellas>
+              <parellas>watchfilms.png</parellas>
+              <parellas>dosports.jpg</parellas>
+              <parellas>paintapicture.png</parellas>
+              <parellas>takephotos.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="28" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word.</cabeceira>
+              <texto><![CDATA[What do you *do in your free time?
+What do you do every day?
+Do you *help other people?
+Do you study and play?
+
+I do *sports and use a *computer.
+I read *books and listen to *music, too.
+I watch *films and paint *pictures.
+They're all great fun to do.]]></texto>
+              <cfondo>80FFFF</cfondo>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>20</forma>
+        </paxina>
+        <paxina id="29" >
+              <tipo>35</tipo>
+              <cabeceira>Order the pictures.</cabeceira>
+              <forma>0</forma>
+              <completa>play_games.png</completa>
+              <completa>listentomusic.png</completa>
+              <completa>watchfilms.png</completa>
+              <completa>useacomputer.jpg</completa>
+              <completa>goonexcursions.jpg</completa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>35</tipo>
+              <cabeceira>Order the pictures.</cabeceira>
+              <forma>0</forma>
+              <completa>takephotos.jpg</completa>
+              <completa>helppeople.png</completa>
+              <completa>paintapicture.png</completa>
+              <completa>makething.jpg</completa>
+              <completa>dosports.jpg</completa>
+        </paxina>
+    </libro>
+</lim>

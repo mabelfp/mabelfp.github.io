@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-78" posy="-16" trans="25">Imagen1.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>24</tipo>
+              <cabeceira>BATHROOM</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bedroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="livingroom.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>LIVING ROOM</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bedroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="livingroom.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>BEDROOM</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bedroom.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="livingroom.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>GARDEN</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bedroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="livingroom.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>KITCHEN</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bedroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="livingroom.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>HOUSE</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="livingroom.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>IN</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="out.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>OUT</cabeceira>
+              <etiqueta imaxe="bathroom.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="in.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="garden.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="house.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kitchen.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="out.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <parellas>out.jpg</parellas>
+              <parellas>door.jpg</parellas>
+              <parellas>bedroom.jpg</parellas>
+              <parellas>in.jpg</parellas>
+              <parellas>kitchen.jpg</parellas>
+              <parellas>livingroom.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF80FF</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>House Matching Game</cabeceira>
+              <parellas>bathroom.jpg</parellas>
+              <parellas>bedroom.jpg</parellas>
+              <parellas>house.jpg</parellas>
+              <parellas>kitchen.jpg</parellas>
+              <parellas>livingroom.jpg</parellas>
+              <parellas>garden.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0080FF</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>14</tipo>
+              <peza imaxe="bedroom.jpg" texto="" son="">bedroom1.jpg</peza>
+              <peza imaxe="bathroom.jpg" texto="" son="">bath.jpg</peza>
+              <peza imaxe="kitchen.jpg" texto="" son="">kitchen1.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="12" >
+              <tipo>14</tipo>
+              <peza imaxe="livingroom.jpg" texto="" son="">lr.jpg</peza>
+              <peza imaxe="garden.jpg" texto="" son="">garden1.jpg</peza>
+              <peza imaxe="house.jpg" texto="" son="">door.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="118" posy="76">kitchen1.jpg</imfondo>
+              <ctapa>ECE9D8</ctapa>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="99" posy="78">garden1.jpg</imfondo>
+              <ctapa>ECE9D8</ctapa>
+              <rdim>50</rdim>
+        </paxina>
+    </libro>
+</lim>

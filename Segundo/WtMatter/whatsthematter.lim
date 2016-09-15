@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="4" posy="4" trans="25">whatsthem.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="1" posy="-68">whatsthem.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>What&apos;s the matter?</cabeceira>
+              <modo>3</modo>
+              <cousa nome="I&apos;ve got a backache">backache.jpg</cousa>
+              <cousa nome="I&apos;ve got a body ache">bodyache.jpg</cousa>
+              <cousa nome="I&apos;ve got an earache">earache.jpg</cousa>
+              <cousa nome="I&apos;ve got a headache">headache.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>What&apos;s the matter?</cabeceira>
+              <modo>3</modo>
+              <cousa nome="I&apos;ve got a neck ache">neckache.jpg</cousa>
+              <cousa nome="I&apos;ve got a toothache">toothache.jpg</cousa>
+              <cousa nome="I&apos;ve got a tummy ache">tummyache.jpg</cousa>
+              <cousa nome="I&apos;ve got an earache">earache.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>tummyache.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="&apos;abcdefghijklmnopqrstuvxyz">I&apos;ve got a tummy ache</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>headache.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="&apos;abcdefghijklmnopqrstuvwxyz">I&apos;ve got a headache</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <imaxe>neckache.jpg</imaxe>
+              <texto>What's the matter?</texto>
+              <resp texto="" valor="1">I&apos;ve got a neck ache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a backache.</resp>
+              <resp texto="" valor="0">I&apos;ve got an earache.</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <imaxe>tummyache.jpg</imaxe>
+              <texto>What's the matter?</texto>
+              <resp texto="" valor="1">I&apos;ve got a tummy ache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a tummyache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a headache.</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <imaxe>toothache.jpg</imaxe>
+              <texto>What's the matter?</texto>
+              <resp texto="" valor="1">I&apos;ve got a toothache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a tooth ache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a headache.</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <imaxe>backache.jpg</imaxe>
+              <texto>What's the matter?</texto>
+              <resp texto="" valor="1">I&apos;ve got a backache.</resp>
+              <resp texto="" valor="0">I&apos;ve got an earache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a headache.</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <cabeceira>Word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="backache.jpg">backache</sopa>
+              <sopa enun="bodyache.jpg">body ache</sopa>
+              <sopa enun="earache.jpg">earache</sopa>
+              <sopa enun="neckache.jpg">neck ache</sopa>
+              <sopa enun="tummyache.jpg">tummy ache</sopa>
+              <sopa enun="toothache.jpg">toothache</sopa>
+              <sopa enun="headache.jpg">headache</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="back ache">backache.jpg</cousa>
+              <cousa nome="earache">earache.jpg</cousa>
+              <cousa nome="toothache">toothache.jpg</cousa>
+              <cousa nome="headache">headache.jpg</cousa>
+              <cousa nome="neck ache">neckache.jpg</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hidding?</cabeceira>
+              <imaxe>questionm.jpg</imaxe>
+              <imfondo  posx="56" posy="45">tooth.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tooth</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="13" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <texto><![CDATA[What's the matter?
+I've got a *headache. I've got a headache.
+Oh! Dear. Oh! Dear.
+What's the *matter?
+I've got an earache. I've got an *earache.
+Oh! Dear. Oh! Dear.
+*What's the matter?
+I've got a *toothache. I've got a toothache.
+Oh! Dear. *Oh! Dear.
+]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the one word illness.</cabeceira>
+              <etiqueta imaxe="headache.jpg" texto="headache">1</etiqueta>
+              <etiqueta imaxe="toothache.jpg" texto="toothache">1</etiqueta>
+              <etiqueta imaxe="backache.jpg" texto="backache">1</etiqueta>
+              <etiqueta imaxe="neckache.jpg" texto="neck ache">0</etiqueta>
+              <etiqueta imaxe="tummyache.jpg" texto="tummy ache">0</etiqueta>
+              <etiqueta imaxe="earache.jpg" texto="earache">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the two words illness</cabeceira>
+              <etiqueta imaxe="backache.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="neckache.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="headache.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="tummyache.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="toothache.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="earache.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>bodyache.jpg</imaxe>
+              <imfondo  trans="15">bodyache.jpg</imfondo>
+              <filas>6</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

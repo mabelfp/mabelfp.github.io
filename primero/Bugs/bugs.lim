@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-44" posy="-30" trans="10">bugs1.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-232">bugs1.jpg</imaxe>
+              <texto posx="370" posy="156" ancho="245" largo="99"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46"><b>BUGS</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>Colin the caterpillar</cabeceira>
+              <etiqueta imaxe="annie.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bee.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lucy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="butterfly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="colin.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="snail.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>Annie the ant</cabeceira>
+              <etiqueta imaxe="annie.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bee.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lucy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="butterfly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="colin.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snail.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>Bee</cabeceira>
+              <etiqueta imaxe="annie.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bee.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="lucy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="butterfly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="colin.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snail.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>Lucy the ladybird</cabeceira>
+              <etiqueta imaxe="annie.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bee.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lucy.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="butterfly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="colin.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snail.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>Butterfly</cabeceira>
+              <etiqueta imaxe="annie.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bee.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lucy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="butterfly.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="colin.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snail.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Snail</cabeceira>
+              <etiqueta imaxe="annie.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bee.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lucy.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="butterfly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="colin.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snail.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Annie the ant">annie.jpg</cousa>
+              <cousa nome="Bee">bee.jpg</cousa>
+              <cousa nome="Butterfly">butterfly.jpg</cousa>
+              <cousa nome="Snail">snail.jpg</cousa>
+              <cousa nome="Colin the caterpillar">colin.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Annie the ant">annie.jpg</cousa>
+              <cousa nome="Lucy the ladybird">lucy.jpg</cousa>
+              <cousa nome="Butterfly">butterfly.jpg</cousa>
+              <cousa nome="Snail">snail.jpg</cousa>
+              <cousa nome="Colin the caterpillar">colin.jpg</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the name</cabeceira>
+              <imaxe>ladybird.gif</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">ladybird</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="Colin">the caterpillar</unir>
+              <unir texto="Lucy">the ladybird</unir>
+              <unir texto="Annie">the ant</unir>
+        </paxina>
+        <paxina id="12" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>annie.jpg</parellas>
+              <parellas>bee.jpg</parellas>
+              <parellas>butterfly.jpg</parellas>
+              <parellas>colin.jpg</parellas>
+              <parellas>lucy.jpg</parellas>
+              <parellas>snail.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the name</cabeceira>
+              <imaxe>caterpillar.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">caterpillar</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <cabeceira>Who&apos;s hiding?</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">ant.gif</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>ant</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the name</cabeceira>
+              <imaxe>butterfly.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">butterfly</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>bugs.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="167" posy="15">Annie the ant</etiqueta>
+              <etiqueta posx="275" posy="72">Butterfly</etiqueta>
+              <etiqueta posx="368" posy="242">Snail</etiqueta>
+              <etiqueta posx="182" posy="306">Colin the caterpillar</etiqueta>
+              <etiqueta posx="4" posy="74">Bee</etiqueta>
+              <etiqueta posx="11" posy="232">Lucy the ladybird</etiqueta>
+        </paxina>
+        <paxina id="17" >
+              <tipo>14</tipo>
+              <cabeceira>Match</cabeceira>
+              <peza imaxe="colin.jpg" texto="Colin" son="">caterpillar.jpg</peza>
+              <peza imaxe="lucy.jpg" texto="Lucy" son="">ladybird.png</peza>
+              <peza imaxe="annie.jpg" texto="Annie" son="">ant.gif</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the name</cabeceira>
+              <imaxe>snail.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">snail</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>5</tipo>
+              <cabeceira>Who&apos;s hiding?</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="109" posy="65">caterpillar.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>caterpillar</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="20" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="40">insects.jpg</fondocaixa1>
+              <fondocaixa2>100</fondocaixa2>
+              <caixa1>INSECTS, 6 legs</caixa1>
+              <caixa2>OTHER BUGS</caixa2>
+              <mini caixa="1">ant.gif</mini>
+              <mini caixa="1">bee.jpg</mini>
+              <mini caixa="2">snail.jpg</mini>
+              <mini caixa="1">ladybird.gif</mini>
+              <mini caixa="1">butterfly.jpg</mini>
+              <mini caixa="2">caterpillar.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>5</tipo>
+              <cabeceira>Who&apos;s hiding?</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">ladybird.gif</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>ladybird</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="22" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="ant.gif">ant</sopa>
+              <sopa enun="ladybird.gif">ladybird</sopa>
+              <sopa enun="butterfly.jpg">butterfly</sopa>
+              <sopa enun="snail.jpg">snail</sopa>
+              <sopa enun="colin.jpg">Colin</sopa>
+              <sopa enun="caterpillar.jpg">caterpillar</sopa>
+              <sopa enun="annie.jpg">Annie</sopa>
+              <sopa enun="bee.jpg">bee</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="23" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="bee">bee.jpg</cousa>
+              <cousa nome="ant">ant.gif</cousa>
+              <cousa nome="caterpillar">caterpillar.jpg</cousa>
+              <cousa nome="snail">snail.jpg</cousa>
+              <cousa nome="ladybird">ladybird.png</cousa>
+        </paxina>
+        <paxina id="24" >
+              <tipo>3</tipo>
+              <cabeceira>Bugs Puzzle</cabeceira>
+              <imaxe>bugs.jpg</imaxe>
+              <imfondo  trans="25">bugs.jpg</imfondo>
+              <filas>4</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

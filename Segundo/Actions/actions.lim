@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it againt!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="48" posy="-60">actions.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="listen to music">lisentomusic.jpg</cousa>
+              <cousa nome="play basketball">playbasket.jpg</cousa>
+              <cousa nome="play cards">playcards.jpg</cousa>
+              <cousa nome="play a board game">playboardgame.jpg</cousa>
+              <cousa nome="play a computer game">playcomputer.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="61" posy="1">playfootball.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>play football</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="listen to music">lisentomusic.jpg</cousa>
+              <cousa nome="play basketball">playbasket.jpg</cousa>
+              <cousa nome="play cards">playcards.jpg</cousa>
+              <cousa nome="play a board game">playboardgame.jpg</cousa>
+              <cousa nome="play a computer game">playcomputer.jpg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>rideabike.jpg</imaxe>
+              <texto>I want to...</texto>
+              <resp texto="" valor="1">ride a bike.</resp>
+              <resp texto="" valor="0">walk.</resp>
+              <resp texto="" valor="0">read a book.</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <imaxe>playboardgame.jpg</imaxe>
+              <texto>I want to...</texto>
+              <resp texto="" valor="1">play a board game.</resp>
+              <resp texto="" valor="0">play cards.</resp>
+              <resp texto="" valor="0">play a computer game.</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <imaxe>playcomputer.jpg</imaxe>
+              <texto>I want to...</texto>
+              <resp texto="" valor="0">play a board game.</resp>
+              <resp texto="" valor="0">play cards.</resp>
+              <resp texto="" valor="1">play a computer game.</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <imaxe>readabook.jpg</imaxe>
+              <texto>I want to...</texto>
+              <resp texto="" valor="0">play a board game.</resp>
+              <resp texto="" valor="0">play cards.</resp>
+              <resp texto="" valor="1">read a book.</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <imaxe>lisentomusic.jpg</imaxe>
+              <texto>I want to...</texto>
+              <resp texto="" valor="1">listen to music.</resp>
+              <resp texto="" valor="0">play cards.</resp>
+              <resp texto="" valor="0">read a book.</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>lisentomusic.jpg</parellas>
+              <parellas>playbasket.jpg</parellas>
+              <parellas>playcards.jpg</parellas>
+              <parellas>playboardgame.png</parellas>
+              <parellas>readabook.jpg</parellas>
+              <parellas>rideabike.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>808080</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="watch TV">watchtv.jpg</cousa>
+              <cousa nome="swim">swim.jpg</cousa>
+              <cousa nome="walk">walk.jpg</cousa>
+              <cousa nome="read a book">readabook.jpg</cousa>
+              <cousa nome="play football">playfootball.jpg</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="watch TV">watchtv.jpg</cousa>
+              <cousa nome="swim">swim.jpg</cousa>
+              <cousa nome="walk">walk.jpg</cousa>
+              <cousa nome="read a book">readabook.jpg</cousa>
+              <cousa nome="play football">playfootball.jpg</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="0" posy="0">dance.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>dance</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="14" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>walk.jpg</parellas>
+              <parellas>readabook.jpg</parellas>
+              <parellas>lisentomusic.jpg</parellas>
+              <parellas>watchtv.jpg</parellas>
+              <parellas>playfootball.jpg</parellas>
+              <parellas>rideabike.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>8000FF</ctapa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word puzzle</cabeceira>
+              <modo>2</modo>
+              <sopa enun="playbasket.jpg">playbasket</sopa>
+              <sopa enun="playcards.jpg">playcards</sopa>
+              <sopa enun="readabook.jpg">readabook</sopa>
+              <sopa enun="rideabike.jpg">rideabike</sopa>
+              <sopa enun="playboardgame.jpg">boardgame</sopa>
+              <sopa enun="listentomusic.png">music</sopa>
+              <sopa enun="watchtv.jpg">watchTV</sopa>
+              <sopa enun="playfootball.jpg">football</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="16" >
+              <tipo>29</tipo>
+              <cabeceira>I want to play football</cabeceira>
+              <texto><![CDATA[I want to play *football, is fun, fun, fun.
+I want to *play cards. Come on, everyone!
+
+I want to play a *computer game, is fun, fun, fun.
+I want to *watch TV. Come on, everyone!
+
+I want to play a *board game, is fun, fun, fun.
+I want to *listen to music. Come on, everyone!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>18</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <caixa1>Lots of energy.</caixa1>
+              <caixa2>No energy</caixa2>
+              <mini caixa="1">playbasket.jpg</mini>
+              <mini caixa="2">lisentomusic.jpg</mini>
+              <mini caixa="1">rideabike.jpg</mini>
+              <mini caixa="2">playboardgame.jpg</mini>
+              <mini caixa="1">swim.jpg</mini>
+              <mini caixa="2">readabook.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>24</tipo>
+              <cabeceira>Choose the &quot;play&quot; actions.</cabeceira>
+              <etiqueta imaxe="lisentomusic.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rideabike.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="playfootball.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="playcards.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="playboardgame.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="watchtv.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>actions.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="29" posy="19">watch TV</etiqueta>
+              <etiqueta posx="210" posy="102">listen to music</etiqueta>
+              <etiqueta posx="378" posy="246">play cards</etiqueta>
+              <etiqueta posx="33" posy="240">play a computer game</etiqueta>
+              <etiqueta posx="426" posy="2">sing</etiqueta>
+              <etiqueta posx="245" posy="296">play a board game</etiqueta>
+        </paxina>
+        <paxina id="20" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>actions.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="29" posy="19">watch TV</etiqueta>
+              <etiqueta posx="210" posy="102">listen to music</etiqueta>
+              <etiqueta posx="378" posy="246">play cards</etiqueta>
+              <etiqueta posx="33" posy="240">play a computer game</etiqueta>
+              <etiqueta posx="426" posy="2">sing</etiqueta>
+              <etiqueta posx="245" posy="296">play a board game</etiqueta>
+        </paxina>
+        <paxina id="21" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="I want to ">watch TV</unir>
+              <unir texto="I want to play">a board game.</unir>
+              <unir texto="I want to read">a book.</unir>
+              <unir texto="I want to ride">a bike.</unir>
+              <unir texto="I want to listen to">music.</unir>
+        </paxina>
+        <paxina id="22" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="2" posy="0">watchtv.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>watch TV</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="23" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>playboardgame.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">play a board game</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>lisentomusic.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">listen to music</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>playcards.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">play cards</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="26" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>watchtv.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">watch TV</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="27" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>playcomputer.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">play a computer game</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="28" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>playfootball.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">play football</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="29" >
+              <tipo>17</tipo>
+              <parellas>dance.jpg</parellas>
+              <parellas>swim.jpg</parellas>
+              <parellas>walk.jpg</parellas>
+              <parellas>run.jpg</parellas>
+              <parellas>sing.jpg</parellas>
+              <parellas>rideabike.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8040</ctapa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle.</cabeceira>
+              <imaxe>actions.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

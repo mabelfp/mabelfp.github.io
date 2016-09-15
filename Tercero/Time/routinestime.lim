@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>C0C0C0</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="55" posy="4">routines.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="I wake up.">iwakeup.jpg</cousa>
+              <cousa nome="I get dressed.">igetdressed.jpg</cousa>
+              <cousa nome="I brush my teeth.">ibrushmyteeth.jpg</cousa>
+              <cousa nome="I have lunch.">ihavelunch.jpg</cousa>
+              <cousa nome="I have a shower.">ihaveashower.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="I wake up.">iwakeup.jpg</cousa>
+              <cousa nome="I get dressed.">igetdressed.jpg</cousa>
+              <cousa nome="I brush my teeth.">ibrushmyteeth.jpg</cousa>
+              <cousa nome="I have lunch.">ihavelunch.jpg</cousa>
+              <cousa nome="I have a shower.">ihaveashower.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="I do my homework.">idomyhomework.jpg</cousa>
+              <cousa nome="I go to school.">igotoschool.jpg</cousa>
+              <cousa nome="I have breakfast.">ihavebreakfast.jpg</cousa>
+              <cousa nome="I get up.">igetup.jpg</cousa>
+              <cousa nome="I go to bed.">igotobed.jpg</cousa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="I do my homework.">idomyhomework.jpg</cousa>
+              <cousa nome="I go to school.">igotoschool.jpg</cousa>
+              <cousa nome="I have breakfast.">ihavebreakfast.jpg</cousa>
+              <cousa nome="I get up.">igetup.jpg</cousa>
+              <cousa nome="I go to bed.">igotobed.jpg</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+              <cabeceira>Choose.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="It&apos;s ten o&apos;clock.">10.jpg</cousa>
+              <cousa nome="It&apos;s eight o&apos;clock.">8.jpg</cousa>
+              <cousa nome="It&apos;s nine o&apos;clock.">9oclock.jpg</cousa>
+              <cousa nome="It&apos;s half past three.">halfpast3.jpg</cousa>
+              <cousa nome="It&apos;s half past eight.">halfpast8.jpg</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>Write.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="It&apos;s ten o&apos;clock.">10.jpg</cousa>
+              <cousa nome="It&apos;s eight o&apos;clock.">8.jpg</cousa>
+              <cousa nome="It&apos;s nine o&apos;clock.">9oclock.jpg</cousa>
+              <cousa nome="It&apos;s half past three.">halfpast3.jpg</cousa>
+              <cousa nome="It&apos;s half past eight.">halfpast8.jpg</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>13</tipo>
+              <cabeceira>Match sentences.</cabeceira>
+              <unir texto="I wake up ">at seven o&apos;clock.</unir>
+              <unir texto="I have a shower">at half past seven.</unir>
+              <unir texto="I brush my teeth">at eight o&apos;clock.</unir>
+              <unir texto="I go to school">at half past eight.</unir>
+              <unir texto="I do my homework">at four o&apos;clock.</unir>
+        </paxina>
+        <paxina id="9" >
+              <tipo>29</tipo>
+              <cabeceira>Complete the text.</cabeceira>
+              <texto><![CDATA[I *wake up at seven o'clock.
+I get *up.
+I have a *shower at half past seven.
+I get *dressed.
+I have breakfast at *eight o'clock.
+I *brush my teeth.
+I go to *school at half past eight.
+I have lunch at half past *two.
+I do my homework at four *o'clock.
+I *have dinner at nine o'clock.
+I go to *bed at ten o'clock.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search.</cabeceira>
+              <modo>2</modo>
+              <sopa enun="igetup.jpg">Igetup</sopa>
+              <sopa enun="10.jpg">teno&apos;clock</sopa>
+              <sopa enun="ihavedinner.jpg">Ihavedinner</sopa>
+              <sopa enun="halfpast3.jpg">halfpast3</sopa>
+              <sopa enun="iwakeup.jpg">Iwakeup</sopa>
+              <sopa enun="2.jpg">twoo&apos;clock</sopa>
+              <sopa enun="igotoschool.jpg">Igotoschool</sopa>
+              <sopa enun="halfpast8.jpg">halfpast8</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+    </libro>
+</lim>

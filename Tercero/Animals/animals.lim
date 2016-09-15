@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="53" posy="-15">animals.jpg</imaxe>
+              <texto posx="484" posy="46" ancho="269" largo="273"><![CDATA[
+<p align="left">
+<font color="#080000" face="Lucida Handwriting" size="24">Let's<br>
+talk<br>
+about<br>
+ANIMALS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>6</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="100">snake.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">bird.jpg</fondocaixa2>
+              <nome caixa="2">I haven&apos;t got a long tongue.</nome>
+              <nome caixa="2">I&apos;ve got two legs and two wings.</nome>
+              <nome caixa="1">I haven&apos;t got legs.</nome>
+              <nome caixa="1">I&apos;ve got a long body.</nome>
+              <nome caixa="1">I&apos;ve got scales.</nome>
+              <nome caixa="2">I&apos;ve got feathers.</nome>
+              <caixa1>Snake</caixa1>
+              <caixa2>Bird</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>6</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="100">gorilla.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">tiger.jpg</fondocaixa2>
+              <nome caixa="1">I&apos;ve got a big body but I haven&apos;t got whiskers.</nome>
+              <nome caixa="2">I&apos;ve hot a long tail and a big mouth.</nome>
+              <nome caixa="1">I&apos;ve got small ears.</nome>
+              <nome caixa="2">I&apos;ve got orange and black stripes.</nome>
+              <nome caixa="1">I haven&apos;t got sharp teeth.</nome>
+              <nome caixa="2">I&apos;ve got claws.</nome>
+              <caixa1>Gorilla</caixa1>
+              <caixa2>Tiger</caixa2>
+              <modo></modo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>29</tipo>
+              <cabeceira>Animal Body Parts Song</cabeceira>
+              <texto><![CDATA[I'm a fish. I've got *scales and a tail.
+I live in the *sea. Look at me, how I swim.
+I'm a tiger. I've got *claws and *sharp teeth.
+I live in the *jungle. Look at me, how I roar.
+I'm a bird. I've got *feathers and two wings.
+I live in the trees. Look at me, how I sing.
+I'm a zebra. I've got *stripes, black and white.
+I live in the *grasslands. Look at me, how I run.]]></texto>
+              <cfondo>0080FF</cfondo>
+              <ctexto>FFFFFF</ctexto>
+              <modo>2</modo>
+              <forma>20</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>1</tipo>
+              <imaxe>snake.jpg</imaxe>
+              <texto>What has the snake got?</texto>
+              <resp texto="" valor="0">The snake has got claws.</resp>
+              <resp texto="" valor="1">The snake has got a long body.</resp>
+              <resp texto="" valor="1">The snake has got a long tongue.</resp>
+              <resp texto="" valor="1">The snake has got scales.</resp>
+        </paxina>
+        <paxina id="6" >
+              <tipo>1</tipo>
+              <imaxe>gorilla.jpg</imaxe>
+              <texto>What has the gorilla got?</texto>
+              <resp texto="" valor="0">The gorilla has got a beak.</resp>
+              <resp texto="" valor="1">The gorilla has got smalls ears.</resp>
+              <resp texto="" valor="1">The gorilla has got a big body.</resp>
+              <resp texto="" valor="0">The gorilla has got horns.</resp>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <imaxe>tiger.jpg</imaxe>
+              <texto>What has the tiger got?</texto>
+              <resp texto="" valor="0">The tiger has got black and white stripes.</resp>
+              <resp texto="" valor="1">The tiger has got sharp teeth.</resp>
+              <resp texto="" valor="1">The tiger has got claws.</resp>
+              <resp texto="" valor="1">The tiger has got whiskers.</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <imaxe>crocodile.jpg</imaxe>
+              <texto>What has the crocodile got?</texto>
+              <resp texto="" valor="1">The crocodile has got a big mouth.</resp>
+              <resp texto="" valor="1">The crocodile has got sharp teeth.</resp>
+              <resp texto="" valor="0">The crocodile has got claws.</resp>
+              <resp texto="" valor="0">The crocodile has got four legs</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game.</cabeceira>
+              <parellas>crocodile.jpg</parellas>
+              <parellas>leopard.jpg</parellas>
+              <parellas>gorilla.jpg</parellas>
+              <parellas>snake.jpg</parellas>
+              <parellas>tiger.jpg</parellas>
+              <parellas>lion.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="100">jungle.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">sea.jpg</fondocaixa2>
+              <caixa1>They live in the jungle.</caixa1>
+              <caixa2>They live in the sea.</caixa2>
+              <mini caixa="1">crocodile.jpg</mini>
+              <mini caixa="2">fish.jpg</mini>
+              <mini caixa="1">gorilla.jpg</mini>
+              <mini caixa="2">shark.JPG</mini>
+              <mini caixa="1">tiger.jpg</mini>
+              <mini caixa="2">whale.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>100</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the Word Puzzle</cabeceira>
+              <modo>2</modo>
+              <sopa enun="gorilla.jpg">gorilla</sopa>
+              <sopa enun="leopard.jpg">leopard</sopa>
+              <sopa enun="tiger.jpg">tiger</sopa>
+              <sopa enun="zebra.jpg">zebra</sopa>
+              <sopa enun="crocodile.jpg">crocodile</sopa>
+              <sopa enun="shark.JPG">shark</sopa>
+              <sopa enun="snake.jpg">snake</sopa>
+              <sopa enun="whale.jpg">whale</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="12" >
+              <tipo>20</tipo>
+              <cabeceira>Match the words with the numbers.</cabeceira>
+              <imaxe>leopard.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="290" posy="50">ear</etiqueta>
+              <etiqueta posx="130" posy="12">back</etiqueta>
+              <etiqueta posx="6" posy="35">tail</etiqueta>
+              <etiqueta posx="279" posy="108">whiskers</etiqueta>
+              <etiqueta posx="249" posy="139">claws</etiqueta>
+              <etiqueta posx="151" posy="62">body</etiqueta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>20</tipo>
+              <cabeceira>Match the words with the numbers.</cabeceira>
+              <imaxe>snake.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="63" posy="43">mouth</etiqueta>
+              <etiqueta posx="70" posy="0">eyes</etiqueta>
+              <etiqueta posx="8" posy="76">tongue</etiqueta>
+              <etiqueta posx="43" posy="146">scales</etiqueta>
+              <etiqueta posx="234" posy="139">tail</etiqueta>
+              <etiqueta posx="175" posy="60">body</etiqueta>
+        </paxina>
+        <paxina id="14" >
+              <tipo>20</tipo>
+              <cabeceira>Match the words with the numbers.</cabeceira>
+              <imaxe>animals.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="51" posy="49">small ears</etiqueta>
+              <etiqueta posx="245" posy="63">sharp teeth</etiqueta>
+              <etiqueta posx="406" posy="32">long tail</etiqueta>
+              <etiqueta posx="220" posy="216">big mouth</etiqueta>
+              <etiqueta posx="3" posy="270">long tongue</etiqueta>
+              <etiqueta posx="361" posy="251">short legs</etiqueta>
+        </paxina>
+    </libro>
+</lim>

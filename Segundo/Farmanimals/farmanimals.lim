@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFFFF</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>FF8040</cortexto>
+        <imaxefondo posx="-34" posy="170" trans="25">farmanimals.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="108" posy="43">moon.jpg</imaxe>
+              <texto posx="109" posy="326" ancho="563" largo="93"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="28">The moon is in the river</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="cow">cow.jpg</cousa>
+              <cousa nome="sheep">sheep.jpg</cousa>
+              <cousa nome="turkey">turkey.jpg</cousa>
+              <cousa nome="duck">duck.jpg</cousa>
+              <cousa nome="goat">goat.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="0" posy="0">hen.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>hen</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="4" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="108" posy="28">pig.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>pig</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="5" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="cow">cow.jpg</cousa>
+              <cousa nome="sheep">sheep.jpg</cousa>
+              <cousa nome="turkey">turkey.jpg</cousa>
+              <cousa nome="duck">duck.jpg</cousa>
+              <cousa nome="goat">goat.jpg</cousa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>duck.jpg</parellas>
+              <parellas>goat.jpg</parellas>
+              <parellas>turkey.jpg</parellas>
+              <parellas>horse.jpg</parellas>
+              <parellas>rabbit.jpg</parellas>
+              <parellas>sheep.jpg</parellas>
+              <cfondo>0000FF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>3</modo>
+              <cousa nome="donkey">donkey.png</cousa>
+              <cousa nome="cat">cat.jpg</cousa>
+              <cousa nome="owl">owl.jpg</cousa>
+              <cousa nome="pig">pig.jpg</cousa>
+              <cousa nome="horse">horse.jpg</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>donkey.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">donkey</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>sheep.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sheep</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="63" posy="16">rabbit.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>rabbit</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="donkey">donkey.png</cousa>
+              <cousa nome="cat">cat.jpg</cousa>
+              <cousa nome="owl">owl.jpg</cousa>
+              <cousa nome="pig">pig.jpg</cousa>
+              <cousa nome="horse">horse.jpg</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="25">farmanimals.jpg</fondocaixa1>
+              <fondocaixa2 trans="25">wildanimals.jpg</fondocaixa2>
+              <caixa1>Farm Animals</caixa1>
+              <caixa2>Wild Animals</caixa2>
+              <mini caixa="1">cow.jpg</mini>
+              <mini caixa="1">bird.jpg</mini>
+              <mini caixa="1">hippo.jpg</mini>
+              <mini caixa="2">leopard.jpg</mini>
+              <mini caixa="1">goat.jpg</mini>
+              <mini caixa="1">mouse.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="13" >
+              <tipo>35</tipo>
+              <cabeceira>Order the pictures</cabeceira>
+              <forma>0</forma>
+              <completa>sheep.jpg</completa>
+              <completa>duck.jpg</completa>
+              <completa>cow.jpg</completa>
+              <completa>horse.jpg</completa>
+              <completa>cat.jpg</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>29</tipo>
+              <cabeceira>Fill in the gaps</cabeceira>
+              <texto><![CDATA[On the *farm by the river there's a sheep.
+On the farm by the *river there's a sheep and a duck.
+On the farm by the river there's a *sheep and a duck and a cow.
+On the farm by the river there's a sheep
+and a *duck and a cow and a hen.
+On the farm by the river there's a sheep
+and a duck and a *cow and a hen and a horse.
+On the farm by the river there's a sheep
+and a duck and a cow and a *hen and a horse and a cat.
+An that is that.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>farmanimalssmall.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="274" posy="61">cow</etiqueta>
+              <etiqueta posx="264" posy="140">chicken</etiqueta>
+              <etiqueta posx="361" posy="184">goat</etiqueta>
+              <etiqueta posx="388" posy="11">donkey</etiqueta>
+              <etiqueta posx="16" posy="51">horse</etiqueta>
+              <etiqueta posx="78" posy="113">sheep</etiqueta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>farmanimalssmall.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="274" posy="61">cow</etiqueta>
+              <etiqueta posx="264" posy="140">chicken</etiqueta>
+              <etiqueta posx="361" posy="184">goat</etiqueta>
+              <etiqueta posx="388" posy="11">donkey</etiqueta>
+              <etiqueta posx="16" posy="51">horse</etiqueta>
+              <etiqueta posx="78" posy="113">sheep</etiqueta>
+        </paxina>
+        <paxina id="17" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="cow.jpg">cow</sopa>
+              <sopa enun="goat.jpg">goat</sopa>
+              <sopa enun="horse.jpg">horse</sopa>
+              <sopa enun="pig.jpg">pig</sopa>
+              <sopa enun="owl.jpg">owl</sopa>
+              <sopa enun="hen.jpg">hen</sopa>
+              <sopa enun="turkey.jpg">turkey</sopa>
+              <sopa enun="sheep.jpg">sheep</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>qwrtyp</fondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="fourteen">14.jpg</cousa>
+              <cousa nome="seventeen">17.jpg</cousa>
+              <cousa nome="twenty">20.jpg</cousa>
+              <cousa nome="twelve">12.jpg</cousa>
+              <cousa nome="fifteen">15.jpg</cousa>
+        </paxina>
+        <paxina id="19" >
+              <tipo>24</tipo>
+              <cabeceira>Even numbers</cabeceira>
+              <etiqueta imaxe="11.jpg" texto="eleven">0</etiqueta>
+              <etiqueta imaxe="12.jpg" texto="twelve">1</etiqueta>
+              <etiqueta imaxe="13.jpg" texto="thirteen">0</etiqueta>
+              <etiqueta imaxe="14.jpg" texto="fourteen">1</etiqueta>
+              <etiqueta imaxe="15.jpg" texto="fifteen">0</etiqueta>
+              <etiqueta imaxe="16.jpg" texto="sixteen">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="20" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>12.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">twelve</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>20.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">twenty</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="fourteen">14.jpg</cousa>
+              <cousa nome="seventeen">17.jpg</cousa>
+              <cousa nome="twenty">20.jpg</cousa>
+              <cousa nome="twelve">12.jpg</cousa>
+              <cousa nome="fifteen">15.jpg</cousa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="eleven">11.jpg</cousa>
+              <cousa nome="seventeen">17.jpg</cousa>
+              <cousa nome="sixteen">16.jpg</cousa>
+              <cousa nome="nineteen">19.jpg</cousa>
+              <cousa nome="thirteen">13.jpg</cousa>
+        </paxina>
+        <paxina id="24" >
+              <tipo>24</tipo>
+              <cabeceira>Odd numbers</cabeceira>
+              <etiqueta imaxe="20.jpg" texto="twenty">0</etiqueta>
+              <etiqueta imaxe="19.jpg" texto="nineteen">1</etiqueta>
+              <etiqueta imaxe="18.jpg" texto="eighteen">0</etiqueta>
+              <etiqueta imaxe="17.jpg" texto="seventeen">1</etiqueta>
+              <etiqueta imaxe="16.jpg" texto="sixteen">0</etiqueta>
+              <etiqueta imaxe="15.jpg" texto="fifteen">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="25" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="eleven">11.jpg</cousa>
+              <cousa nome="seventeen">17.jpg</cousa>
+              <cousa nome="sixteen">16.jpg</cousa>
+              <cousa nome="nineteen">19.jpg</cousa>
+              <cousa nome="thirteen">13.jpg</cousa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>18.jpg</parellas>
+              <parellas>13.jpg</parellas>
+              <parellas>12.jpg</parellas>
+              <parellas>20.jpg</parellas>
+              <parellas>16.jpg</parellas>
+              <parellas>14.jpg</parellas>
+              <cfondo>0000FF</cfondo>
+              <ctapa>FF00FF</ctapa>
+        </paxina>
+        <paxina id="27" >
+              <tipo>35</tipo>
+              <cabeceira>Order these odd numbers</cabeceira>
+              <forma>0</forma>
+              <completa>11.jpg</completa>
+              <completa>13.jpg</completa>
+              <completa>15.jpg</completa>
+              <completa>17.jpg</completa>
+              <completa>19.jpg</completa>
+        </paxina>
+        <paxina id="28" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the number</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="155" posy="26">15.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>fifteen</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="29" >
+              <tipo>35</tipo>
+              <cabeceira>Order these even numbers</cabeceira>
+              <forma>0</forma>
+              <completa>12.jpg</completa>
+              <completa>14.jpg</completa>
+              <completa>16.jpg</completa>
+              <completa>18.jpg</completa>
+              <completa>20.jpg</completa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the number</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="122" posy="27">11.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>eleven</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="31" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the number</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="124" posy="28">18.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>eighteen</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="32" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="141" posy="26">13.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>thirteen</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="33" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="143" posy="28">17.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>seventeen</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="34" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="11.jpg">eleven</sopa>
+              <sopa enun="12.jpg">twelve</sopa>
+              <sopa enun="13.jpg">thirteen</sopa>
+              <sopa enun="14.jpg">fourteen</sopa>
+              <sopa enun="15.jpg">fifteen</sopa>
+              <sopa enun="20.jpg">twenty</sopa>
+              <sopa enun="17.jpg">seventeen</sopa>
+              <sopa enun="18.jpg">eighteen</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="35" >
+              <tipo>3</tipo>
+              <cabeceira>Solve this puzzle</cabeceira>
+              <imaxe>farm2.jpg</imaxe>
+              <imfondo  trans="35">farm2.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

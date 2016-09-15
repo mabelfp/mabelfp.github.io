@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>17</tipo>
+              <cabeceira>Animals Matching Game</cabeceira>
+              <parellas>elephant.jpg</parellas>
+              <parellas>giraffe.jpg</parellas>
+              <parellas>zebra.jpg</parellas>
+              <parellas>mouse.jpg</parellas>
+              <parellas>lion.jpg</parellas>
+              <parellas>parrot.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>17</tipo>
+              <cabeceira>Actions Matching Game</cabeceira>
+              <parellas>fly.jpg</parellas>
+              <parellas>jump.jpg</parellas>
+              <parellas>turnaround.jpg</parellas>
+              <parellas>run.jpg</parellas>
+              <parellas>swim.jpg</parellas>
+              <parellas>sing.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0000FF</ctapa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="giraffe">giraffe.jpg</cousa>
+              <cousa nome="elephant">elephant.jpg</cousa>
+              <cousa nome="parrot">parrot.jpg</cousa>
+              <cousa nome="lion">lion.jpg</cousa>
+              <cousa nome="zebra">zebra.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+              <cabeceira>Animal Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="giraffe.jpg">giraffe</sopa>
+              <sopa enun="elephant.jpg">elephant</sopa>
+              <sopa enun="lion.jpg">lion</sopa>
+              <sopa enun="parrot.jpg">parrot</sopa>
+              <sopa enun="bull.jpg">bull</sopa>
+              <sopa enun="mouse.jpg">mouse</sopa>
+              <sopa enun="bear.jpg">bear</sopa>
+              <sopa enun="zebra.jpg">zebra</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>qwzx</fondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the animal</cabeceira>
+              <imaxe>questionm.jpg</imaxe>
+              <imfondo  posx="19" posy="79">parrotsmall.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>parrot</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>zebrasm.jpg</imaxe>
+              <imfondo  trans="10">zebrasm.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

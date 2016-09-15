@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >VERY  GOOD!</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>17</tipo>
+              <cabeceira>FARM ANIMALS MATCHING GAME</cabeceira>
+              <parellas>bird.jpg</parellas>
+              <parellas>duck.jpg</parellas>
+              <parellas>sheep.jpg</parellas>
+              <parellas>cow.jpg</parellas>
+              <parellas>horse.jpg</parellas>
+              <parellas>farm.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF00FF</ctapa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="clean.jpg" texto="">clean.jpg</parellas>
+              <parellas imaxe="dog.jpg" texto="">dog.jpg</parellas>
+              <parellas imaxe="rabbit.jpg" texto="">rabbit.jpg</parellas>
+              <parellas imaxe="dirty.jpg" texto="">dirty.jpg</parellas>
+              <parellas imaxe="cat.jpg" texto="">cat.jpg</parellas>
+              <parellas imaxe="bird.jpg" texto="">bird.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+    </libro>
+</lim>

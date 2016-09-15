@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-78" posy="38" trans="15">healthproblems.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="326" posy="186" ancho="617" largo="303"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">I'M  FEELING  ILL</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="cold">cold.jpg</cousa>
+              <cousa nome="cough">cough.jpg</cousa>
+              <cousa nome="cut">cut.jpg</cousa>
+              <cousa nome="sore throat">sorethroat.jpg</cousa>
+              <cousa nome="flu">FLU.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="75" posy="5">cut.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>cut</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>sorethroat.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sore throat</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>cough.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">cough</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="50" posy="6">cold.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>cold</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="16" posy="12">FLU.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>flu</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="cold">cold.jpg</cousa>
+              <cousa nome="cough">cough.jpg</cousa>
+              <cousa nome="cut">cut.jpg</cousa>
+              <cousa nome="sore throat">sorethroat.jpg</cousa>
+              <cousa nome="flu">FLU.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="backache">backache.jpg</cousa>
+              <cousa nome="earache">earache.png</cousa>
+              <cousa nome="tummy ache">tummy_ache.jpg</cousa>
+              <cousa nome="headache">headache.jpg</cousa>
+              <cousa nome="toothache">toothache.jpg</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="99" posy="79">tummy_ache.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tummy ache</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="37" posy="34">earache.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>earache</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>backache.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">backache</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>toothache.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">toothache</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>toothache.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">toothache</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>headache.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">headache</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="backache">backache.jpg</cousa>
+              <cousa nome="earache">earache.png</cousa>
+              <cousa nome="tummy ache">tummy_ache.jpg</cousa>
+              <cousa nome="headache">headache.jpg</cousa>
+              <cousa nome="toothache">toothache.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="cold.jpg">cold</sopa>
+              <sopa enun="cough.jpg">cough</sopa>
+              <sopa enun="cut.jpg">cut</sopa>
+              <sopa enun="earache.png">earache</sopa>
+              <sopa enun="headache.jpg">headache</sopa>
+              <sopa enun="sorethroat.jpg">sore throat</sopa>
+              <sopa enun="toothache.jpg">toothache</sopa>
+              <sopa enun="tummy_ache.jpg">tummy ache</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="18" >
+              <tipo>1</tipo>
+              <imaxe>earache.png</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="1">I&apos;ve got an earache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a cold.</resp>
+              <resp texto="" valor="0">I&apos;ve got a sore throat.</resp>
+              <resp texto="" valor="0">I&apos;ve got a tummy ache.</resp>
+        </paxina>
+        <paxina id="19" >
+              <tipo>1</tipo>
+              <imaxe>sorethroat.jpg</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="0">I&apos;ve got an earache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a cold.</resp>
+              <resp texto="" valor="1">I&apos;ve got a sore throat.</resp>
+              <resp texto="" valor="0">I&apos;ve got a tummy ache.</resp>
+        </paxina>
+        <paxina id="20" >
+              <tipo>1</tipo>
+              <imaxe>tummy_ache.jpg</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="0">I&apos;ve got an earache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a cold.</resp>
+              <resp texto="" valor="0">I&apos;ve got a sore throat.</resp>
+              <resp texto="" valor="1">I&apos;ve got a tummy ache.</resp>
+        </paxina>
+        <paxina id="21" >
+              <tipo>1</tipo>
+              <imaxe>ill.png</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="0">I&apos;ve got an earache.</resp>
+              <resp texto="" valor="0">I&apos;ve got a cold.</resp>
+              <resp texto="" valor="0">I&apos;ve got a sore throat.</resp>
+              <resp texto="" valor="1">I&apos;m feeling ill.</resp>
+        </paxina>
+        <paxina id="22" >
+              <tipo>1</tipo>
+              <imaxe>cold.jpg</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="0">I&apos;ve got a cut.</resp>
+              <resp texto="" valor="1">I&apos;ve got a cold.</resp>
+              <resp texto="" valor="0">I&apos;ve got a headache.</resp>
+              <resp texto="" valor="0">I&apos;m feeling ill.</resp>
+        </paxina>
+        <paxina id="23" >
+              <tipo>1</tipo>
+              <imaxe>cut.jpg</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="1">I&apos;ve got a cut.</resp>
+              <resp texto="" valor="0">I&apos;ve got a cold.</resp>
+              <resp texto="" valor="0">I&apos;ve got a headache.</resp>
+              <resp texto="" valor="0">I&apos;m feeling ill.</resp>
+        </paxina>
+        <paxina id="24" >
+              <tipo>1</tipo>
+              <imaxe>headache.jpg</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="0">I&apos;ve got a cut.</resp>
+              <resp texto="" valor="0">I&apos;ve got a cold.</resp>
+              <resp texto="" valor="1">I&apos;ve got a headache.</resp>
+              <resp texto="" valor="0">I&apos;m feeling ill.</resp>
+        </paxina>
+        <paxina id="25" >
+              <tipo>1</tipo>
+              <imaxe>FLU.jpg</imaxe>
+              <texto>What's the matter?
+I'm feeling ill.</texto>
+              <resp texto="" valor="0">I&apos;ve got a cut.</resp>
+              <resp texto="" valor="1">I&apos;ve got flu.</resp>
+              <resp texto="" valor="0">I&apos;ve got a headache.</resp>
+              <resp texto="" valor="0">I&apos;m feeling ill.</resp>
+        </paxina>
+        <paxina id="26" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>hp.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="167" posy="72">cold</etiqueta>
+              <etiqueta posx="251" posy="32">earache</etiqueta>
+              <etiqueta posx="226" posy="102">cut</etiqueta>
+              <etiqueta posx="440" posy="209">toothache</etiqueta>
+              <etiqueta posx="87" posy="279">tummy ache</etiqueta>
+              <etiqueta posx="36" posy="215">cough</etiqueta>
+        </paxina>
+        <paxina id="27" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>hp.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="167" posy="72">cold</etiqueta>
+              <etiqueta posx="251" posy="32">earache</etiqueta>
+              <etiqueta posx="226" posy="102">cut</etiqueta>
+              <etiqueta posx="440" posy="209">toothache</etiqueta>
+              <etiqueta posx="87" posy="279">tummy ache</etiqueta>
+              <etiqueta posx="36" posy="215">cough</etiqueta>
+        </paxina>
+        <paxina id="28" >
+              <tipo>11</tipo>
+              <cabeceira>Keeping Healthy</cabeceira>
+              <modo>3</modo>
+              <cousa nome="do exercise">doexercise.jpg</cousa>
+              <cousa nome="drink water">drinkwater.jpg</cousa>
+              <cousa nome="wash your hands">washyourhands.jpg</cousa>
+              <cousa nome="eat well">eatwell.png</cousa>
+              <cousa nome="sleep well">sleepwell.jpg</cousa>
+        </paxina>
+        <paxina id="29" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>doexercise.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">do exercise</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="30" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>drinkwater.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">drink water</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="31" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>brusht.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">brush your teeth</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="32" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>sleepwell.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sleep well</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="33" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="25" posy="10">play.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>play</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="34" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>eatwell.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">eat well</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="35" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>washyourhands.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">wash your hands</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="36" >
+              <tipo>11</tipo>
+              <cabeceira>Keeping Healthy</cabeceira>
+              <modo>1</modo>
+              <cousa nome="do exercise">doexercise.jpg</cousa>
+              <cousa nome="drink water">drinkwater.jpg</cousa>
+              <cousa nome="wash your hands">washyourhands.jpg</cousa>
+              <cousa nome="eat well">eatwell.png</cousa>
+              <cousa nome="sleep well">sleepwell.jpg</cousa>
+        </paxina>
+        <paxina id="37" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="50">feelingill.jpg</fondocaixa1>
+              <fondocaixa2 trans="50">kh.jpg</fondocaixa2>
+              <caixa1>Illness</caixa1>
+              <caixa2>Keeping Healthy</caixa2>
+              <mini caixa="1">cold.jpg</mini>
+              <mini caixa="2">drinkwater.jpg</mini>
+              <mini caixa="1">headache.jpg</mini>
+              <mini caixa="2">sleepwell.jpg</mini>
+              <mini caixa="1">sorethroat.jpg</mini>
+              <mini caixa="2">washyourhands.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="38" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Illness</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="backache">backache.jpg</parellas>
+              <parellas imaxe="" texto="cough">cough.jpg</parellas>
+              <parellas imaxe="" texto="tummy ache">tummy_ache.jpg</parellas>
+              <parellas imaxe="" texto="cold">cold.jpg</parellas>
+              <parellas imaxe="" texto="toothache">toothache.jpg</parellas>
+              <parellas imaxe="" texto="sore throat">sorethroat.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>808080</ctapa>
+        </paxina>
+        <paxina id="39" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Illness</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="cut">cut.jpg</parellas>
+              <parellas imaxe="" texto="cough">cough.jpg</parellas>
+              <parellas imaxe="" texto="headache">headache.jpg</parellas>
+              <parellas imaxe="" texto="earache">earache.png</parellas>
+              <parellas imaxe="" texto="flu">FLU.jpg</parellas>
+              <parellas imaxe="" texto="I&apos;m feeling ill.">ill.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>800000</ctapa>
+        </paxina>
+        <paxina id="40" >
+              <tipo>4</tipo>
+              <cabeceira>Keeping healthy</cabeceira>
+              <modo>2</modo>
+              <sopa enun="doexercise.jpg">do exercise</sopa>
+              <sopa enun="drinkwater.jpg">drink water</sopa>
+              <sopa enun="eatwell.png">eat well</sopa>
+              <sopa enun="washyourhands.jpg">wash hands</sopa>
+              <sopa enun="brusht.jpg">brush teeth</sopa>
+              <sopa enun="play.jpg">play</sopa>
+              <sopa enun="sleepwell.jpg">sleep well</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="41" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="do exercise">doexercise.jpg</parellas>
+              <parellas imaxe="" texto="drink water">drinkwater.jpg</parellas>
+              <parellas imaxe="" texto="eat well">eatwell.png</parellas>
+              <parellas imaxe="" texto="sleep well">sleepwell.jpg</parellas>
+              <parellas imaxe="" texto="wash your hands">washyourhands.jpg</parellas>
+              <parellas imaxe="" texto="brush your teeth">brusht.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="42" >
+              <tipo>24</tipo>
+              <cabeceira>Keeping healthy</cabeceira>
+              <etiqueta imaxe="backache.jpg" texto="backache">0</etiqueta>
+              <etiqueta imaxe="sorethroat.jpg" texto="sore throat">0</etiqueta>
+              <etiqueta imaxe="drinkwater.jpg" texto="drink water">1</etiqueta>
+              <etiqueta imaxe="doexercise.jpg" texto="do exercise">1</etiqueta>
+              <etiqueta imaxe="washyourhands.jpg" texto="wash your hands">1</etiqueta>
+              <etiqueta imaxe="feelingill.jpg" texto="I&apos;m feeling ill.">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="43" >
+              <tipo>6</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="20">feelingill.jpg</fondocaixa1>
+              <fondocaixa2 trans="20">kh.jpg</fondocaixa2>
+              <nome caixa="1">I&apos;ve got a cold.</nome>
+              <nome caixa="1">I&apos;ve got a sore throat.</nome>
+              <nome caixa="1">I&apos;ve got a headache.</nome>
+              <nome caixa="2">Sleep well.</nome>
+              <nome caixa="2">Do exercise.</nome>
+              <nome caixa="1">I&apos;ve got a tummy ache.</nome>
+              <caixa1>Illness</caixa1>
+              <caixa2>Keep healthy</caixa2>
+        </paxina>
+        <paxina id="44" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="What&apos;s the matter?">I&apos;ve got a sore throat</unir>
+              <unir texto="Don&apos;t be scared,">don&apos;t be sad.</unir>
+              <unir texto="Doctors help us">so we don&apos;t feel bad.</unir>
+              <unir texto="Please,">don&apos;t cry.</unir>
+        </paxina>
+        <paxina id="45" >
+              <tipo>29</tipo>
+              <cabeceira>Choose</cabeceira>
+              <texto><![CDATA[
+What’s the *matter?
+How are you today?
+ 
+I’m feeling *ill,
+so I can’t play.
+I can’t go to *school for two or three days.
+I’ve got a sore *throat,
+and a bad *cough
+a *sore throat,
+and a bad, *bad cough.
+ ]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="46" >
+              <tipo>29</tipo>
+              <cabeceira>Choose</cabeceira>
+              <texto><![CDATA[
+What’s the matter?
+How are you *today?
+ 
+I’m *feeling ill,
+so I can’t *play.
+I can’t go to school for two or *three days.
+I’ve got a *headache,
+and a bad *cold,
+a headache, 
+and a *bad, bad cold.
+]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="47" >
+              <tipo>24</tipo>
+              <cabeceira>Keeping Healthy</cabeceira>
+              <etiqueta imaxe="cough.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="cut.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="play.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="brusht.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="washyourhands.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="sleepwell.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="48" >
+              <tipo>29</tipo>
+              <cabeceira>JOKE</cabeceira>
+              <texto><![CDATA[
+Doctor, *Doctor 
+When I *press with my *finger here... it *hurts, 
+and here... it hurts, 
+and here... and here... 
+
+What do you *think is *wrong with me?
+
+You have a *broken finger!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="49" >
+              <tipo>1</tipo>
+              <cabeceira>JOKE</cabeceira>
+              <imaxe>dial-vision-glasses.jpg</imaxe>
+              <texto>Doctor, doctor,
+I think I need glasses...</texto>
+              <resp texto="" valor="1">Certainly Sir, this is a fish and chips shop.</resp>
+              <resp texto="" valor="0">Certainly Sir, this is a pet shop.</resp>
+              <resp texto="" valor="0">Certainly Sir, this is a library.</resp>
+        </paxina>
+        <paxina id="50" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the Puzzle</cabeceira>
+              <imaxe>healthproblems.jpg</imaxe>
+              <filas>6</filas>
+              <columnas>8</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

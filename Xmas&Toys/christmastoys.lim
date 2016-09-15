@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="175" posy="-67">Christmas_tree_graphic_art_snow_flash_star_color_3d_gif_animation_card.gif</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Toys</cabeceira>
+              <modo>3</modo>
+              <cousa nome="bike">bike.jpg</cousa>
+              <cousa nome="blocks">blocks.jpg</cousa>
+              <cousa nome="CD player">cdplayer.jpg</cousa>
+              <cousa nome="kite">kite.jpg</cousa>
+              <cousa nome="laptop">laptop.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Toys</cabeceira>
+              <modo>1</modo>
+              <cousa nome="bike">bike.jpg</cousa>
+              <cousa nome="blocks">blocks.jpg</cousa>
+              <cousa nome="CD player">cdplayer.jpg</cousa>
+              <cousa nome="kite">kite.jpg</cousa>
+              <cousa nome="laptop">laptop.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="151" posy="20">robot.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>robot</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>laptop.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">laptop</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>blocks.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">blocks</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>ball.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">ball</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Toys</cabeceira>
+              <modo>3</modo>
+              <cousa nome="boat">boat.jpg</cousa>
+              <cousa nome="doll">doll.jpg</cousa>
+              <cousa nome="scooter">scooter.jpg</cousa>
+              <cousa nome="puppet">puppet.jpg</cousa>
+              <cousa nome="puzzle">puzzles.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <cabeceira>Toys</cabeceira>
+              <modo>1</modo>
+              <cousa nome="">boat.jpg</cousa>
+              <cousa nome="">doll.jpg</cousa>
+              <cousa nome="">scooter.jpg</cousa>
+              <cousa nome="">puppet.jpg</cousa>
+              <cousa nome="">puzzles.jpg</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the toy</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="229" posy="74">puppet.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>puppet</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the toy</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="161" posy="34">boat.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>boat</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>bike.jpg</parellas>
+              <parellas>boat.jpg</parellas>
+              <parellas>puppet.jpg</parellas>
+              <parellas>blocks.jpg</parellas>
+              <parellas>laptop.jpg</parellas>
+              <parellas>puzzles.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0080FF</ctapa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>11</tipo>
+              <cabeceira>Toys</cabeceira>
+              <modo>3</modo>
+              <cousa nome="skipping rope">skippingrope.jpg</cousa>
+              <cousa nome="roller skates">rollerskates.jpg</cousa>
+              <cousa nome="teddy bear">teddybear.jpg</cousa>
+              <cousa nome="train">train.jpg</cousa>
+              <cousa nome="space ship">toyspaceship.jpg</cousa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>11</tipo>
+              <cabeceira>Toys</cabeceira>
+              <modo>1</modo>
+              <cousa nome="skipping rope">skippingrope.jpg</cousa>
+              <cousa nome="roller skates">rollerskates.jpg</cousa>
+              <cousa nome="teddy bear">teddybear.jpg</cousa>
+              <cousa nome="train">train.jpg</cousa>
+              <cousa nome="space ship">toyspaceship.jpg</cousa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="154" posy="72">skippingrope.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>skipping rope</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="16" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>toyspaceship.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">space ship</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>skateboard.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">skate board</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>scooter.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">scooter</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>skateboard.jpg</parellas>
+              <parellas>scooter.jpg</parellas>
+              <parellas>rollerskates.jpg</parellas>
+              <parellas>skippingrope.jpg</parellas>
+              <parellas>mp3.jpg</parellas>
+              <parellas>kite.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF80</ctapa>
+        </paxina>
+        <paxina id="20" >
+              <tipo>4</tipo>
+              <cabeceira>Toy Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="bike.jpg">bike</sopa>
+              <sopa enun="laptop.jpg">laptop</sopa>
+              <sopa enun="puppet.jpg">puppet</sopa>
+              <sopa enun="scooter.jpg">scooter</sopa>
+              <sopa enun="blocks.jpg">blocks</sopa>
+              <sopa enun="doll.jpg">doll</sopa>
+              <sopa enun="puzzles.jpg">puzzle</sopa>
+              <sopa enun="train.jpg">train</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>abcdefghijklmnopqrstuvwxyz</fondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>29</tipo>
+              <cabeceira>Teddy bear, teddy bear.</cabeceira>
+              <texto><![CDATA[Teddy bear, *teddy bear,
+turn *around.
+Teddy bear, teddy bear,
+touch the *ground.
+Teddy bear, teddy *bear,
+polish your *shoes.
+Teddy bear, teddy bear,
+go to *school!]]></texto>
+              <cfondo>804000</cfondo>
+              <ctexto>FFFF00</ctexto>
+              <modo>2</modo>
+              <forma>22</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the Puzzle</cabeceira>
+              <imaxe>toys.jpg</imaxe>
+              <imfondo  trans="10">toys.jpg</imfondo>
+              <filas>6</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>2</tipo>
+              <imaxe posx="172" posy="-59">Christmas_tree_graphic_art_snow_flash_star_color_3d_gif_animation_card.gif</imaxe>
+        </paxina>
+        <paxina id="24" >
+              <tipo>11</tipo>
+              <cabeceira>Christmas</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Father Chritmas">xfatherxmas.jpg</cousa>
+              <cousa nome="Christmas bells">xmasbells.jpg</cousa>
+              <cousa nome="present">xpresent.jpg</cousa>
+              <cousa nome="Christmas tree">xmastree.jpg</cousa>
+              <cousa nome="Christmas ornaments">xornaments.jpg</cousa>
+        </paxina>
+        <paxina id="25" >
+              <tipo>11</tipo>
+              <cabeceira>Christmas</cabeceira>
+              <modo>1</modo>
+              <cousa nome="Father Chritmas">xfatherxmas.jpg</cousa>
+              <cousa nome="Christmas bells">xmasbells.jpg</cousa>
+              <cousa nome="present">xpresent.jpg</cousa>
+              <cousa nome="Christmas tree">xmastree.jpg</cousa>
+              <cousa nome="Christmas ornaments">xornaments.jpg</cousa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="43" posy="0">xrudolfreindeer.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>Rudolf</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="27" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="113" posy="6">xfatherxmas.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>Father Christmas</resp>
+              <rdim>75</rdim>
+        </paxina>
+        <paxina id="28" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>xmastree.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">Christmas tree</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="29" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>xornaments.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">Christmas ornaments</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="30" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>xpresent.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">present</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="31" >
+              <tipo>11</tipo>
+              <cabeceira>Christmas</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Rudolf">xrudolfreindeer.jpg</cousa>
+              <cousa nome="Christmas lights">xmaslights.jpg</cousa>
+              <cousa nome="Christmas card">xcard.jpg</cousa>
+              <cousa nome="star">xstar.jpg</cousa>
+              <cousa nome="sleigh">xsleigh.jpg</cousa>
+        </paxina>
+        <paxina id="32" >
+              <tipo>11</tipo>
+              <cabeceira>Christmas</cabeceira>
+              <modo>1</modo>
+              <cousa nome="Rudolf">xrudolfreindeer.jpg</cousa>
+              <cousa nome="Christmas lights">xmaslights.jpg</cousa>
+              <cousa nome="Christmas card">xcard.jpg</cousa>
+              <cousa nome="star">xstar.jpg</cousa>
+              <cousa nome="sleigh">xsleigh.jpg</cousa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>xmaslights.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">Christmas lights</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="34" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>xcard.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">Chrismas card</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="35" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>x3wisemen.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">The Three Wise Men</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="36" >
+              <tipo>19</tipo>
+              <cabeceira>Secret Word</cabeceira>
+              <imaxe>xsnowman.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">snowman</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="37" >
+              <tipo>17</tipo>
+              <cabeceira>Christmas Matching Game</cabeceira>
+              <parellas>xfatherxmas.jpg</parellas>
+              <parellas>xstar.jpg</parellas>
+              <parellas>xcard.jpg</parellas>
+              <parellas>xsleigh.jpg</parellas>
+              <parellas>xsnowman.jpg</parellas>
+              <parellas>xmasbells.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8000</ctapa>
+        </paxina>
+        <paxina id="38" >
+              <tipo>4</tipo>
+              <cabeceira>Christmas Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="xstar.jpg">star</sopa>
+              <sopa enun="xsleigh.jpg">sleigh</sopa>
+              <sopa enun="xmastree.jpg">tree</sopa>
+              <sopa enun="xpresent.jpg">present</sopa>
+              <sopa enun="xelf.jpg">elf</sopa>
+              <sopa enun="xornaments.jpg">ornaments</sopa>
+              <sopa enun="xmaslights.jpg">lights</sopa>
+              <sopa enun="xcard.jpg">card</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="39" >
+              <tipo>29</tipo>
+              <cabeceira>Twinkle, twinkle little star</cabeceira>
+              <texto><![CDATA[Twinkle, twinkle little *star
+how I wonder *what you are.
+
+Up above the *world so high,
+like a diamond in the *sky.
+
+Twinkle, *twinkle little star
+how I wonder what *you are.]]></texto>
+              <cfondo>000080</cfondo>
+              <ctexto>FFFFFF</ctexto>
+              <modo>2</modo>
+              <forma>22</forma>
+        </paxina>
+        <paxina id="40" >
+              <tipo>3</tipo>
+              <cabeceira>Christmas Puzzle</cabeceira>
+              <imaxe>xmasscene.jpg</imaxe>
+              <imfondo  trans="5">xmasscene.jpg</imfondo>
+              <filas>6</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>

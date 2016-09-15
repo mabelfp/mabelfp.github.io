@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="68" posy="-66">animalposter1.jpg</imaxe>
+              <texto posx="378" posy="104" ancho="362" largo="260"><![CDATA[
+<p align="left">
+<font color="#080000" face="Lucida" size="32">ANIMAL<br>
+BODY<br>
+PARTS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the right word.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="beak">beak.jpg</cousa>
+              <cousa nome="feathers">feathers.jpg</cousa>
+              <cousa nome="tail">tail.jpg</cousa>
+              <cousa nome="scales">scales.jpg</cousa>
+              <cousa nome="stripes">stripes.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>scales.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">scales</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>feathers.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">feathers</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="94" posy="61">beak.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>beak</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="6" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="0" posy="0">stripes.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>stripes</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="7" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="beak">beak.jpg</cousa>
+              <cousa nome="feathers">feathers.jpg</cousa>
+              <cousa nome="tail">tail.jpg</cousa>
+              <cousa nome="scales">scales.jpg</cousa>
+              <cousa nome="stripes">stripes.jpg</cousa>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the correct word.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="tongue">tongue.jpg</cousa>
+              <cousa nome="wings">wings.jpg</cousa>
+              <cousa nome="sharp teeth">sharpteeth.jpg</cousa>
+              <cousa nome="tusk">tusk.jpg</cousa>
+              <cousa nome="whiskers">whiskers.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="69" posy="0">sharpteeth.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>sharp teeth</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="121" posy="14">tongue.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tongue</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word.</cabeceira>
+              <imaxe>whiskers.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">whiskers</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>wings.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">wings</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="tongue">tongue.jpg</cousa>
+              <cousa nome="wings">wings.jpg</cousa>
+              <cousa nome="sharp teeth">sharpteeth.jpg</cousa>
+              <cousa nome="tusk">tusk.jpg</cousa>
+              <cousa nome="whiskers">whiskers.jpg</cousa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game.</cabeceira>
+              <parellas>feathers.jpg</parellas>
+              <parellas>stripes.jpg</parellas>
+              <parellas>tail.jpg</parellas>
+              <parellas>wings.jpg</parellas>
+              <parellas>tongue.jpg</parellas>
+              <parellas>whiskers.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>horns.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">horns</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word search.</cabeceira>
+              <modo>2</modo>
+              <sopa enun="tongue.jpg">tongue</sopa>
+              <sopa enun="tusk.jpg">tusk</sopa>
+              <sopa enun="whiskers.jpg">whiskers</sopa>
+              <sopa enun="wings.jpg">wings</sopa>
+              <sopa enun="tail.jpg">tail</sopa>
+              <sopa enun="stripes.jpg">stripes</sopa>
+              <sopa enun="beak.jpg">beak</sopa>
+              <sopa enun="scales.jpg">scales</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+    </libro>
+</lim>

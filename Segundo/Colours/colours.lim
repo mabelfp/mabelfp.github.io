@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-132" posy="8" trans="20">fondo.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="51" posy="-30">colours.jpg</imaxe>
+              <texto posx="433" posy="207" ancho="448" largo="122"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="32"></font><font color="#080000" face="Arial" size="46">COLOURS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="black">black.jpg</cousa>
+              <cousa nome="blue">blue.jpg</cousa>
+              <cousa nome="brown">brown.jpg</cousa>
+              <cousa nome="green">green.jpg</cousa>
+              <cousa nome="orange">orange.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="black">black.jpg</cousa>
+              <cousa nome="blue">blue.jpg</cousa>
+              <cousa nome="brown">brown.jpg</cousa>
+              <cousa nome="green">green.jpg</cousa>
+              <cousa nome="orange">orange.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>brown.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">brown</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>green.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">green</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">orange.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>orange</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">black.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>black</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>blue.jpg</parellas>
+              <parellas>brown.jpg</parellas>
+              <parellas>green.jpg</parellas>
+              <parellas>black.jpg</parellas>
+              <parellas>orange.jpg</parellas>
+              <parellas>purple.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0080FF</ctapa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="black.jpg">black</sopa>
+              <sopa enun="blue.jpg">blue</sopa>
+              <sopa enun="brown.jpg">brown</sopa>
+              <sopa enun="green.jpg">green</sopa>
+              <sopa enun="orange.jpg">orange</sopa>
+              <sopa enun="pink.jpg">pink</sopa>
+              <sopa enun="white.jpg">white</sopa>
+              <sopa enun="yellow.jpg">yellow</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="10" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="yellow">yellow.jpg</cousa>
+              <cousa nome="white">white.jpg</cousa>
+              <cousa nome="red">red.jpg</cousa>
+              <cousa nome="purple">purple.jpg</cousa>
+              <cousa nome="pink">pink.jpg</cousa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="yellow">yellow.jpg</cousa>
+              <cousa nome="white">white.jpg</cousa>
+              <cousa nome="red">red.jpg</cousa>
+              <cousa nome="purple">purple.jpg</cousa>
+              <cousa nome="pink">pink.jpg</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>colours.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="157" posy="16">yellow</etiqueta>
+              <etiqueta posx="287" posy="149">orange</etiqueta>
+              <etiqueta posx="288" posy="233">red</etiqueta>
+              <etiqueta posx="33" posy="87">green</etiqueta>
+              <etiqueta posx="20" posy="228">blue</etiqueta>
+              <etiqueta posx="81" posy="291">purple</etiqueta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>colours.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="157" posy="16">yellow</etiqueta>
+              <etiqueta posx="287" posy="149">orange</etiqueta>
+              <etiqueta posx="288" posy="233">red</etiqueta>
+              <etiqueta posx="33" posy="87">green</etiqueta>
+              <etiqueta posx="20" posy="228">blue</etiqueta>
+              <etiqueta posx="81" posy="291">purple</etiqueta>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">white.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>white</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">yellow.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>yellow</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="16" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>white.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">white</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>purple.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">purple</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="white.jpg">white</sopa>
+              <sopa enun="yellow.jpg">yellow</sopa>
+              <sopa enun="pink.jpg">pink</sopa>
+              <sopa enun="black.jpg">black</sopa>
+              <sopa enun="orange.jpg">orange</sopa>
+              <sopa enun="purple.jpg">purple</sopa>
+              <sopa enun="brown.jpg">brown</sopa>
+              <sopa enun="red.jpg">red</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="19" >
+              <tipo>14</tipo>
+              <cabeceira>Choose</cabeceira>
+              <peza imaxe="" texto="blue" son="">blue.jpg</peza>
+              <peza imaxe="" texto="green" son="">green.jpg</peza>
+              <peza imaxe="" texto="yellow" son="">yellow.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="20" >
+              <tipo>14</tipo>
+              <cabeceira>Choose</cabeceira>
+              <peza imaxe="" texto="black" son="">black.jpg</peza>
+              <peza imaxe="" texto="white" son="">white.jpg</peza>
+              <peza imaxe="" texto="brown" son="">brown.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>14</tipo>
+              <cabeceira>Choose</cabeceira>
+              <peza imaxe="" texto="orange" son="">orange.jpg</peza>
+              <peza imaxe="" texto="pink" son="">pink.jpg</peza>
+              <peza imaxe="" texto="purple" son="">purple.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="22" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>yellow.jpg</parellas>
+              <parellas>pink.jpg</parellas>
+              <parellas>orange.jpg</parellas>
+              <parellas>white.jpg</parellas>
+              <parellas>purple.jpg</parellas>
+              <parellas>green.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>14</tipo>
+              <cabeceira>Choose</cabeceira>
+              <peza imaxe="" texto="orange" son="">carrots.jpg</peza>
+              <peza imaxe="" texto="brown" son="">chocolate.jpg</peza>
+              <peza imaxe="" texto="white" son="">snow.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="24" >
+              <tipo>13</tipo>
+              <cabeceira>Choose</cabeceira>
+              <unir texto="blue">sky</unir>
+              <unir texto="green">grass</unir>
+              <unir texto="purple">flower</unir>
+              <unir texto="white">snow</unir>
+              <unir texto="black">coal</unir>
+        </paxina>
+        <paxina id="25" >
+              <tipo>13</tipo>
+              <cabeceira>Choose</cabeceira>
+              <unir texto="orange">carrots</unir>
+              <unir texto="red">tomatoe</unir>
+              <unir texto="pink">rose</unir>
+              <unir texto="brown">chocolate</unir>
+              <unir texto="yellow">sun</unir>
+        </paxina>
+        <paxina id="26" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="30">w.jpg</fondocaixa1>
+              <caixa1>Colours with: &quot;w&quot;</caixa1>
+              <caixa2>Colours without: &quot;w&quot;</caixa2>
+              <mini caixa="1">brown.jpg</mini>
+              <mini caixa="2">black.jpg</mini>
+              <mini caixa="1">white.jpg</mini>
+              <mini caixa="2">green.jpg</mini>
+              <mini caixa="1">yellow.jpg</mini>
+              <mini caixa="2">pink.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="27" >
+              <tipo>29</tipo>
+              <cabeceira>Complete</cabeceira>
+              <texto><![CDATA[ORANGE, *YELLOW, BLACK AND *PINK
+BLUE, *PURPLE, BROWN AND *GREEN.
+I LIKE *WHITE, I LIKE RED.
+WHAT'S YOUR FAVOURITE COLOUR?
+I LIKE PINK, I LIKE BLUE.
+
+*ORANGE, YELLOW, *BLACK AND PINK
+*BLUE, PURPLE, *BROWN AND GREEN.
+I LIKE WHITE, I LIKE *RED.
+WHAT'S YOUR FAVOURITE COLOUR?
+I LIKE BLACK, I LIKE ORANGE.]]></texto>
+              <ctexto>0000FF</ctexto>
+              <modo>2</modo>
+              <forma>14</forma>
+        </paxina>
+    </libro>
+</lim>

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>C0C0C0</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="62" posy="-83">breaktime.jpg</imaxe>
+              <texto posx="57" posy="321" ancho="682" largo="177"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">BREAK  TIME</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="board game">boardgame.jpg</cousa>
+              <cousa nome="cards">cards.jpg</cousa>
+              <cousa nome="computer game">computergame.jpg</cousa>
+              <cousa nome="hide and seek">hideandseek.jpg</cousa>
+              <cousa nome="hopscotch">hopscotch.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>boardgame.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">board game</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="0" posy="15">cards.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>cards</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>computergame.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">computer game</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="18" posy="0">hideandseek.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>hide and seek</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>hopscotch.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">hopscotch</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="board game">boardgame.jpg</cousa>
+              <cousa nome="cards">cards.jpg</cousa>
+              <cousa nome="computer game">computergame.jpg</cousa>
+              <cousa nome="hide and seek">hideandseek.jpg</cousa>
+              <cousa nome="hopscotch">hopscotch.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>Break Time Games</cabeceira>
+              <etiqueta imaxe="canteen.jpg" texto="canteen">0</etiqueta>
+              <etiqueta imaxe="classroom.jpg" texto="classroom">0</etiqueta>
+              <etiqueta imaxe="hopscotch.jpg" texto="hopscotch">1</etiqueta>
+              <etiqueta imaxe="boardgame.jpg" texto="board game">1</etiqueta>
+              <etiqueta imaxe="gym.jpg" texto="gym">0</etiqueta>
+              <etiqueta imaxe="hideandseek.jpg" texto="hide and seek">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="board game">boardgame.jpg</parellas>
+              <parellas imaxe="" texto="computer  game">computergame.jpg</parellas>
+              <parellas imaxe="" texto="hopscotch">hopscotch.jpg</parellas>
+              <parellas imaxe="" texto="play cards">cards.jpg</parellas>
+              <parellas imaxe="" texto="hide and seek">hideandseek.jpg</parellas>
+              <parellas imaxe="" texto="football">football.jpg</parellas>
+              <cfondo>C0C0C0</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="leapfrog">leapfrog.jpg</cousa>
+              <cousa nome="rock, paper, scissors">rockpaperscissors.jpg</cousa>
+              <cousa nome="skipping rope">skippingrope.jpg</cousa>
+              <cousa nome="tag">tag.jpg</cousa>
+              <cousa nome="basketball">basket.jpg</cousa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="29" posy="67">tag.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tag</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>rockpaperscissors.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">rock paper scissors</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="46" posy="38">leapfrog.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>leapfrog</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="68" posy="78">basket.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>basketball</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="leapfrog">leapfrog.jpg</cousa>
+              <cousa nome="rock, paper, scissors">rockpaperscissors.jpg</cousa>
+              <cousa nome="skipping rope">skippingrope.jpg</cousa>
+              <cousa nome="tag">tag.jpg</cousa>
+              <cousa nome="basketball">basket.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="skipping rope">skippingrope.jpg</parellas>
+              <parellas imaxe="" texto="leapfrog">leapfrog.jpg</parellas>
+              <parellas imaxe="" texto="rock, paper, scissors">rockpaperscissors.jpg</parellas>
+              <parellas imaxe="" texto="basketball">basket.jpg</parellas>
+              <parellas imaxe="" texto="board game">boardgame.jpg</parellas>
+              <parellas imaxe="" texto="tag">tag.jpg</parellas>
+              <cfondo>C0C0C0</cfondo>
+              <ctapa>8080FF</ctapa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>24</tipo>
+              <cabeceira>Places at School</cabeceira>
+              <etiqueta imaxe="toilets.jpg" texto="toilets">1</etiqueta>
+              <etiqueta imaxe="leapfrog.jpg" texto="leapfrog">0</etiqueta>
+              <etiqueta imaxe="classroom.jpg" texto="classroom">1</etiqueta>
+              <etiqueta imaxe="library.jpg" texto="library">1</etiqueta>
+              <etiqueta imaxe="playground.jpg" texto="playground">1</etiqueta>
+              <etiqueta imaxe="canteen.jpg" texto="canteen">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="boardgame.jpg">boardgame</sopa>
+              <sopa enun="hideandseek.jpg">hideandseek</sopa>
+              <sopa enun="hopscotch.jpg">hopscotch</sopa>
+              <sopa enun="tag.jpg">tag</sopa>
+              <sopa enun="cards.jpg">cards</sopa>
+              <sopa enun="basket.jpg">basketball</sopa>
+              <sopa enun="computergame.jpg">computergam</sopa>
+              <sopa enun="skippingrope.jpg">skippingrop</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="20" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="canteen">canteen.jpg</cousa>
+              <cousa nome="playground">playground.jpg</cousa>
+              <cousa nome="library">library.jpg</cousa>
+              <cousa nome="gym">gym.jpg</cousa>
+              <cousa nome="classrom">classroom.jpg</cousa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>canteen.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">canteen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>corridor.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">corridor</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>gym.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">gym</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="0" posy="30">library.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>library</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="25" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="18" posy="0">playground.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>playground</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="26" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="17" posy="17">toilets.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>toilets</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="27" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>question_makrs_cutie_mark_by_rildraw-d4byewl.png</imaxe>
+              <imfondo  posx="10" posy="4">classroom.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>classroom</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="28" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="canteen">canteen.jpg</cousa>
+              <cousa nome="playground">playground.jpg</cousa>
+              <cousa nome="library">library.jpg</cousa>
+              <cousa nome="gym">gym.jpg</cousa>
+              <cousa nome="classrom">classroom.jpg</cousa>
+        </paxina>
+        <paxina id="29" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game. Places at School.</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="canteen">canteen.jpg</parellas>
+              <parellas imaxe="" texto="corridor">corridor.jpg</parellas>
+              <parellas imaxe="" texto="gym">gym.jpg</parellas>
+              <parellas imaxe="" texto="classroom">classroom.jpg</parellas>
+              <parellas imaxe="" texto="library">library.jpg</parellas>
+              <parellas imaxe="" texto="playground">playground.jpg</parellas>
+              <cfondo>C0C0C0</cfondo>
+              <ctapa>FF8040</ctapa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="toilets.jpg">toilets</sopa>
+              <sopa enun="playground.jpg">playground</sopa>
+              <sopa enun="corridor.jpg">corridor</sopa>
+              <sopa enun="canteen.jpg">canteen</sopa>
+              <sopa enun="library.jpg">library</sopa>
+              <sopa enun="gym.jpg">gym</sopa>
+              <sopa enun="classroom.jpg">classroom</sopa>
+              <sopa enun="school.jpg">school</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="31" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>classroom.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="201" posy="142">book</etiqueta>
+              <etiqueta posx="22" posy="241">teacher</etiqueta>
+              <etiqueta posx="445" posy="79">chair</etiqueta>
+              <etiqueta posx="409" posy="319">desk</etiqueta>
+              <etiqueta posx="337" posy="260">pencil</etiqueta>
+              <etiqueta posx="347" posy="4">blackboard</etiqueta>
+        </paxina>
+        <paxina id="32" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>playground.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="79" posy="25">tree</etiqueta>
+              <etiqueta posx="186" posy="76">gym</etiqueta>
+              <etiqueta posx="86" posy="197">skipping rope</etiqueta>
+              <etiqueta posx="250" posy="169">basketball</etiqueta>
+              <etiqueta posx="278" posy="308">boy</etiqueta>
+              <etiqueta posx="17" posy="355">playground</etiqueta>
+        </paxina>
+        <paxina id="33" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <caixa1>School Places</caixa1>
+              <caixa2>School Games</caixa2>
+              <mini caixa="1">classroom.jpg</mini>
+              <mini caixa="2">rockpaperscissors.jpg</mini>
+              <mini caixa="1">toilets.jpg</mini>
+              <mini caixa="2">hopscotch.jpg</mini>
+              <mini caixa="1">corridor.jpg</mini>
+              <mini caixa="2">hideandseek.jpg</mini>
+              <cfondo>C0C0C0</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="34" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>leapfrog.jpg</imaxe>
+              <texto>Do you want to play...</texto>
+              <resp texto="" valor="0">cards?</resp>
+              <resp texto="" valor="0">hopscotch?</resp>
+              <resp texto="" valor="1">leapfrog?</resp>
+              <resp texto="" valor="0">rock, paper, scissors?</resp>
+        </paxina>
+        <paxina id="35" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>hopscotch.jpg</imaxe>
+              <texto>Do you want to play...</texto>
+              <resp texto="" valor="0">cards?</resp>
+              <resp texto="" valor="1">hopscotch?</resp>
+              <resp texto="" valor="0">leapfrog?</resp>
+              <resp texto="" valor="0">rock, paper, scissors?</resp>
+        </paxina>
+        <paxina id="36" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>basket.jpg</imaxe>
+              <texto>Do you want to play...</texto>
+              <resp texto="" valor="1">basketball?</resp>
+              <resp texto="" valor="0">hopscotch?</resp>
+              <resp texto="" valor="0">leapfrog?</resp>
+              <resp texto="" valor="0">rock, paper, scissors?</resp>
+        </paxina>
+        <paxina id="37" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>tag.jpg</imaxe>
+              <texto>I want to play...</texto>
+              <resp texto="" valor="1">tag.</resp>
+              <resp texto="" valor="0">cards.</resp>
+              <resp texto="" valor="0">a computer game.</resp>
+              <resp texto="" valor="0">with a skipping rope.</resp>
+        </paxina>
+        <paxina id="38" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>computergame.jpg</imaxe>
+              <texto>I want to play...</texto>
+              <resp texto="" valor="0">tag.</resp>
+              <resp texto="" valor="0">cards.</resp>
+              <resp texto="" valor="1">a computer game.</resp>
+              <resp texto="" valor="0">with a skipping rope.</resp>
+        </paxina>
+        <paxina id="39" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>hideandseek.jpg</imaxe>
+              <texto>I want to play...</texto>
+              <resp texto="" valor="0">tag.</resp>
+              <resp texto="" valor="0">cards.</resp>
+              <resp texto="" valor="1">hide and seek.</resp>
+              <resp texto="" valor="0">with a skipping rope.</resp>
+        </paxina>
+        <paxina id="40" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>boardgame.jpg</imaxe>
+              <texto>I want to play...</texto>
+              <resp texto="" valor="1">a board game.</resp>
+              <resp texto="" valor="0">cards.</resp>
+              <resp texto="" valor="0">hide and seek.</resp>
+              <resp texto="" valor="0">with a skipping rope.</resp>
+        </paxina>
+        <paxina id="41" >
+              <tipo>13</tipo>
+              <cabeceira>Choose</cabeceira>
+              <unir texto="I can&apos;t play football">in the classroom.</unir>
+              <unir texto="I can play basketball">in the gym.</unir>
+              <unir texto="I can play cards">in the canteen.</unir>
+              <unir texto="I can play hopscotch">in the playground.</unir>
+        </paxina>
+        <paxina id="42" >
+              <tipo>29</tipo>
+              <cabeceira>Complete</cabeceira>
+              <texto><![CDATA[
+It’s the break,
+it’s *time to play.
+What do you want to play *today?
+ 
+I want to play *basketball
+and *hopscotch, too.
+I want to play *tag with you.
+I want to play a *computer game
+and a *board game.
+I want to play *cards with you.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="43" >
+              <tipo>29</tipo>
+              <cabeceira>Complete</cabeceira>
+              <texto><![CDATA[
+It’s the *break,
+it’s time to *play.
+What do you *want to play today?
+ 
+Let’s play *cards!
+Yes, let’s play cards!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="44" >
+              <tipo>6</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="20">ican.jpg</fondocaixa1>
+              <fondocaixa2 trans="20">i-cant11.gif</fondocaixa2>
+              <nome caixa="2">in the classroom.</nome>
+              <nome caixa="1">in the gym.</nome>
+              <nome caixa="2">in the library.</nome>
+              <nome caixa="1">in the playground.</nome>
+              <nome caixa="2">in the  corridor.</nome>
+              <nome caixa="2">in the canteen.</nome>
+              <caixa1>You can play ball games ...</caixa1>
+              <caixa2>You can&apos;t pay ball games....</caixa2>
+        </paxina>
+    </libro>
+</lim>
