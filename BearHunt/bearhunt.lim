@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="45" posy="-53">family.jpg</imaxe>
+              <texto posx="338" posy="281" ancho="354" largo="186"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">LIM activities for <br>
+</font><font color="#008000" face="Arial" size="24">We are going on a bear hunt</font><font color="#080000" face="Arial" size="12">.<br>
+Written by Michael Rosen.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>FAMILY</cabeceira>
+              <etiqueta imaxe="bigfamily.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="forest.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grass.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="river.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>FOREST</cabeceira>
+              <etiqueta imaxe="bigfamily.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="forest.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grass.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="river.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>STORM</cabeceira>
+              <etiqueta imaxe="bigfamily.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="forest.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="grass.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="river.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>GRASS</cabeceira>
+              <etiqueta imaxe="cave.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="forest.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grass.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="river.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>CAVE</cabeceira>
+              <etiqueta imaxe="cave.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="forest.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grass.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="river.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>MUD</cabeceira>
+              <etiqueta imaxe="cave.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="forest.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="grass.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="river.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>RIVER</cabeceira>
+              <etiqueta imaxe="river.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="family.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="cave.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>BEAR</cabeceira>
+              <etiqueta imaxe="river.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bear.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="family.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="cave.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="storm.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="mud.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>forest.jpg</parellas>
+              <parellas>river.jpg</parellas>
+              <parellas>cave.jpg</parellas>
+              <parellas>grass.jpg</parellas>
+              <parellas>mud.jpg</parellas>
+              <parellas>storm.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="11" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>bear.jpg</parellas>
+              <parellas>bigfamily.jpg</parellas>
+              <parellas>cave.jpg</parellas>
+              <parellas>grass.jpg</parellas>
+              <parellas>mud.jpg</parellas>
+              <parellas>storm.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8040</ctapa>
+        </paxina>
+        <paxina id="12" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="big, dark forest">forest.jpg</cousa>
+              <cousa nome="long, wavy grass">grass.jpg</cousa>
+              <cousa nome="thick,sticky mud">mud.jpg</cousa>
+              <cousa nome="deep, cold river">river.jpg</cousa>
+              <cousa nome="terrible storm">storm.jpg</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="big, dark forest">forest.jpg</cousa>
+              <cousa nome="long, wavy grass">grass.jpg</cousa>
+              <cousa nome="thick,sticky mud">mud.jpg</cousa>
+              <cousa nome="deep, cold river">river.jpg</cousa>
+              <cousa nome="terrible storm">storm.jpg</cousa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>11</tipo>
+              <cabeceira>Choose the word</cabeceira>
+              <modo>3</modo>
+              <cousa nome="family">family.jpg</cousa>
+              <cousa nome="cave">cave.jpg</cousa>
+              <cousa nome="bear">bear.jpg</cousa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="family">family.jpg</cousa>
+              <cousa nome="cave">cave.jpg</cousa>
+              <cousa nome="bear">bear.jpg</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>What can you see in the story?</cabeceira>
+              <etiqueta imaxe="cave.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="pussinboots1.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="river.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="family.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bear.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>bigbear.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="119" posy="40">ear</etiqueta>
+              <etiqueta posx="276" posy="292">leg</etiqueta>
+              <etiqueta posx="29" posy="58">mouth</etiqueta>
+              <etiqueta posx="74" posy="327">paws</etiqueta>
+              <etiqueta posx="442" posy="170">tail</etiqueta>
+              <etiqueta posx="0" posy="0">nose</etiqueta>
+        </paxina>
+        <paxina id="18" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>bigfamily.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="212" posy="130">daddy</etiqueta>
+              <etiqueta posx="100" posy="158">baby</etiqueta>
+              <etiqueta posx="106" posy="41">mummy</etiqueta>
+              <etiqueta posx="20" posy="241">brother</etiqueta>
+              <etiqueta posx="351" posy="241">pet</etiqueta>
+              <etiqueta posx="259" posy="215">sister</etiqueta>
+        </paxina>
+        <paxina id="19" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>bigfamily.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="212" posy="130">daddy</etiqueta>
+              <etiqueta posx="100" posy="158">baby</etiqueta>
+              <etiqueta posx="106" posy="41">mummy</etiqueta>
+              <etiqueta posx="20" posy="241">brother</etiqueta>
+              <etiqueta posx="351" posy="241">pet</etiqueta>
+              <etiqueta posx="259" posy="215">sister</etiqueta>
+        </paxina>
+        <paxina id="20" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <texto><![CDATA[We are going on a *bear hunt
+We are going to catch a *big one
+What a *beautiful day!
+I'm not *scared!]]></texto>
+              <ctexto>804000</ctexto>
+              <modo>2</modo>
+              <forma>26</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word</cabeceira>
+              <texto><![CDATA[We can't go *over it.
+We can't go *under it.
+Oh no! 
+We have to go *through it!]]></texto>
+              <ctexto>804000</ctexto>
+              <modo>2</modo>
+              <forma>26</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="102" posy="76">cave.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>cave</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="23" >
+              <tipo>5</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>questionmark.gif</imaxe>
+              <imfondo  posx="119" posy="61">forest.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>forest</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>river.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">deep cold river</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>grass.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">long wavy grass</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="26" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <caixa1>We are going on a bear hunt</caixa1>
+              <caixa2>Others</caixa2>
+              <mini caixa="1">family.jpg</mini>
+              <mini caixa="1">bear.jpg</mini>
+              <mini caixa="2">beach.jpg</mini>
+              <mini caixa="1">forest.jpg</mini>
+              <mini caixa="2">pussinboots1.jpg</mini>
+              <mini caixa="2">tiger.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="27" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="family.jpg">family</sopa>
+              <sopa enun="forest.jpg">forest</sopa>
+              <sopa enun="mud.jpg">mud</sopa>
+              <sopa enun="river.jpg">river</sopa>
+              <sopa enun="grass.jpg">grass</sopa>
+              <sopa enun="bear.jpg">bear</sopa>
+              <sopa enun="cave.jpg">cave</sopa>
+              <sopa enun="storm.jpg">storm</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="28" >
+              <tipo>14</tipo>
+              <cabeceira>Match</cabeceira>
+              <peza imaxe="cave.jpg" texto="" son="">bear.jpg</peza>
+              <peza imaxe="river.jpg" texto="" son="">mud.jpg</peza>
+              <peza imaxe="forest.jpg" texto="" son="">bigfamily.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="29" >
+              <tipo>1</tipo>
+              <imaxe>bear.jpg</imaxe>
+              <texto>Where does the bear live?</texto>
+              <resp texto="" valor="0">The bear lives in the sea.</resp>
+              <resp texto="" valor="0">The bear lives in a town.</resp>
+              <resp texto="" valor="1">The bear lives in a cave in the forest.</resp>
+              <resp texto="" valor="1">The bear lives in the zoo.</resp>
+        </paxina>
+        <paxina id="30" >
+              <tipo>1</tipo>
+              <imaxe>family.jpg</imaxe>
+              <texto>Where do you live?</texto>
+              <resp texto="" valor="0">I live with my family in the grasslands.</resp>
+              <resp texto="" valor="1">I live with my family in a beautiful house or a flat.</resp>
+              <resp texto="" valor="0">I live with my family in a dark forest.</resp>
+              <resp texto="" valor="1">I live with my family in a town.</resp>
+        </paxina>
+        <paxina id="31" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="long, wavy">grass</unir>
+              <unir texto="terrible">storm</unir>
+              <unir texto="thick, sticky">mud</unir>
+              <unir texto="deep, cold">river</unir>
+              <unir texto="big, dark ">forest</unir>
+        </paxina>
+        <paxina id="32" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>bhpuzzle.jpg</imaxe>
+              <imfondo  trans="30">bhpuzzle.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
