@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-4" posy="10" trans="10">thF4IV06OL.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >That's right</correcto>
+        <incorrecto son="" modo="1" >That's wrong</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="124" posy="-49">todayismonday.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="bread">bread.png</cousa>
+              <cousa nome="butter">butter.jpg</cousa>
+              <cousa nome="cereal">cereal.jpg</cousa>
+              <cousa nome="cheese">cheese.png</cousa>
+              <cousa nome="chicken">chicken.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>butter.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">butter</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>cheese.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">cheese</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>chicken.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">chicken</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="128" posy="65">bread.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>bread</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="46" posy="31">cereal.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>cereal</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words</cabeceira>
+              <modo>3</modo>
+              <cousa nome="chocolate">chocolate.jpg</cousa>
+              <cousa nome="crisps">crisps.png</cousa>
+              <cousa nome="custard">custard.jpg</cousa>
+              <cousa nome="eggs">egg.jpg</cousa>
+              <cousa nome="fruit">fruit.jpg</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="chocolate">chocolate.jpg</cousa>
+              <cousa nome="crisps">crisps.png</cousa>
+              <cousa nome="custard">custard.jpg</cousa>
+              <cousa nome="eggs">egg.jpg</cousa>
+              <cousa nome="fruit">fruit.jpg</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>crisps.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">crisps</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>chocolate.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">chocolate</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="107" posy="53">custard.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>custard</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="13" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="44" posy="14">egg.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>eggs</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="27" posy="9">fruit.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>fruit</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words</cabeceira>
+              <modo>2</modo>
+              <sopa enun="bread.png">bread</sopa>
+              <sopa enun="butter.jpg">butter</sopa>
+              <sopa enun="cereal.jpg">cereal</sopa>
+              <sopa enun="cheese.png">cheese</sopa>
+              <sopa enun="chicken.jpg">chicken</sopa>
+              <sopa enun="chocolate.jpg">chocolate</sopa>
+              <sopa enun="crisps.png">crisps</sopa>
+              <sopa enun="custard.jpg">custard</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="ice cream">icecream.jpg</cousa>
+              <cousa nome="ice lolly">icelolly.jpg</cousa>
+              <cousa nome="macaroni">macaroni.jpg</cousa>
+              <cousa nome="meat">meat.jpg</cousa>
+              <cousa nome="milk">milk.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>icecream.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">ice cream</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>icelolly.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">ice lolly</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>macaroni.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">macaroni</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="80" posy="67">meat.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>meat</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="21" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="37" posy="12">rice.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>rice</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="22" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="roast beef">roastbeef.png</cousa>
+              <cousa nome="salad">salad.png</cousa>
+              <cousa nome="sandwiches">sandwitches.jpg</cousa>
+              <cousa nome="smoothie">smooothie.jpg</cousa>
+              <cousa nome="soup">soup.jpg</cousa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="roast beef">roastbeef.png</cousa>
+              <cousa nome="salad">salad.png</cousa>
+              <cousa nome="sandwiches">sandwitches.jpg</cousa>
+              <cousa nome="smoothie">smooothie.jpg</cousa>
+              <cousa nome="soup">soup.jpg</cousa>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>roastbeef.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">roast beef</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>sandwitches.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sandwiches</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="26" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>smooothie.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">smoothie</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="27" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="0" posy="0">salad.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>salad</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="28" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="153" posy="90">soup.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>soup</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="29" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words</cabeceira>
+              <modo>2</modo>
+              <sopa enun="icelolly.jpg">icelolly</sopa>
+              <sopa enun="icecream.jpg">icecream</sopa>
+              <sopa enun="macaroni.jpg">macaroni</sopa>
+              <sopa enun="meat.jpg">meat</sopa>
+              <sopa enun="soup.jpg">soup</sopa>
+              <sopa enun="smooothie.jpg">smoothie</sopa>
+              <sopa enun="roastbeef.png">roastbeef</sopa>
+              <sopa enun="sandwitches.jpg">sandwiches</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="30" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="spaghetti">spaghetti.jpg</cousa>
+              <cousa nome="spring beans">springbeans.jpg</cousa>
+              <cousa nome="strawberries">strawberries.jpg</cousa>
+              <cousa nome="vegetables">VEGETABLES.jpg</cousa>
+              <cousa nome="vegetable sticks">vegetablesticks.jpg</cousa>
+        </paxina>
+        <paxina id="31" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="spaghetti">spaghetti.jpg</cousa>
+              <cousa nome="spring beans">springbeans.jpg</cousa>
+              <cousa nome="strawberries">strawberries.jpg</cousa>
+              <cousa nome="vegetables">VEGETABLES.jpg</cousa>
+              <cousa nome="vegetable sticks">vegetablesticks.jpg</cousa>
+        </paxina>
+        <paxina id="32" >
+              <tipo>20</tipo>
+              <cabeceira>Match</cabeceira>
+              <imaxe>foodpyramid.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="266" posy="301">bread</etiqueta>
+              <etiqueta posx="245" posy="180">fruit</etiqueta>
+              <etiqueta posx="135" posy="209">vegetables</etiqueta>
+              <etiqueta posx="116" posy="140">milk</etiqueta>
+              <etiqueta posx="212" posy="101">meat</etiqueta>
+              <etiqueta posx="138" posy="58">ice cream</etiqueta>
+        </paxina>
+        <paxina id="33" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>foodpyramid.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="266" posy="301">bread</etiqueta>
+              <etiqueta posx="245" posy="180">fruit</etiqueta>
+              <etiqueta posx="135" posy="209">vegetables</etiqueta>
+              <etiqueta posx="116" posy="140">milk</etiqueta>
+              <etiqueta posx="212" posy="101">meat</etiqueta>
+              <etiqueta posx="138" posy="58">ice cream</etiqueta>
+        </paxina>
+        <paxina id="34" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <imaxe>snake.jpg</imaxe>
+              <texto>What does the snake like?</texto>
+              <resp texto="" valor="0">It likes soup.</resp>
+              <resp texto="" valor="0">It likes fish.</resp>
+              <resp texto="" valor="1">It likes spaghetti.</resp>
+        </paxina>
+        <paxina id="35" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <texto>What does the monkey like?</texto>
+              <resp texto="" valor="1">It likes ice-cream.</resp>
+              <resp texto="" valor="0">It likes roast beef.</resp>
+              <resp texto="" valor="0">It likes chicken.</resp>
+        </paxina>
+        <paxina id="36" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <imaxe>elephant.jpg</imaxe>
+              <texto>What does the elephant like?</texto>
+              <resp texto="" valor="1">It likes soup.</resp>
+              <resp texto="" valor="0">It likes spring beans.</resp>
+              <resp texto="" valor="0">It likes fish.</resp>
+        </paxina>
+        <paxina id="37" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="The fox likes">chicken</unir>
+              <unir texto="The pelican likes">fresh fish</unir>
+              <unir texto="The porcupine likes">spring beans</unir>
+              <unir texto="The monkey likes">ice-cream</unir>
+              <unir texto="The cat likes">roast beef</unir>
+        </paxina>
+        <paxina id="38" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="On Monday">spring beans</unir>
+              <unir texto="On Tuesday">spaghetti</unir>
+              <unir texto="On Wednesday">soup</unir>
+              <unir texto="On Thursday">chicken</unir>
+              <unir texto="On Friday">fish</unir>
+        </paxina>
+        <paxina id="39" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <texto>Who am I?
+I eat ice cream on Sunday.</texto>
+              <resp texto="" valor="0">I am the fox.</resp>
+              <resp texto="" valor="0">I am the porcupine.</resp>
+              <resp texto="" valor="0">I am the elephant.</resp>
+              <resp texto="" valor="1">I am the monkey.</resp>
+        </paxina>
+        <paxina id="40" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <texto>What do I eat on Wednesday?</texto>
+              <resp texto="" valor="1">I eat soup.</resp>
+              <resp texto="" valor="0">I eat fresh fish.</resp>
+              <resp texto="" valor="0">I eat chicken.</resp>
+              <resp texto="" valor="0">I eat spaghetti.</resp>
+        </paxina>
+        <paxina id="41" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <texto>What day of the week is for spring beans?</texto>
+              <resp texto="" valor="1">Monday</resp>
+              <resp texto="" valor="0">Wednesday</resp>
+              <resp texto="" valor="0">Saturday</resp>
+              <resp texto="" valor="0">Sunday</resp>
+        </paxina>
+        <paxina id="42" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <texto>Who am I?
+I eat fresh fish on Friday.</texto>
+              <resp texto="" valor="1">I am the pelican.</resp>
+              <resp texto="" valor="0">I am the monkey.</resp>
+              <resp texto="" valor="0">I am the fox.</resp>
+        </paxina>
+        <paxina id="43" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <texto>What do I eat on Tuesday?</texto>
+              <resp texto="" valor="1">I eat spaghetti.</resp>
+              <resp texto="" valor="0">I eat roast beef.</resp>
+              <resp texto="" valor="0">I eat ice cream.</resp>
+        </paxina>
+        <paxina id="44" >
+              <tipo>1</tipo>
+              <cabeceira>Choose the right answer</cabeceira>
+              <texto>What day of the week is for soup?</texto>
+              <resp texto="" valor="1">Wednesday</resp>
+              <resp texto="" valor="0">Monday</resp>
+              <resp texto="" valor="0">Thursday</resp>
+              <resp texto="" valor="0">Tuesday</resp>
+        </paxina>
+        <paxina id="45" >
+              <tipo>29</tipo>
+              <cabeceira>Fill in the gaps</cabeceira>
+              <texto><![CDATA[Today is *Monday
+Monday, spring *beans
+All you hungry children, come and eat it up!
+
+Today is Tuesday.
+Tuesday, *spaghetti
+All you *hungry children, come and eat it up!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="46" >
+              <tipo>29</tipo>
+              <cabeceira>Fill in the gaps</cabeceira>
+              <texto><![CDATA[Today is *Wednesday
+*Wednesday, *soup.
+All you hungry children, come and eat it up!
+
+Today is Thursday.
+Thursday, *roast beef
+All you hungry children, come and eat it up!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="47" >
+              <tipo>29</tipo>
+              <cabeceira>Fill in the gaps</cabeceira>
+              <texto><![CDATA[*Today is Friday.
+Friday, *fresh fish.
+All you hungry children, come and eat it up!
+
+Today is *Saturday.
+Saturday, *chicken.
+All you hungry children, come and eat it up!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="48" >
+              <tipo>29</tipo>
+              <cabeceira>Fill in the gaps</cabeceira>
+              <texto><![CDATA[Today is *Sunday.
+*Sunday, ice cream.
+All you hungry *children, come and eat it up!]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+    </libro>
+</lim>
