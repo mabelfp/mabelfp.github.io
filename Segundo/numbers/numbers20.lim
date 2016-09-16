@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="2" posy="56" trans="20">portada.gif</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="3" posy="-34">portada.gif</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="one">one.png</cousa>
+              <cousa nome="two">two.jpg</cousa>
+              <cousa nome="five">five.jpg</cousa>
+              <cousa nome="three">three.png</cousa>
+              <cousa nome="four">four.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>five.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">five</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>three.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">three</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>two.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">two</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>one.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">one</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>four.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">four</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="one">one.png</parellas>
+              <parellas imaxe="" texto="five">five.jpg</parellas>
+              <parellas imaxe="" texto="four">four.jpg</parellas>
+              <parellas imaxe="" texto="six">six.png</parellas>
+              <parellas imaxe="" texto="three">three.png</parellas>
+              <parellas imaxe="" texto="two">two.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>C0C0C0</ctapa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="eight">eight.png</cousa>
+              <cousa nome="six">six.png</cousa>
+              <cousa nome="ten">ten.jpg</cousa>
+              <cousa nome="nine">nine.jpeg</cousa>
+              <cousa nome="seven">seven.png</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>seven.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">seven</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>ten.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">ten</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>nine.jpeg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">nine</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>six.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">six</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>eight.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">eight</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="15" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="nine">nine.jpeg</parellas>
+              <parellas imaxe="" texto="eight">eight.png</parellas>
+              <parellas imaxe="" texto="seven">seven.png</parellas>
+              <parellas imaxe="" texto="six">six.png</parellas>
+              <parellas imaxe="" texto="ten">ten.jpg</parellas>
+              <parellas imaxe="" texto="three">three.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF00FF</ctapa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>35</tipo>
+              <cabeceira>Count</cabeceira>
+              <forma>0</forma>
+              <completa>one.png</completa>
+              <completa>two.jpg</completa>
+              <completa>three.png</completa>
+              <completa>four.jpg</completa>
+              <completa>five.jpg</completa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>35</tipo>
+              <cabeceira>Count</cabeceira>
+              <forma>0</forma>
+              <completa>six.png</completa>
+              <completa>seven.png</completa>
+              <completa>eight.png</completa>
+              <completa>nine.jpeg</completa>
+              <completa>ten.jpg</completa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="one.png">one</sopa>
+              <sopa enun="eight.png">eight</sopa>
+              <sopa enun="five.jpg">five</sopa>
+              <sopa enun="four.jpg">four</sopa>
+              <sopa enun="nine.jpeg">nine</sopa>
+              <sopa enun="seven.png">seven</sopa>
+              <sopa enun="six.png">six</sopa>
+              <sopa enun="three.png">three</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="19" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="eleven">11.jpg</cousa>
+              <cousa nome="twelve">12.jpg</cousa>
+              <cousa nome="thirteen">13.jpg</cousa>
+              <cousa nome="fourteen">14.jpg</cousa>
+              <cousa nome="fifteen">15.jpg</cousa>
+        </paxina>
+        <paxina id="20" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>12.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">twelve</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>14.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">fourteen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>11.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">eleven</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>13.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">thirteen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>15.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">fifteen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="eleven">11.jpg</parellas>
+              <parellas imaxe="" texto="thirteen">13.jpg</parellas>
+              <parellas imaxe="" texto="fifteen">15.jpg</parellas>
+              <parellas imaxe="" texto="twelve">12.jpg</parellas>
+              <parellas imaxe="" texto="fourteen">14.jpg</parellas>
+              <parellas imaxe="" texto="sixteen">16.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>008000</ctapa>
+        </paxina>
+        <paxina id="26" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="sixteen">16.jpg</cousa>
+              <cousa nome="seventeen">17.jpg</cousa>
+              <cousa nome="eighteen">18.jpg</cousa>
+              <cousa nome="nineteen">19.jpg</cousa>
+              <cousa nome="twenty">20.jpg</cousa>
+        </paxina>
+        <paxina id="27" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>16.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sixteen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="28" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>18.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">eighteen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="29" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>20.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">twenty</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="30" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>17.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">seventeen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="31" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>19.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">nineteen</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="32" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="twenty">20.jpg</parellas>
+              <parellas imaxe="" texto="sixteen">16.jpg</parellas>
+              <parellas imaxe="" texto="seventeen">17.jpg</parellas>
+              <parellas imaxe="" texto="twelve">12.jpg</parellas>
+              <parellas imaxe="" texto="eighteen">18.jpg</parellas>
+              <parellas imaxe="" texto="nineteen">19.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="19.jpg">nineteen</sopa>
+              <sopa enun="20.jpg">twenty</sopa>
+              <sopa enun="15.jpg">fifteen</sopa>
+              <sopa enun="12.jpg">twelve</sopa>
+              <sopa enun="16.jpg">sixteen</sopa>
+              <sopa enun="18.jpg">eighteen</sopa>
+              <sopa enun="17.jpg">seventeen</sopa>
+              <sopa enun="11.jpg">eleven</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="34" >
+              <tipo>35</tipo>
+              <cabeceira>Put in order</cabeceira>
+              <forma>0</forma>
+              <completa>11.jpg</completa>
+              <completa>13.jpg</completa>
+              <completa>15.jpg</completa>
+              <completa>17.jpg</completa>
+              <completa>19.jpg</completa>
+        </paxina>
+        <paxina id="35" >
+              <tipo>14</tipo>
+              <cabeceira>Match</cabeceira>
+              <peza imaxe="21.jpg" texto="" son="">twentyone-21.png</peza>
+              <peza imaxe="five.jpg" texto="" son="">five_5.png</peza>
+              <peza imaxe="twentynine.png" texto="" son="">number-29-twenty-nine.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="36" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="50">even-odd.jpg</fondocaixa1>
+              <fondocaixa2 trans="50">even-odd.jpg</fondocaixa2>
+              <caixa1>EVEN Numbers</caixa1>
+              <caixa2>ODD Numbers</caixa2>
+              <mini caixa="1">twentyfour.jpg</mini>
+              <mini caixa="1">twentyseven.png</mini>
+              <mini caixa="1">twentyeight.png</mini>
+              <mini caixa="1">three.png</mini>
+              <mini caixa="1">twentysix.gif</mini>
+              <mini caixa="1">15.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="37" >
+              <tipo>24</tipo>
+              <cabeceira>Twelve</cabeceira>
+              <etiqueta imaxe="12.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="eight.png" texto="">0</etiqueta>
+              <etiqueta imaxe="twentysix.gif" texto="">0</etiqueta>
+              <etiqueta imaxe="twenty.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="twentynine.png" texto="">0</etiqueta>
+              <etiqueta imaxe="17.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="38" >
+              <tipo>24</tipo>
+              <cabeceira>Seventeen</cabeceira>
+              <etiqueta imaxe="12.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="eight.png" texto="">0</etiqueta>
+              <etiqueta imaxe="twentysix.gif" texto="">0</etiqueta>
+              <etiqueta imaxe="twenty.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="twentynine.png" texto="">0</etiqueta>
+              <etiqueta imaxe="17.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="39" >
+              <tipo>24</tipo>
+              <cabeceira>Twenty</cabeceira>
+              <etiqueta imaxe="12.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="eight.png" texto="">0</etiqueta>
+              <etiqueta imaxe="twentysix.gif" texto="">0</etiqueta>
+              <etiqueta imaxe="twenty.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="twentynine.png" texto="">0</etiqueta>
+              <etiqueta imaxe="17.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="40" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>portada.gif</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="75" posy="126">six</etiqueta>
+              <etiqueta posx="3" posy="225">eleven</etiqueta>
+              <etiqueta posx="2" posy="336">sixteen</etiqueta>
+              <etiqueta posx="260" posy="21">three</etiqueta>
+              <etiqueta posx="246" posy="221">thirteen</etiqueta>
+              <etiqueta posx="258" posy="339">eighteen</etiqueta>
+        </paxina>
+        <paxina id="41" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the Puzzle</cabeceira>
+              <imaxe>portada.gif</imaxe>
+              <filas>5</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
