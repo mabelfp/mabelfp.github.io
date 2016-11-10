@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="70" posy="64" trans="10">portada.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="70" posy="-83">portada.jpg</imaxe>
+              <texto posx="1" posy="124" ancho="295" largo="193"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="24"><b>ANIMALS</b><br>
+<b>BODY</b><br>
+<b>PARTS</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>3</modo>
+              <cousa nome="fur">fur.jpg</cousa>
+              <cousa nome="feathers">feathers.jpg</cousa>
+              <cousa nome="stripes">stripes.jpg</cousa>
+              <cousa nome="shell">shell.jpg</cousa>
+              <cousa nome="scales">scales.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="fur">fur.jpg</cousa>
+              <cousa nome="feathers">feathers.jpg</cousa>
+              <cousa nome="stripes">stripes.jpg</cousa>
+              <cousa nome="shell">shell.jpg</cousa>
+              <cousa nome="scales">scales.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>shell.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">shell</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>feathers.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">feathers</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>scales.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">scales</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Mammals have got ..................</cabeceira>
+              <etiqueta imaxe="fur.jpg" texto="FUR">1</etiqueta>
+              <etiqueta imaxe="shell.jpg" texto="SHELL">0</etiqueta>
+              <etiqueta imaxe="feathers.jpg" texto="FEATHERS">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="scales.jpg" texto="SCALES">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>Fish have got ..................</cabeceira>
+              <etiqueta imaxe="fur.jpg" texto="FUR">0</etiqueta>
+              <etiqueta imaxe="shell.jpg" texto="SHELL">0</etiqueta>
+              <etiqueta imaxe="feathers.jpg" texto="FEATHERS">0</etiqueta>
+              <etiqueta imaxe="stripes.jpg" texto="STRIPES">0</etiqueta>
+              <etiqueta imaxe="scales.jpg" texto="SCALES">1</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>24</tipo>
+              <cabeceira>Birds have got ..................</cabeceira>
+              <etiqueta imaxe="fur.jpg" texto="FUR">0</etiqueta>
+              <etiqueta imaxe="shell.jpg" texto="SHELL">0</etiqueta>
+              <etiqueta imaxe="feathers.jpg" texto="FEATHERS">1</etiqueta>
+              <etiqueta imaxe="stripes.jpg" texto="STRIPES">0</etiqueta>
+              <etiqueta imaxe="scales.jpg" texto="SCALES">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>What is hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="133" posy="89">shell.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>shell</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <cabeceira>What is hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="135" posy="81">fur.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>fur</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>1</tipo>
+              <imaxe>bear.jpg</imaxe>
+              <texto>Has the bear got scales?</texto>
+              <resp texto="" valor="0">Yes, it has.</resp>
+              <resp texto="" valor="1">No, it hasn&apos;t.</resp>
+              <resp texto="" valor="1">The bear has got fur.</resp>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <imaxe>bird.jpg</imaxe>
+              <texto>Has the bird got scales?</texto>
+              <resp texto="" valor="0">Yes, it has.</resp>
+              <resp texto="" valor="1">No, it hasn&apos;t.</resp>
+              <resp texto="" valor="1">The bird has got feathers.</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <imaxe>tortoise.png</imaxe>
+              <texto>Has the tortoise got scales?</texto>
+              <resp texto="" valor="0">Yes, it has.</resp>
+              <resp texto="" valor="1">No, it hasn&apos;t.</resp>
+              <resp texto="" valor="1">The tortoise has got a shell.</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>3</modo>
+              <cousa nome="jaws">jaws.png</cousa>
+              <cousa nome="claws">claws.jpg</cousa>
+              <cousa nome="beak">beak.jpg</cousa>
+              <cousa nome="horns">horns.jpg</cousa>
+              <cousa nome="wings">wings.JPG</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="jaws">jaws.png</cousa>
+              <cousa nome="claws">claws.jpg</cousa>
+              <cousa nome="beak">beak.jpg</cousa>
+              <cousa nome="horns">horns.jpg</cousa>
+              <cousa nome="wings">wings.JPG</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>wings.JPG</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">wings</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>claws.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">claws</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>beak.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">beak</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="206" posy="154">jaws.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>jaws</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="21" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="192" posy="49">horns.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>horns</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="22" >
+              <tipo>1</tipo>
+              <imaxe>crocodile.jpg</imaxe>
+              <texto>Has the crocodile got jaws?</texto>
+              <resp texto="" valor="1">Yes, it has.</resp>
+              <resp texto="" valor="0">No, It hasn&apos;t.</resp>
+              <resp texto="" valor="1">The crocodile hasn&apos;t got horns.</resp>
+        </paxina>
+        <paxina id="23" >
+              <tipo>1</tipo>
+              <imaxe>giraffe.png</imaxe>
+              <texto>Has the giraffe got horns?</texto>
+              <resp texto="" valor="1">Yes, it has.</resp>
+              <resp texto="" valor="0">No, It hasn&apos;t.</resp>
+              <resp texto="" valor="0">The giraffe has got a short neck.</resp>
+        </paxina>
+        <paxina id="24" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>feathers.jpg</parellas>
+              <parellas>fur.jpg</parellas>
+              <parellas>wings.JPG</parellas>
+              <parellas>beak.jpg</parellas>
+              <parellas>claws.jpg</parellas>
+              <parellas>shell.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+        <paxina id="25" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="feathers.jpg">feathers</sopa>
+              <sopa enun="fur.jpg">fur</sopa>
+              <sopa enun="jaws.png">jaws</sopa>
+              <sopa enun="scales.jpg">scales</sopa>
+              <sopa enun="claws.jpg">claws</sopa>
+              <sopa enun="beak.jpg">beak</sopa>
+              <sopa enun="wings.JPG">wings</sopa>
+              <sopa enun="shell.jpg">shell</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="26" >
+              <tipo>6</tipo>
+              <cabeceira>Choose.</cabeceira>
+              <fondocaixa1 trans="100">lion.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">snake.png</fondocaixa2>
+              <nome caixa="1">It&apos;s got long hair.</nome>
+              <nome caixa="1">It&apos;s got sharp teeth.</nome>
+              <nome caixa="1">It&apos;s got claws.</nome>
+              <nome caixa="2">It&apos;s got a long tongue.</nome>
+              <nome caixa="2">It&apos;s got a long tail.</nome>
+              <nome caixa="2">It hasn&apos;t got legs.</nome>
+              <caixa1>The lion.</caixa1>
+              <caixa2>The snake.</caixa2>
+        </paxina>
+        <paxina id="27" >
+              <tipo>11</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>3</modo>
+              <cousa nome="tail">tail.jpg</cousa>
+              <cousa nome="whiskers">whiskers.jpg</cousa>
+              <cousa nome="sharp teeth">sharpteeth.jpg</cousa>
+              <cousa nome="tusk">tusk.jpg</cousa>
+              <cousa nome="tongue">tongue.jpg</cousa>
+        </paxina>
+        <paxina id="28" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="tail">tail.jpg</cousa>
+              <cousa nome="whiskers">whiskers.jpg</cousa>
+              <cousa nome="sharp teeth">sharpteeth.jpg</cousa>
+              <cousa nome="tusk">tusk.jpg</cousa>
+              <cousa nome="tongue">tongue.jpg</cousa>
+        </paxina>
+        <paxina id="29" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>sharpteeth.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">sharp teeth</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="30" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>whiskers.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">whiskers</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="31" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>tail.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">tail</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="32" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="128" posy="95">tusk.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tusk</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="33" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="94" posy="15">tongue.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tongue</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="34" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.jpg</imaxe>
+              <imfondo  posx="70" posy="65">wings.JPG</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>wings</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="35" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>tail.jpg</parellas>
+              <parellas>sharpteeth.jpg</parellas>
+              <parellas>jaws.png</parellas>
+              <parellas>whiskers.jpg</parellas>
+              <parellas>wings.JPG</parellas>
+              <parellas>horns.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="36" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="The bear has got">claws and fur.</unir>
+              <unir texto="The bird has got">feathers and a beak.</unir>
+              <unir texto="The crocodile has got">jaws and a long tail.</unir>
+              <unir texto="The lion has got">long hair and teeth.</unir>
+              <unir texto="The tortoise has got">short legs and a shell</unir>
+        </paxina>
+        <paxina id="37" >
+              <tipo>20</tipo>
+              <cabeceira>Match</cabeceira>
+              <imaxe>giraffe.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="170" posy="0">horns</etiqueta>
+              <etiqueta posx="284" posy="188">tail</etiqueta>
+              <etiqueta posx="189" posy="122">long neck</etiqueta>
+              <etiqueta posx="161" posy="348">leg</etiqueta>
+              <etiqueta posx="202" posy="242">body</etiqueta>
+              <etiqueta posx="159" posy="34">ear</etiqueta>
+        </paxina>
+        <paxina id="38" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>giraffe.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="170" posy="0">horns</etiqueta>
+              <etiqueta posx="284" posy="188">tail</etiqueta>
+              <etiqueta posx="189" posy="122">long neck</etiqueta>
+              <etiqueta posx="161" posy="348">leg</etiqueta>
+              <etiqueta posx="202" posy="242">body</etiqueta>
+              <etiqueta posx="159" posy="34">ear</etiqueta>
+        </paxina>
+        <paxina id="39" >
+              <tipo>7</tipo>
+              <fondocaixa1 trans="30">mammals.jpg</fondocaixa1>
+              <fondocaixa2 trans="30">reptiles.gif</fondocaixa2>
+              <caixa1>Mammals</caixa1>
+              <caixa2>Reptiles</caixa2>
+              <mini caixa="1">giraffe.png</mini>
+              <mini caixa="2">crocodile.jpg</mini>
+              <mini caixa="1">leopard.jpg</mini>
+              <mini caixa="2">tortoise.png</mini>
+              <mini caixa="1">zebra.jpg</mini>
+              <mini caixa="2">snake.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="40" >
+              <tipo>20</tipo>
+              <cabeceira>Match</cabeceira>
+              <imaxe>bird.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="202" posy="65">beak</etiqueta>
+              <etiqueta posx="103" posy="38">head</etiqueta>
+              <etiqueta posx="87" posy="116">wing</etiqueta>
+              <etiqueta posx="198" posy="8">eye</etiqueta>
+              <etiqueta posx="114" posy="218">claws</etiqueta>
+              <etiqueta posx="26" posy="177">tail</etiqueta>
+        </paxina>
+        <paxina id="41" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>bird.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="202" posy="65">beak</etiqueta>
+              <etiqueta posx="103" posy="38">head</etiqueta>
+              <etiqueta posx="87" posy="116">wing</etiqueta>
+              <etiqueta posx="198" posy="8">eye</etiqueta>
+              <etiqueta posx="114" posy="218">claws</etiqueta>
+              <etiqueta posx="26" posy="177">tail</etiqueta>
+        </paxina>
+        <paxina id="42" >
+              <tipo>14</tipo>
+              <cabeceira>Match</cabeceira>
+              <peza imaxe="tortoise.png" texto="The tortoise has got ..." son="">shell.jpg</peza>
+              <peza imaxe="bird.jpg" texto="The bird has got ..." son="">wings.JPG</peza>
+              <peza imaxe="leopard.jpg" texto="The leopard has got ..." son="">claws.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="43" >
+              <tipo>20</tipo>
+              <cabeceira>Match</cabeceira>
+              <imaxe>portada.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="80" posy="282">tail</etiqueta>
+              <etiqueta posx="388" posy="79">tusk</etiqueta>
+              <etiqueta posx="462" posy="161">long hair</etiqueta>
+              <etiqueta posx="371" posy="250">claws</etiqueta>
+              <etiqueta posx="179" posy="43">fur</etiqueta>
+              <etiqueta posx="453" posy="315">shell</etiqueta>
+        </paxina>
+        <paxina id="44" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[It's got feathers and a beak.
+It's got claws and wings.
+Who is it?]]></texto>
+              <resp texto="">bird</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="45" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[It's got scales and a tail.
+It lives in the sea.
+Who is it?]]></texto>
+              <resp texto="">fish</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="46" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[It's got a long neck and horns.
+It's got four legs.
+Who is it?]]></texto>
+              <resp texto="">giraffe</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="47" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="tail.jpg">tail</sopa>
+              <sopa enun="tusk.jpg">tusk</sopa>
+              <sopa enun="whiskers.jpg">whiskers</sopa>
+              <sopa enun="wings.JPG">wings</sopa>
+              <sopa enun="horns.jpg">horns</sopa>
+              <sopa enun="claws.jpg">claws</sopa>
+              <sopa enun="beak.jpg">beak</sopa>
+              <sopa enun="scales.jpg">scales</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="48" >
+              <tipo>29</tipo>
+              <cabeceira>Choose the right word.</cabeceira>
+              <texto><![CDATA[A tiger has got sharp *teeth.
+A monkey has got a long *tail.
+A bird has got *feathers.
+And a fish has got *scales.
+
+An elephant has got *tusks.
+A cat has got *whiskers and claws.
+A rabbit has got soft *fur.
+And a crocodile has got *jaws.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="49" >
+              <tipo>6</tipo>
+              <cabeceira>Match</cabeceira>
+              <fondocaixa1 trans="30">mammals.jpg</fondocaixa1>
+              <fondocaixa2 trans="30">reptiles.gif</fondocaixa2>
+              <nome caixa="1">They have got fur or hair.</nome>
+              <nome caixa="2">They have got cold blood.</nome>
+              <nome caixa="1">They have got warm blood.</nome>
+              <nome caixa="1">They have live babies.</nome>
+              <nome caixa="2">They have got scales or dry skin.</nome>
+              <nome caixa="2">Most of these lay eggs.</nome>
+              <caixa1>Mammals</caixa1>
+              <caixa2>Reptiles</caixa2>
+        </paxina>
+        <paxina id="50" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle.</cabeceira>
+              <imaxe>mammals.jpg</imaxe>
+              <imfondo  trans="15">mammals.jpg</imfondo>
+              <filas>6</filas>
+              <columnas>8</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
