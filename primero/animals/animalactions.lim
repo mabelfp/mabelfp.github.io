@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="44" posy="42" trans="20">fondo.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="46" posy="-50">fondo.jpg</imaxe>
+              <texto posx="187" posy="107" ancho="483" largo="141"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">ANIMALS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>Bear</cabeceira>
+              <etiqueta imaxe="bear.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="crocodile.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="elephant.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="giraffe.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lion.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="monkey.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>Crocodile</cabeceira>
+              <etiqueta imaxe="bear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="crocodile.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="elephant.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="giraffe.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lion.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="monkey.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>Elephant</cabeceira>
+              <etiqueta imaxe="bear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="crocodile.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="elephant.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="giraffe.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lion.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="monkey.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>Giraffe</cabeceira>
+              <etiqueta imaxe="bear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="crocodile.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="elephant.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="giraffe.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="lion.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="monkey.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>Lion</cabeceira>
+              <etiqueta imaxe="bear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="crocodile.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="elephant.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="giraffe.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lion.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="monkey.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Monkey</cabeceira>
+              <etiqueta imaxe="bear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="crocodile.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="elephant.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="giraffe.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="lion.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="monkey.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>bear.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">bear</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>crocodile.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">crocodile</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>elephant.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">elephant</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>giraffe.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">giraffe</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>lion.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">lion</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>monkey.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">monkey</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>bear.jpg</parellas>
+              <parellas>crocodile.jpg</parellas>
+              <parellas>elephant.jpg</parellas>
+              <parellas>giraffe.jpg</parellas>
+              <parellas>lion.jpg</parellas>
+              <parellas>monkey.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="bear">bear.jpg</cousa>
+              <cousa nome="crocodile">crocodile.jpg</cousa>
+              <cousa nome="monkey">monkey.jpg</cousa>
+              <cousa nome="giraffe">giraffe.jpg</cousa>
+              <cousa nome="lion">lion.jpg</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>Mouse</cabeceira>
+              <etiqueta imaxe="mouse.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="parrot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="frog.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>24</tipo>
+              <cabeceira>Parrot</cabeceira>
+              <etiqueta imaxe="mouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="parrot.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="frog.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>24</tipo>
+              <cabeceira>Frog</cabeceira>
+              <etiqueta imaxe="mouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="parrot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="frog.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>24</tipo>
+              <cabeceira>Rabbit</cabeceira>
+              <etiqueta imaxe="mouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="parrot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="frog.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="snake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="20" >
+              <tipo>24</tipo>
+              <cabeceira>Snake</cabeceira>
+              <etiqueta imaxe="mouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="parrot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="frog.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snake.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>24</tipo>
+              <cabeceira>Tiger</cabeceira>
+              <etiqueta imaxe="mouse.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="parrot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="frog.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="rabbit.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="snake.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="tiger.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>frog.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">frog</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>mouse.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">mouse</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="24" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>parrot.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">parrot</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>rabbit.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">rabbit</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="26" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>snake.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">snake</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="27" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>tiger.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">tiger</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="28" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>snake.jpg</parellas>
+              <parellas>rabbit.jpg</parellas>
+              <parellas>parrot.jpg</parellas>
+              <parellas>tiger.jpg</parellas>
+              <parellas>mouse.jpg</parellas>
+              <parellas>frog.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+        <paxina id="29" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="frog">frog.jpg</cousa>
+              <cousa nome="rabbit">rabbit.jpg</cousa>
+              <cousa nome="snake">snake.jpg</cousa>
+              <cousa nome="mouse">mouse.jpg</cousa>
+              <cousa nome="parrot">parrot.jpg</cousa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="20">meat.jpg</fondocaixa1>
+              <fondocaixa2 trans="20">vegetables.jpg</fondocaixa2>
+              <caixa1>Eat meat</caixa1>
+              <caixa2>Eat vegetables</caixa2>
+              <mini caixa="1">crocodile.jpg</mini>
+              <mini caixa="2">rabbit.jpg</mini>
+              <mini caixa="1">snake.jpg</mini>
+              <mini caixa="2">parrot.jpg</mini>
+              <mini caixa="1">tiger.jpg</mini>
+              <mini caixa="2">mouse.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>100</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="31" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>fondo.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="24" posy="15">Elephant</etiqueta>
+              <etiqueta posx="23" posy="294">Giraffe</etiqueta>
+              <etiqueta posx="218" posy="251">Snake</etiqueta>
+              <etiqueta posx="209" posy="88">Lion</etiqueta>
+              <etiqueta posx="385" posy="6">Crocodile</etiqueta>
+              <etiqueta posx="469" posy="129">Tiger</etiqueta>
+        </paxina>
+        <paxina id="32" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="crocodile.jpg">crocodile</sopa>
+              <sopa enun="elephant.jpg">elephant</sopa>
+              <sopa enun="snake.jpg">snake</sopa>
+              <sopa enun="monkey.jpg">monkey</sopa>
+              <sopa enun="bear.jpg">bear</sopa>
+              <sopa enun="giraffe.jpg">giraffe</sopa>
+              <sopa enun="lion.jpg">lion</sopa>
+              <sopa enun="tiger.jpg">tiger</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="33" >
+              <tipo>24</tipo>
+              <cabeceira>Fly</cabeceira>
+              <etiqueta imaxe="fly.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="swim.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="turnaround.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jump.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="run.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="walk.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="34" >
+              <tipo>24</tipo>
+              <cabeceira>Swim</cabeceira>
+              <etiqueta imaxe="fly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="swim.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="turnaround.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jump.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="run.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="walk.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="35" >
+              <tipo>24</tipo>
+              <cabeceira>Turn around</cabeceira>
+              <etiqueta imaxe="fly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="swim.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="turnaround.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="jump.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="run.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="walk.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="36" >
+              <tipo>24</tipo>
+              <cabeceira>Jump</cabeceira>
+              <etiqueta imaxe="fly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="swim.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="turnaround.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jump.jpg" texto="jump">1</etiqueta>
+              <etiqueta imaxe="run.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="walk.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="37" >
+              <tipo>24</tipo>
+              <cabeceira>Run</cabeceira>
+              <etiqueta imaxe="climb.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="swim.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="turnaround.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jump.jpg" texto="jump">0</etiqueta>
+              <etiqueta imaxe="run.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="walk.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="38" >
+              <tipo>24</tipo>
+              <cabeceira>Walk</cabeceira>
+              <etiqueta imaxe="fly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="climb.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="turnaround.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jump.jpg" texto="jump">0</etiqueta>
+              <etiqueta imaxe="run.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="walk.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="39" >
+              <tipo>24</tipo>
+              <cabeceira>Climb</cabeceira>
+              <etiqueta imaxe="fly.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="climb.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="turnaround.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="jump.jpg" texto="jump">0</etiqueta>
+              <etiqueta imaxe="run.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="climb.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="40" >
+              <tipo>19</tipo>
+              <imaxe>climb.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">climb</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="41" >
+              <tipo>19</tipo>
+              <imaxe>fly.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">fly</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="42" >
+              <tipo>19</tipo>
+              <imaxe>jump.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">jump</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="43" >
+              <tipo>19</tipo>
+              <imaxe>run.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">run</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="44" >
+              <tipo>19</tipo>
+              <imaxe>swim.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">swim</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="45" >
+              <tipo>19</tipo>
+              <imaxe>turnaround.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">turn around</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="46" >
+              <tipo>19</tipo>
+              <imaxe>walk.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">walk</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="47" >
+              <tipo>17</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <parellas>climb.jpg</parellas>
+              <parellas>fly.jpg</parellas>
+              <parellas>jump.jpg</parellas>
+              <parellas>walk.jpg</parellas>
+              <parellas>turnaround.jpg</parellas>
+              <parellas>swim.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF80C0</ctapa>
+        </paxina>
+        <paxina id="48" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="climb">climb.jpg</cousa>
+              <cousa nome="fly">fly.jpg</cousa>
+              <cousa nome="run">run.jpg</cousa>
+              <cousa nome="walk">walk.jpg</cousa>
+              <cousa nome="swim">swim.jpg</cousa>
+        </paxina>
+        <paxina id="49" >
+              <tipo>14</tipo>
+              <cabeceira>Choose</cabeceira>
+              <peza imaxe="climb.jpg" texto="Climb" son="">monkey.jpg</peza>
+              <peza imaxe="fly.jpg" texto="Fly" son="">parrot.jpg</peza>
+              <peza imaxe="swim.jpg" texto="Swim" son="">frog.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="50" >
+              <tipo>14</tipo>
+              <cabeceira>Choose</cabeceira>
+              <peza imaxe="run.jpg" texto="run" son="">lion.jpg</peza>
+              <peza imaxe="walk.jpg" texto="walk" son="">elephant.jpg</peza>
+              <peza imaxe="jump.jpg" texto="jump" son="">rabbit.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="51" >
+              <tipo>7</tipo>
+              <cabeceira>Choose</cabeceira>
+              <fondocaixa1 trans="20">actions.jpg</fondocaixa1>
+              <fondocaixa2 trans="20">fondo.jpg</fondocaixa2>
+              <caixa1>Actions</caixa1>
+              <caixa2>Animals</caixa2>
+              <mini caixa="1">climb.jpg</mini>
+              <mini caixa="1">crocodile.jpg</mini>
+              <mini caixa="1">run.jpg</mini>
+              <mini caixa="1">monkey.jpg</mini>
+              <mini caixa="1">turnaround.jpg</mini>
+              <mini caixa="1">tiger.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>100</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="52" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>fondo.jpg</imaxe>
+              <imfondo  trans="20">fondo.jpg</imfondo>
+              <filas>6</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
