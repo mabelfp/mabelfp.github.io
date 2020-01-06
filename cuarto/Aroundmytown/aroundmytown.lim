@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-4" posy="58" trans="15">city.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-35">city.png</imaxe>
+              <texto posx="458" posy="181" ancho="343" largo="228"><![CDATA[
+<p align="left">
+<font color="#0000A0" face="Lucida Handwriting" size="28"><b>AROUND</b><br>
+<b>MY </b><br>
+<b>TOWN</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="There is a hospital in my town.">hospital@2x.png</cousa>
+              <cousa nome="There is a train station.">trainstation.jpg</cousa>
+              <cousa nome="There is a café in my town.">cafe.jpg</cousa>
+              <cousa nome="There is a police station.">policestation.jpg</cousa>
+              <cousa nome="There is a museum.">museum.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="There is a hospital in my town.">hospital@2x.png</cousa>
+              <cousa nome="There is a train station.">trainstation.jpg</cousa>
+              <cousa nome="There is a café in my town.">cafe.jpg</cousa>
+              <cousa nome="There is a police station.">policestation.jpg</cousa>
+              <cousa nome="There is a museum.">museum.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>cafe.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">There is a café in my town.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>hospital@2x.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">There is a hospital in my town.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="130" posy="96">policestation.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>police station</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="46" posy="21">museum.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>museum</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>trainstation.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">There is a train station.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>trainstation.jpg</imaxe>
+              <pregunta res="Yes, there is.">Is there a train station in your town?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a café in your town?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a museum?</pregunta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>hospital@2x.png</imaxe>
+              <texto>Is there a hospital in your town?</texto>
+              <resp texto="" valor="1">Yes, there is.</resp>
+              <resp texto="" valor="0">No, there isn&apos;t.</resp>
+        </paxina>
+        <paxina id="11" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>policestation.jpg</imaxe>
+              <pregunta res="Yes, there is.">Is there a police station in your town?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a café in your town?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a hospital?</pregunta>
+        </paxina>
+        <paxina id="12" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>museum.jpg</imaxe>
+              <pregunta res="No, there isn&apos;t.">Is there a police station in your town?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a café in your town?</pregunta>
+              <pregunta res="Yes, there is.">Is there a museum?</pregunta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>cafe.jpg</imaxe>
+              <texto>Is there a café in your town?</texto>
+              <resp texto="" valor="1">Yes, there is.</resp>
+              <resp texto="" valor="0">No, there isn&apos;t.</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>39</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="There is a café.">cafe.jpg</parellas>
+              <parellas imaxe="" texto="There is a hospital.">hospital@2x.png</parellas>
+              <parellas imaxe="" texto="There is a museum.">museum.jpg</parellas>
+              <parellas imaxe="" texto="There is a police station.">policestation.jpg</parellas>
+              <parellas imaxe="" texto="There is a train station.">trainstation.jpg</parellas>
+              <parellas imaxe="" texto="This is my town.">town.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0080FF</ctapa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>39</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="There is a café.">cafe.jpg</parellas>
+              <parellas imaxe="" texto="There is a hospital.">hospital@2x.png</parellas>
+              <parellas imaxe="" texto="There is a museum.">museum.jpg</parellas>
+              <parellas imaxe="" texto="There is a police station.">policestation.jpg</parellas>
+              <parellas imaxe="" texto="There is a train station.">trainstation.jpg</parellas>
+              <parellas imaxe="" texto="This is my town.">town.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0080FF</ctapa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="There are three newsagent&apos;s.">newsagent.jpg</cousa>
+              <cousa nome="There are five supermarkets.">supermarket.jpg</cousa>
+              <cousa nome="There are lots of bus stops.">bus_stop.jpg</cousa>
+              <cousa nome="There are two cinemas.">cinema.png</cousa>
+              <cousa nome="There are lots of shops.">shop.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="There are three newsagent&apos;s.">newsagent.jpg</cousa>
+              <cousa nome="There are five supermarkets.">supermarket.jpg</cousa>
+              <cousa nome="There are lots of bus stops.">bus_stop.jpg</cousa>
+              <cousa nome="There are two cinemas.">cinema.png</cousa>
+              <cousa nome="There are lots of shops.">shop.jpg</cousa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>shop.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">There are lots of shops.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>supermarket.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">There are five supermarkets.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="129" posy="77">bus_stop.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>bus stop</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="21" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="150" posy="72">cinema.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>cinema</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>newsagent.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">There are three newsagent&apos;s.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>10</tipo>
+              <cabeceira>Opposites</cabeceira>
+              <pregunta res="There aren&apos;t three newsagents.">There are three newsagent&apos;s.</pregunta>
+              <pregunta res="There aren&apos;t five supermarkets.">There are five supermarkerts.</pregunta>
+              <pregunta res="There aren&apos;t lots of shops.">There are lots of shops.</pregunta>
+        </paxina>
+        <paxina id="24" >
+              <tipo>1</tipo>
+              <cabeceira>Answer</cabeceira>
+              <imaxe>bus_stop.jpg</imaxe>
+              <texto>Are there lots of bus stops in your town?</texto>
+              <resp texto="" valor="1">Yes, there are.</resp>
+              <resp texto="" valor="0">No, there aren&apos;t.</resp>
+        </paxina>
+        <paxina id="25" >
+              <tipo>1</tipo>
+              <cabeceira>Answer</cabeceira>
+              <imaxe>supermarket.jpg</imaxe>
+              <texto>Are there five supermarkets in your town?</texto>
+              <resp texto="" valor="1">Yes, there are.</resp>
+              <resp texto="" valor="0">No, there aren&apos;t.</resp>
+        </paxina>
+        <paxina id="26" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>shop.jpg</imaxe>
+              <pregunta res="No, there aren&apos;t.">Are there cinemas in your town?</pregunta>
+              <pregunta res="Yes, there are.">Are there shops in your town?</pregunta>
+              <pregunta res="No, there aren&apos;t.">Are there bus stops in your town?</pregunta>
+        </paxina>
+        <paxina id="27" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>newsagent.jpg</imaxe>
+              <pregunta res="No, there aren&apos;t.">Are there cinemas in your town?</pregunta>
+              <pregunta res="Yes, there are.">Are there newsagent&apos;s in your town?</pregunta>
+              <pregunta res="No, there aren&apos;t.">Are there bus stops in your town?</pregunta>
+        </paxina>
+        <paxina id="28" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>cinema.png</imaxe>
+              <pregunta res="Yes, there are.">Are there cinemas in your town?</pregunta>
+              <pregunta res="No, there aren&apos;t.">Are there newsagent&apos;s in your town?</pregunta>
+              <pregunta res="No, there aren&apos;t.">Are there bus stops in your town?</pregunta>
+        </paxina>
+        <paxina id="29" >
+              <tipo>39</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="There are two cinemas.">cinema.png</parellas>
+              <parellas imaxe="" texto="There are five supermarkets.">supermarket.jpg</parellas>
+              <parellas imaxe="" texto="There are three newagent&apos;s.">newsagent.jpg</parellas>
+              <parellas imaxe="" texto="There are lots of bus stops.">bus_stop.jpg</parellas>
+              <parellas imaxe="" texto="There are lots of shops.">shop.jpg</parellas>
+              <parellas imaxe="" texto="There are eight schools.">school.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF8040</ctapa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>4</tipo>
+              <cabeceira>Word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="bus_stop.jpg">bus stop</sopa>
+              <sopa enun="supermarket.jpg">supermarket</sopa>
+              <sopa enun="cafe.jpg">café</sopa>
+              <sopa enun="museum.jpg">museum</sopa>
+              <sopa enun="newsagent.jpg">newsagent&apos;s</sopa>
+              <sopa enun="cinema.png">cinemas</sopa>
+              <sopa enun="hospital@2x.png">hospital</sopa>
+              <sopa enun="shop.jpg">shops</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="31" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="There&apos;s a sweet shop.">sweet_shop.jpg</cousa>
+              <cousa nome="There&apos;s a shoe shop.">shoeshop.jpg</cousa>
+              <cousa nome="There&apos;s a pet shop.">petshop.png</cousa>
+              <cousa nome="There&apos;s a clothes shop.">clothes_shop.jpg</cousa>
+              <cousa nome="There&apos;s a toy shop.">toyshop.jpg</cousa>
+        </paxina>
+        <paxina id="32" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="There&apos;s a sweet shop.">sweet_shop.jpg</cousa>
+              <cousa nome="There&apos;s a shoe shop.">shoeshop.jpg</cousa>
+              <cousa nome="There&apos;s a pet shop.">petshop.png</cousa>
+              <cousa nome="There&apos;s a clothes shop.">clothes_shop.jpg</cousa>
+              <cousa nome="There&apos;s a toy shop.">toyshop.jpg</cousa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>10</tipo>
+              <cabeceira>Complete</cabeceira>
+              <imaxe>shoeshop.jpg</imaxe>
+              <pregunta res="shoe shop.">In our town there is a </pregunta>
+              <pregunta res=""> </pregunta>
+        </paxina>
+        <paxina id="34" >
+              <tipo>10</tipo>
+              <cabeceira>Complete</cabeceira>
+              <imaxe>petshop.png</imaxe>
+              <pregunta res="pet shop.">In my our there is a </pregunta>
+              <pregunta res=""> </pregunta>
+        </paxina>
+        <paxina id="35" >
+              <tipo>10</tipo>
+              <cabeceira>Complete</cabeceira>
+              <imaxe>sweet_shop.jpg</imaxe>
+              <pregunta res="sweet shop.">In our town there is a </pregunta>
+              <pregunta res=""> </pregunta>
+        </paxina>
+        <paxina id="36" >
+              <tipo>10</tipo>
+              <cabeceira>Complete</cabeceira>
+              <imaxe>toyshop.jpg</imaxe>
+              <pregunta res="toy shop.">In our town there is a </pregunta>
+              <pregunta res=""> </pregunta>
+        </paxina>
+        <paxina id="37" >
+              <tipo>10</tipo>
+              <cabeceira>Complete</cabeceira>
+              <imaxe>clothes_shop.jpg</imaxe>
+              <pregunta res="clothes shop.">In our town there is a </pregunta>
+              <pregunta res=""> </pregunta>
+        </paxina>
+        <paxina id="38" >
+              <tipo>13</tipo>
+              <cabeceira>PUBLIC  SIGNS</cabeceira>
+              <unir texto="PLEASE, keep this bus">tidy.</unir>
+              <unir texto="DON&apos;T lean ">out of the window.</unir>
+              <unir texto="PLEASE, give up your ">seat, if s.o. needs it</unir>
+              <unir texto="MIND THE">GAP.</unir>
+        </paxina>
+        <paxina id="39" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="opposite">opposite.png</cousa>
+              <cousa nome="next to">nextto.jpg</cousa>
+              <cousa nome="near">near.jpg</cousa>
+              <cousa nome="between">between.jpg.png</cousa>
+              <cousa nome="behind">behing.png</cousa>
+        </paxina>
+        <paxina id="40" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="opposite">opposite.png</cousa>
+              <cousa nome="next to">nextto.jpg</cousa>
+              <cousa nome="near">near.jpg</cousa>
+              <cousa nome="between">between.jpg.png</cousa>
+              <cousa nome="behind">behing.png</cousa>
+        </paxina>
+        <paxina id="41" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>juegopreposiciones.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="277" posy="148">There is a cat behind the dresser.</etiqueta>
+              <etiqueta posx="5" posy="45">There is a dog on the chair.</etiqueta>
+              <etiqueta posx="300" posy="337">There is a b.c. between the cats.</etiqueta>
+              <etiqueta posx="478" posy="96">There is a cat in the wardrobe.</etiqueta>
+              <etiqueta posx="401" posy="223">There is a cat near the TV.</etiqueta>
+              <etiqueta posx="155" posy="251">There is a picture opposite the dog.</etiqueta>
+        </paxina>
+        <paxina id="42" >
+              <tipo>4</tipo>
+              <cabeceira>Word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="opposite.png">opposite</sopa>
+              <sopa enun="on.jpg">on</sopa>
+              <sopa enun="under.jpg">under</sopa>
+              <sopa enun="nextto.jpg">nextto</sopa>
+              <sopa enun="behing.png">behind</sopa>
+              <sopa enun="between.jpg.png">between</sopa>
+              <sopa enun="in.png">in </sopa>
+              <sopa enun="near.jpg">near</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="43" >
+              <tipo>39</tipo>
+              <cabeceira>Match game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="between">between.jpg.png</parellas>
+              <parellas imaxe="" texto="behind">behing.png</parellas>
+              <parellas imaxe="" texto="in">in.png</parellas>
+              <parellas imaxe="" texto="near">near.jpg</parellas>
+              <parellas imaxe="" texto="next to">nextto.jpg</parellas>
+              <parellas imaxe="" texto="opposite">opposite.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>8000FF</ctapa>
+        </paxina>
+        <paxina id="44" >
+              <tipo>24</tipo>
+              <cabeceira>SHOPS</cabeceira>
+              <etiqueta imaxe="policestation.jpg" texto="THERE IS A POLICE STATION.">0</etiqueta>
+              <etiqueta imaxe="shoeshop.jpg" texto="THERE IS A SHOE SHOP.">1</etiqueta>
+              <etiqueta imaxe="petshop.png" texto="THERE ISN&apos;T A PET SHOP.">1</etiqueta>
+              <etiqueta imaxe="supermarket.jpg" texto="THERE ARE THREE SUPERMARKETS.">1</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="THERE IS A RABBIT UNDER THE TABLE.">0</etiqueta>
+              <etiqueta imaxe="zoo.jpg" texto="THERE ISN&apos;T A ZOO IN YOUR TOWN.">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="45" >
+              <tipo>24</tipo>
+              <cabeceira>PREPOSITIONS</cabeceira>
+              <etiqueta imaxe="policestation.jpg" texto="THERE IS A POLICE STATION.">0</etiqueta>
+              <etiqueta imaxe="opposite.png" texto="THERE IS A CAFÉ OPPOSITE THE SHOP.">1</etiqueta>
+              <etiqueta imaxe="nextto.jpg" texto="THE CAT IS NEXT TO THE WOOL BALL.">1</etiqueta>
+              <etiqueta imaxe="supermarket.jpg" texto="THERE ARE THREE SUPERMARKETS.">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="THERE IS A RABBIT UNDER THE TABLE.">1</etiqueta>
+              <etiqueta imaxe="zoo.jpg" texto="THERE ISN&apos;T A ZOO IN YOUR TOWN.">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="46" >
+              <tipo>24</tipo>
+              <cabeceira>BUILDINGS</cabeceira>
+              <etiqueta imaxe="policestation.jpg" texto="THERE IS A POLICE STATION.">1</etiqueta>
+              <etiqueta imaxe="hospital@2x.png" texto="THERE IS A HOSPITAL IN OUR TOWN.">1</etiqueta>
+              <etiqueta imaxe="nextto.jpg" texto="THE CAT IS NEXT TO THE WOOL BALL.">0</etiqueta>
+              <etiqueta imaxe="museum.jpg" texto="THERE ISN&apos;T A MUSEUM.">1</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="THERE IS A RABBIT UNDER THE TABLE.">0</etiqueta>
+              <etiqueta imaxe="zoo.jpg" texto="THERE ISN&apos;T A ZOO IN YOUR TOWN.">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="47" >
+              <tipo>24</tipo>
+              <cabeceira>TYPES OF TRANSPORT</cabeceira>
+              <etiqueta imaxe="policestation.jpg" texto="THERE IS A POLICE STATION.">0</etiqueta>
+              <etiqueta imaxe="hospital@2x.png" texto="THERE IS A HOSPITAL IN OUR TOWN.">0</etiqueta>
+              <etiqueta imaxe="tube.jpg" texto="THERE ISN&apos;T A TUBE IN OUR TOWN.">1</etiqueta>
+              <etiqueta imaxe="museum.jpg" texto="THERE ISN&apos;T A MUSEUM.">0</etiqueta>
+              <etiqueta imaxe="tram.jpg" texto="THERE IS A TRAM IN OUR TOWN.">1</etiqueta>
+              <etiqueta imaxe="ddbus.jpg" texto="IN LONDON THERE ARE DOUBLE-DECKER BUSES.">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="48" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle</cabeceira>
+              <imaxe>mapgame.jpg</imaxe>
+              <imfondo  trans="15">mapgame.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
