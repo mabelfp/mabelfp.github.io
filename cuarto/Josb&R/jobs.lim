@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-98" posy="-70" trans="20">jobs.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Well done!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="144" posy="218" ancho="385" largo="206"><![CDATA[
+<p align="left">
+<font color="#004080" face="Arial" size="46">JOBS<br>
+AND <br>
+ROUTINES</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="She is a firefighter. She works in a fire station.">firefighter.png</cousa>
+              <cousa nome="He is a farmer. He works on a farm.">farmer.jpg</cousa>
+              <cousa nome="He is a police officer. He works in a police station.">policeman.png</cousa>
+              <cousa nome="She is a fashion designer. She works in a workshop.">fashiondesigner.png</cousa>
+              <cousa nome="She is a nurse. She works in a hospital.">nurse.png</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[She works in a hospital. She is a ...]]></texto>
+              <resp texto="">nurse</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[She works in a fire station. She is a ...]]></texto>
+              <resp texto="">firefighter</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He works in a police station. He is a ...]]></texto>
+              <resp texto="">police officer</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[She works in a workshop. She is a ...]]></texto>
+              <resp texto="">fashion desinger</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He works on a farm. He is a ...]]></texto>
+              <resp texto="">farmer</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="He is a farmer.">He works on a farm.</unir>
+              <unir texto="He is a police officer">He works in a police s</unir>
+              <unir texto="She is a nurse.">She works in a hospita</unir>
+              <unir texto="She is a firefighter.">She works in a fire st</unir>
+              <unir texto="She&apos;s a fashion design">She works in a worksho</unir>
+        </paxina>
+        <paxina id="9" >
+              <tipo>10</tipo>
+              <cabeceira>Anwer the questions.</cabeceira>
+              <imaxe>farmer.jpg</imaxe>
+              <pregunta res="No, he doesn&apos;t.">Does he work in a workshop?</pregunta>
+              <pregunta res="He works on a farm.">Where does he work?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he wear a uniform?</pregunta>
+              <pregunta res="Yes, he does.">Does he work with animals?</pregunta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>10</tipo>
+              <cabeceira>Anwer the questions.</cabeceira>
+              <imaxe>nurse.png</imaxe>
+              <pregunta res="No, she doesn&apos;t.">Does she work in a farm?</pregunta>
+              <pregunta res="She works in a hospital.">Where does she work?</pregunta>
+              <pregunta res="Yes, she does.">Does she wear a uniform?</pregunta>
+              <pregunta res="No, she doesn&apos;t.">Does she wear a helmet?</pregunta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>10</tipo>
+              <cabeceira>Anwer the questions.</cabeceira>
+              <imaxe>firefighter.png</imaxe>
+              <pregunta res="No, she doesn&apos;t.">Does she work in a hospital?</pregunta>
+              <pregunta res="She works in a fire station.">Where does she work?</pregunta>
+              <pregunta res="Yes, she does.">Does she wear a uniform?</pregunta>
+              <pregunta res="Yes, she does.">Does she wear a helmet?</pregunta>
+        </paxina>
+        <paxina id="12" >
+              <tipo>10</tipo>
+              <cabeceira>Anwer the questions.</cabeceira>
+              <imaxe>fashiondesigner.png</imaxe>
+              <pregunta res="No, she doesn&apos;t.">Does she work in a fire station?</pregunta>
+              <pregunta res="She works in a workshop.">Where does she work?</pregunta>
+              <pregunta res="No, she doesn&apos;t.">Does she wear a uniform?</pregunta>
+              <pregunta res="Yes, she does.">Does she work with people?</pregunta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>10</tipo>
+              <cabeceira>Anwer the questions.</cabeceira>
+              <imaxe>policeman.png</imaxe>
+              <pregunta res="No, he doesn&apos;t.">Does he work in a workshop?</pregunta>
+              <pregunta res="He works in a police station.">Where does he work?</pregunta>
+              <pregunta res="Yes, he does.">Does he wear a uniform?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he wear a helmet?</pregunta>
+        </paxina>
+        <paxina id="14" >
+              <tipo>11</tipo>
+              <cabeceira>Who are they?</cabeceira>
+              <modo>1</modo>
+              <cousa nome="She is a fashion designer.">fashiondesigner.png</cousa>
+              <cousa nome="He is a farmer.">farmer.jpg</cousa>
+              <cousa nome="She is a nurse.">nurse.png</cousa>
+              <cousa nome="He is a police officer.">policeman.png</cousa>
+              <cousa nome="She is a firefighter.">firefighter.png</cousa>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>Where do they work?</cabeceira>
+              <modo>1</modo>
+              <cousa nome="She works in a workshop.">fashiondesigner.png</cousa>
+              <cousa nome="He works on a farm.">farmer.jpg</cousa>
+              <cousa nome="She works in a hospital.">nurse.png</cousa>
+              <cousa nome="He works in a police station.">policeman.png</cousa>
+              <cousa nome="She works in a fire station.">firefighter.png</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>14</tipo>
+              <cabeceira>Match</cabeceira>
+              <peza imaxe="farmer.jpg" texto="The farmer works on a farm." son="">farm.jpg</peza>
+              <peza imaxe="firefighter.png" texto="The firefighter works in a fire station." son="">firestation.jpg</peza>
+              <peza imaxe="policeman.png" texto="The police officer works in a police station." son="">policestation.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="She is a pop star. She sings songs.">popsinger.png</cousa>
+              <cousa nome="He is a shop assistant. He works in a supermarket.">shopassistant.jpg</cousa>
+              <cousa nome="He is a taxi driver. He drives a car.">taxidriver.png</cousa>
+              <cousa nome="He is a vet. He helps animals.">vet.png</cousa>
+              <cousa nome="He is a web designer. He works with computers.">webdesigner.jpg</cousa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[She sings songs. She is a...]]></texto>
+              <resp texto="">pop star</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He helps animals. He is a...]]></texto>
+              <resp texto="">vet</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He works with computers. He is a...]]></texto>
+              <resp texto="">web designer</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He works in a supermarket. He is a...]]></texto>
+              <resp texto="">shop assistant</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="22" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He drives a car. He is a...]]></texto>
+              <resp texto="">taxi driver.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="23" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="He is a shop assistant">He works in a shop.</unir>
+              <unir texto="He is a taxi driver.">He drives a car.</unir>
+              <unir texto="He is a vet.">He helps animals.</unir>
+              <unir texto="He is a web designer.">He works with computer</unir>
+              <unir texto="She is a pop star.">She sings songs.</unir>
+        </paxina>
+        <paxina id="24" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>taxidriver.png</imaxe>
+              <pregunta res="No, he doesn&apos;t.">Does he work in a hospital?</pregunta>
+              <pregunta res="He drives a car.">What does he drive?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he wear a uniform?</pregunta>
+              <pregunta res="Yes, he does.">Does he work with people?</pregunta>
+        </paxina>
+        <paxina id="25" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>shopassistant.jpg</imaxe>
+              <pregunta res="No, he doesn&apos;t.">Does he work in a farm?</pregunta>
+              <pregunta res="He works in a supermarket.">Where does he work?</pregunta>
+              <pregunta res="Yes, he does.">Does he wear a uniform?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he wear a helmet?</pregunta>
+        </paxina>
+        <paxina id="26" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>webdesigner.jpg</imaxe>
+              <pregunta res="Yes, he does.">Does he work in a office?</pregunta>
+              <pregunta res="He works with computers.">What does he do?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he wear a uniform?</pregunta>
+        </paxina>
+        <paxina id="27" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>vet.png</imaxe>
+              <pregunta res="No, he doesn&apos;t.">Does he work in a school?</pregunta>
+              <pregunta res="He helps animals.">What does he do?</pregunta>
+              <pregunta res="Yes, he does.">Does he wear a uniform?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he wear a helmet?</pregunta>
+        </paxina>
+        <paxina id="28" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions</cabeceira>
+              <imaxe>popsinger.png</imaxe>
+              <pregunta res="No, she doesn&apos;t.">Does she work in a museum?</pregunta>
+              <pregunta res="She sings songs.">What does she do?</pregunta>
+              <pregunta res="No, she doesn&apos;t.">Does she wear a uniform?</pregunta>
+        </paxina>
+        <paxina id="29" >
+              <tipo>11</tipo>
+              <cabeceira>Who are they?</cabeceira>
+              <modo>1</modo>
+              <cousa nome="He is a vet.">vet.png</cousa>
+              <cousa nome="He is a shop assistant.">shopassistant.jpg</cousa>
+              <cousa nome="She is a pop star.">popsinger.png</cousa>
+              <cousa nome="He is a web designer.">webdesigner.jpg</cousa>
+              <cousa nome="He is a taxi driver.">taxidriver.png</cousa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>11</tipo>
+              <cabeceira>What do they do?</cabeceira>
+              <modo>1</modo>
+              <cousa nome="He helps animals.">vet.png</cousa>
+              <cousa nome="He works in a supermarket.">shopassistant.jpg</cousa>
+              <cousa nome="She sings songs.">popsinger.png</cousa>
+              <cousa nome="He works with computers.">webdesigner.jpg</cousa>
+              <cousa nome="He drives a car.">taxidriver.png</cousa>
+        </paxina>
+        <paxina id="31" >
+              <tipo>39</tipo>
+              <cabeceira>Match</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="He works in a farm.">farmer.jpg</parellas>
+              <parellas imaxe="" texto="She wears uniform.">firefighter.png</parellas>
+              <parellas imaxe="" texto="She sings songs.">popsinger.png</parellas>
+              <parellas imaxe="" texto="He works in a police station.">policeman.png</parellas>
+              <parellas imaxe="" texto="He helps animals.">vet.png</parellas>
+              <parellas imaxe="" texto="He drives a car.">taxidriver.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>00FF00</ctapa>
+        </paxina>
+        <paxina id="32" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="farmer.jpg">farmer</sopa>
+              <sopa enun="shopassistant.jpg">s.assistant</sopa>
+              <sopa enun="webdesigner.jpg">webdesigner</sopa>
+              <sopa enun="vet.png">vet</sopa>
+              <sopa enun="firefighter.png">firefighter</sopa>
+              <sopa enun="popsinger.png">popstar</sopa>
+              <sopa enun="nurse.png">nurse</sopa>
+              <sopa enun="taxidriver.png">taxidriver</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="33" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="She is a cleaner. She doesn&apos;t work in a farm.">cleaner.jpg</cousa>
+              <cousa nome="He is a caretaker. He doesn&apos;t work in a shop.">caretaker.png</cousa>
+              <cousa nome="She is a cook. She doesn&apos;t work in a museum.">cook.jpg</cousa>
+              <cousa nome="She is a teacher. She doesn&apos;t work in a library.">teacher.jpg</cousa>
+              <cousa nome="He is a librarian. He doesn&apos;t work in a book shop.">librarian.jpg</cousa>
+        </paxina>
+        <paxina id="34" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[She cooks meals. She is a ...]]></texto>
+              <resp texto="">cook</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="35" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[She works with students. She is a ...]]></texto>
+              <resp texto="">teacher</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="36" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He works in a school doing lots of things. He is a ...]]></texto>
+              <resp texto="">caretaker</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="37" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[He works in a library. He is a ...]]></texto>
+              <resp texto="">librarian</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="38" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <texto><![CDATA[She cleans everything. She is a ...]]></texto>
+              <resp texto="">cleaner</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="39" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="She cooks meals.">She is a cook.</unir>
+              <unir texto="He works in a library.">He is a librarian.</unir>
+              <unir texto="He works in a school.">He is a caretaker.</unir>
+              <unir texto="She cleans everything.">She is a cleaner.</unir>
+              <unir texto="She works with student">She is a teacher.</unir>
+        </paxina>
+        <paxina id="40" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>caretaker.png</imaxe>
+              <texto>What does he do?</texto>
+              <resp texto="" valor="0">He works in a restaurant.</resp>
+              <resp texto="" valor="0">She works in a school doing lots of things.</resp>
+              <resp texto="" valor="0">He work in a school doing lots of things.</resp>
+              <resp texto="" valor="1">He works in a school doing lots of things.</resp>
+        </paxina>
+        <paxina id="41" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>cleaner.jpg</imaxe>
+              <texto>What does she do?</texto>
+              <resp texto="" valor="0">She works in a restaurant.</resp>
+              <resp texto="" valor="0">She clean everything.</resp>
+              <resp texto="" valor="1">She cleans everything.</resp>
+              <resp texto="" valor="0">He cleans everything.</resp>
+        </paxina>
+        <paxina id="42" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>cook.jpg</imaxe>
+              <texto>What does she do?</texto>
+              <resp texto="" valor="1">She works in a professional kitchen.</resp>
+              <resp texto="" valor="1">She cooks meals.</resp>
+              <resp texto="" valor="0">She cook meals.</resp>
+              <resp texto="" valor="0">He cooks meals.</resp>
+        </paxina>
+        <paxina id="43" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>teacher.jpg</imaxe>
+              <texto>What does she do?</texto>
+              <resp texto="" valor="1">She works in a school.</resp>
+              <resp texto="" valor="1">She teaches her lessons.</resp>
+              <resp texto="" valor="0">She teaches his lessons.</resp>
+              <resp texto="" valor="0">He teach her lessons.</resp>
+        </paxina>
+        <paxina id="44" >
+              <tipo>1</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>librarian.jpg</imaxe>
+              <texto>What does he do?</texto>
+              <resp texto="" valor="1">He works in a library.</resp>
+              <resp texto="" valor="1">He works with books.</resp>
+              <resp texto="" valor="0">He work with books.</resp>
+              <resp texto="" valor="0">She works with books.</resp>
+        </paxina>
+        <paxina id="45" >
+              <tipo>11</tipo>
+              <cabeceira>Who are they?</cabeceira>
+              <modo>1</modo>
+              <cousa nome="She is a teacher.">teacher.jpg</cousa>
+              <cousa nome="She is a cook.">cook.jpg</cousa>
+              <cousa nome="She is a cleaner.">cleaner.jpg</cousa>
+              <cousa nome="He is a librarian.">librarian.jpg</cousa>
+              <cousa nome="He is a caretaker.">caretaker.png</cousa>
+        </paxina>
+        <paxina id="46" >
+              <tipo>20</tipo>
+              <cabeceira>Match</cabeceira>
+              <imaxe>jobs1.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="17" posy="94">She is a pop star.</etiqueta>
+              <etiqueta posx="221" posy="30">He is a cook.</etiqueta>
+              <etiqueta posx="302" posy="319">She is a police officer.</etiqueta>
+              <etiqueta posx="32" posy="233">He is a firefighter.</etiqueta>
+              <etiqueta posx="301" posy="116">He is a doctor.</etiqueta>
+              <etiqueta posx="135" posy="162">She is a teacher.</etiqueta>
+        </paxina>
+        <paxina id="47" >
+              <tipo>20</tipo>
+              <cabeceira>Write</cabeceira>
+              <imaxe>jobs1.jpg</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="17" posy="94">She is a pop star.</etiqueta>
+              <etiqueta posx="221" posy="30">He is a cook.</etiqueta>
+              <etiqueta posx="302" posy="319">She is a police officer.</etiqueta>
+              <etiqueta posx="32" posy="233">He is a firefighter.</etiqueta>
+              <etiqueta posx="301" posy="116">He is a doctor.</etiqueta>
+              <etiqueta posx="135" posy="162">She is a teacher.</etiqueta>
+        </paxina>
+        <paxina id="48" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="She is a teacher.">teacher.jpg</parellas>
+              <parellas imaxe="" texto="He is a librarian.">librarian.jpg</parellas>
+              <parellas imaxe="" texto="He is a caretaker.">caretaker.png</parellas>
+              <parellas imaxe="" texto="She is a cook.">cook.jpg</parellas>
+              <parellas imaxe="" texto="She is a cleaner.">cleaner.jpg</parellas>
+              <parellas imaxe="" texto="He is a web designer.">webdesigner.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF00FF</ctapa>
+        </paxina>
+        <paxina id="49" >
+              <tipo>4</tipo>
+              <cabeceira>Solve the word search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="caretaker.png">caretaker</sopa>
+              <sopa enun="cook.jpg">cook</sopa>
+              <sopa enun="teacher.jpg">teacher</sopa>
+              <sopa enun="fashiondesigner.png">fashion d.</sopa>
+              <sopa enun="cleaner.jpg">cleaner</sopa>
+              <sopa enun="librarian.jpg">librarian</sopa>
+              <sopa enun="policeman.png">police o.</sopa>
+              <sopa enun="webdesigner.jpg">w. designer</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="50" >
+              <tipo>3</tipo>
+              <cabeceira>Solve the puzzle.</cabeceira>
+              <imaxe>jobs.jpg</imaxe>
+              <imfondo  trans="15">jobs.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
