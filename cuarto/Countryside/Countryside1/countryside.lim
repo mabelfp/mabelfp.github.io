@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-202" posy="6" trans="20">countryside.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="55" posy="187" ancho="472" largo="244"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="24">Excuse me,<br>
+Do you know the way to the campsite?<br>
+In the Countryside.</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Choose.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="There is a campsite. She likes camping.">campsite.jpg</cousa>
+              <cousa nome="There is a forest with a path. He hikes in the forest.">forest.jpg</cousa>
+              <cousa nome="There is a path near the mountains. She likes walking.">pathmountains.jpg</cousa>
+              <cousa nome="There is a bridge over the river. He swims in the river.">bridgeriver.jpg</cousa>
+              <cousa nome="There is a farm next to the lake. She sails in the lake.">farmlake.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="There is a campsite. She likes camping.">campsite.jpg</cousa>
+              <cousa nome="There is a forest with a path. He hikes in the forest.">forest.jpg</cousa>
+              <cousa nome="There is a path near the mountains. She likes walking.">pathmountains.jpg</cousa>
+              <cousa nome="There is a bridge over the river. He swims in the river.">bridgeriver.jpg</cousa>
+              <cousa nome="There is a farm next to the lake. She sails in the lake.">farmlake.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>campsite.jpg</imaxe>
+              <texto><![CDATA[What does she like doing?]]></texto>
+              <resp texto="">She likes camping.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>bridgeriver.jpg</imaxe>
+              <texto><![CDATA[Is there a bridge over the river?]]></texto>
+              <resp texto="">Yes, there is a bridge.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>forest.jpg</imaxe>
+              <texto><![CDATA[What does he like doing in the forest?]]></texto>
+              <resp texto="">He likes hiking.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>pathmountains.jpg</imaxe>
+              <texto><![CDATA[What does she do along the path?]]></texto>
+              <resp texto="">She walks to the end of the path.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>farmlake.jpg</imaxe>
+              <texto><![CDATA[Is there a farm next to the lake?]]></texto>
+              <resp texto="">Yes, there is a farm next to the lake.</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="9" >
+              <tipo>13</tipo>
+              <cabeceira>Match</cabeceira>
+              <unir texto="She ">likes walking.</unir>
+              <unir texto="He ">swims in the river.</unir>
+              <unir texto="She sails">in the lake.</unir>
+              <unir texto="He hikes">in the forest.</unir>
+              <unir texto="She likes">camping.</unir>
+        </paxina>
+        <paxina id="10" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions.</cabeceira>
+              <imaxe>bridgeriver.jpg</imaxe>
+              <pregunta res="Yes, there is.">Is there a bridge over the river?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he like swimming? X</pregunta>
+              <pregunta res="He likes swimming.">What does he like doing?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a lake?</pregunta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions.</cabeceira>
+              <imaxe>forest.jpg</imaxe>
+              <pregunta res="Yes, there is.">Is there a path in the forest?</pregunta>
+              <pregunta res="No, he doesn&apos;t.">Does he like walking? X</pregunta>
+              <pregunta res="He hikes in the forest.">What does he do in the forest?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a river?</pregunta>
+        </paxina>
+        <paxina id="12" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions.</cabeceira>
+              <imaxe>pathmountains.jpg</imaxe>
+              <pregunta res="Yes, there are.">Are there mountains near the path?</pregunta>
+              <pregunta res="Yes, she does.">Does she like walking? </pregunta>
+              <pregunta res="She walks.">What does she do?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a campsite?</pregunta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions.</cabeceira>
+              <imaxe>campsite.jpg</imaxe>
+              <pregunta res="Yes, there are.">Are there tents in the campsite?</pregunta>
+              <pregunta res="No, she doesn&apos;t.">Does she like hiking? X</pregunta>
+              <pregunta res="She likes camping.">What does she like doing?</pregunta>
+              <pregunta res="No, there isn&apos;t.">Is there a lake?</pregunta>
+        </paxina>
+        <paxina id="14" >
+              <tipo>10</tipo>
+              <cabeceira>Answer the questions.</cabeceira>
+              <imaxe>farmlake.jpg</imaxe>
+              <pregunta res="Yes, there is.">Is there a lake next to the farm?</pregunta>
+              <pregunta res="Yes, she does.">Does she like sailing in the lake? </pregunta>
+              <pregunta res="She likes saling.">What does she like doing?</pregunta>
+        </paxina>
+        <paxina id="15" >
+              <tipo>29</tipo>
+              <cabeceira>Choose.</cabeceira>
+              <texto><![CDATA[There is a *path near the *mountains.
+She *walks to the end of the path.
+
+There is a *bridge over the river.
+
+There is a *campsite . She likes camping.
+
+There is a *farm next to a lake.
+
+He *likes hiking in the *forest .]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <modo>1</modo>
+              <cousa nome="Go straight on to the farm.">gostraighton.jpg</cousa>
+              <cousa nome="Turn left at the end of the path.">turnleft.jpg</cousa>
+              <cousa nome="Don&apos;t turn left at the river.">Dont.jpg.png</cousa>
+              <cousa nome="Don&apos;t turn right at the bridge.">dont2.png</cousa>
+              <cousa nome="Turn right at the campsite.">turnright.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>11</tipo>
+              <cabeceira>Choose.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Go straight on.">gostraighton.jpg</cousa>
+              <cousa nome="Turn left.">turnleft.jpg</cousa>
+              <cousa nome="Don&apos;t turn left.">Dont.jpg.png</cousa>
+              <cousa nome="Don&apos;t turn right.">dont2.png</cousa>
+              <cousa nome="Turn right.">turnright.jpg</cousa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>11</tipo>
+              <cabeceira>Write.</cabeceira>
+              <modo>1</modo>
+              <cousa nome="Go straight on.">gostraighton.jpg</cousa>
+              <cousa nome="Turn left.">turnleft.jpg</cousa>
+              <cousa nome="Don&apos;t turn left.">Dont.jpg.png</cousa>
+              <cousa nome="Don&apos;t turn right.">dont2.png</cousa>
+              <cousa nome="Turn right.">turnright.jpg</cousa>
+        </paxina>
+    </libro>
+</lim>
