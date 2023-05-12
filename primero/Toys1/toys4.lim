@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="60" posy="102" trans="20">toys.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="60" posy="-18">toys.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>24</tipo>
+              <cabeceira>BALL</cabeceira>
+              <etiqueta imaxe="ball.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="bike.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="car.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="doll.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kite.png" texto="">0</etiqueta>
+              <etiqueta imaxe="boat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="3" >
+              <tipo>24</tipo>
+              <cabeceira>BIKE</cabeceira>
+              <etiqueta imaxe="ball.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bike.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="car.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="doll.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kite.png" texto="">0</etiqueta>
+              <etiqueta imaxe="boat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>CAR</cabeceira>
+              <etiqueta imaxe="ball.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bike.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="car.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="doll.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kite.png" texto="">0</etiqueta>
+              <etiqueta imaxe="boat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>24</tipo>
+              <cabeceira>DOLL</cabeceira>
+              <etiqueta imaxe="ball.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bike.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="car.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="doll.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="kite.png" texto="">0</etiqueta>
+              <etiqueta imaxe="boat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>24</tipo>
+              <cabeceira>KITE</cabeceira>
+              <etiqueta imaxe="ball.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bike.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="car.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="doll.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kite.png" texto="">1</etiqueta>
+              <etiqueta imaxe="boat.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>BOAT</cabeceira>
+              <etiqueta imaxe="ball.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="bike.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="car.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="doll.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="kite.png" texto="">0</etiqueta>
+              <etiqueta imaxe="boat.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="ball">ball.jpg</cousa>
+              <cousa nome="bike">bike.jpg</cousa>
+              <cousa nome="boat">boat.jpg</cousa>
+              <cousa nome="car">car.jpg</cousa>
+              <cousa nome="kite">kite.png</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="111" posy="17">kite.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>kite</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="48" posy="4">boat.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>boat</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>bike.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">bike</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>car.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">car</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="43" posy="10">ball.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>ball</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="27" posy="10">doll.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>doll</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>17</tipo>
+              <cabeceira>Matching game</cabeceira>
+              <parellas>ball.jpg</parellas>
+              <parellas>bike.jpg</parellas>
+              <parellas>doll.jpg</parellas>
+              <parellas>car.jpg</parellas>
+              <parellas>boat.jpg</parellas>
+              <parellas>kite.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>80FF80</ctapa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>ROBOT</cabeceira>
+              <etiqueta imaxe="robot.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="teddybear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toys.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scooter.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="train.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="skateboard.jpg" texto="">0</etiqueta>
+              <cfondo>80FF80</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>24</tipo>
+              <cabeceira>TEDDY BEAR</cabeceira>
+              <etiqueta imaxe="robot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="teddybear.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="boardgame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scooter.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="train.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="skateboard.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>24</tipo>
+              <cabeceira>TOYS</cabeceira>
+              <etiqueta imaxe="robot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="teddybear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toys.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="scooter.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="train.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="skateboard.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>24</tipo>
+              <cabeceira>SCOOTER</cabeceira>
+              <etiqueta imaxe="robot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="teddybear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="boardgame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scooter.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="train.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="skateboard.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="20" >
+              <tipo>24</tipo>
+              <cabeceira>TRAIN</cabeceira>
+              <etiqueta imaxe="robot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="teddybear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="boardgame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scooter.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="train.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="skateboard.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>24</tipo>
+              <cabeceira>SKATEBOARD</cabeceira>
+              <etiqueta imaxe="robot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="teddybear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toys.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="scooter.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="train.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="skateboard.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="22" >
+              <tipo>24</tipo>
+              <cabeceira>BOARD GAME</cabeceira>
+              <etiqueta imaxe="robot.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="teddybear.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="boardgame.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="scooter.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="train.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="skateboard.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="23" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="robot">robot.jpg</cousa>
+              <cousa nome="scooter">scooter.jpg</cousa>
+              <cousa nome="teddy bear">teddybear.jpg</cousa>
+              <cousa nome="board game">boardgame.jpg</cousa>
+              <cousa nome="skateboard">skateboard.jpg</cousa>
+        </paxina>
+        <paxina id="24" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="58" posy="0">robot.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>robot</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="25" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">toys.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>toys</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="26" >
+              <tipo>19</tipo>
+              <imaxe>teddybear.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">teddy bear</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="27" >
+              <tipo>19</tipo>
+              <imaxe>boardgame.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">board game</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="28" >
+              <tipo>19</tipo>
+              <imaxe>scooter.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">scooter</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="29" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="43" posy="6">skateboard.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>skateboard</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="30" >
+              <tipo>19</tipo>
+              <imaxe>train.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">train</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="31" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>toys1.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="270" posy="65">doll</etiqueta>
+              <etiqueta posx="6" posy="41">car</etiqueta>
+              <etiqueta posx="113" posy="4">blocks</etiqueta>
+              <etiqueta posx="183" posy="176">train</etiqueta>
+              <etiqueta posx="30" posy="123">teddy bear</etiqueta>
+              <etiqueta posx="227" posy="289">boat</etiqueta>
+        </paxina>
+        <paxina id="32" >
+              <tipo>7</tipo>
+              <cabeceira>CHOOSE</cabeceira>
+              <fondocaixa1 trans="30">OUTDOOR.jpg</fondocaixa1>
+              <fondocaixa2 trans="30">INDOOR.jpg</fondocaixa2>
+              <caixa1>OUTDOOR</caixa1>
+              <caixa2>INDOOR</caixa2>
+              <mini caixa="1">bike.jpg</mini>
+              <mini caixa="2">boardgame.jpg</mini>
+              <mini caixa="1">ball.jpg</mini>
+              <mini caixa="2">doll.jpg</mini>
+              <mini caixa="1">kite.png</mini>
+              <mini caixa="2">robot.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="33" >
+              <tipo>17</tipo>
+              <cabeceira>MATCHING GAME</cabeceira>
+              <parellas>kite.jpg</parellas>
+              <parellas>boardgame.jpg</parellas>
+              <parellas>scooter.jpg</parellas>
+              <parellas>train.jpg</parellas>
+              <parellas>skateboard.jpg</parellas>
+              <parellas>robot.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>0080FF</ctapa>
+        </paxina>
+        <paxina id="34" >
+              <tipo>24</tipo>
+              <cabeceira>BLOCKS</cabeceira>
+              <etiqueta imaxe="blocks.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="computergame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toybox.png" texto="">0</etiqueta>
+              <etiqueta imaxe="plane.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puppet.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puzzle.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="35" >
+              <tipo>24</tipo>
+              <cabeceira>PUPPET</cabeceira>
+              <etiqueta imaxe="blocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="computergame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toybox.png" texto="">0</etiqueta>
+              <etiqueta imaxe="plane.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puppet.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="puzzle.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="36" >
+              <tipo>24</tipo>
+              <cabeceira>TOY BOX</cabeceira>
+              <etiqueta imaxe="blocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="computergame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toybox.png" texto="">1</etiqueta>
+              <etiqueta imaxe="plane.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puppet.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puzzle.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="37" >
+              <tipo>24</tipo>
+              <cabeceira>COMPUTER GAME</cabeceira>
+              <etiqueta imaxe="blocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="computergame.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="toybox.png" texto="">0</etiqueta>
+              <etiqueta imaxe="plane.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puppet.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puzzle.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="38" >
+              <tipo>24</tipo>
+              <cabeceira>PLANE</cabeceira>
+              <etiqueta imaxe="blocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="computergame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toybox.png" texto="">0</etiqueta>
+              <etiqueta imaxe="plane.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="puppet.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puzzle.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="39" >
+              <tipo>24</tipo>
+              <cabeceira>PUZZLE</cabeceira>
+              <etiqueta imaxe="blocks.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="computergame.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="toybox.png" texto="">0</etiqueta>
+              <etiqueta imaxe="plane.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="puppet.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="puzzle.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="40" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>toybox.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">TOY BOX</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="41" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>puzzle.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">puzzle</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="42" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">puppet.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>puppet</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="43" >
+              <tipo>5</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="0" posy="0">plane.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>plane</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="44" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>computergame.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">computer game</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="45" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>blocks.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">blocks</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="46" >
+              <tipo>19</tipo>
+              <cabeceira>Guess</cabeceira>
+              <imaxe>toybox.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">toy box</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="47" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="ball">ball.jpg</cousa>
+              <cousa nome="bike">bike.jpg</cousa>
+              <cousa nome="board game">boardgame.jpg</cousa>
+              <cousa nome="boat">boat.jpg</cousa>
+              <cousa nome="car">car.jpg</cousa>
+        </paxina>
+        <paxina id="48" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="ball">ball.jpg</cousa>
+              <cousa nome="bike">bike.jpg</cousa>
+              <cousa nome="board game">boardgame.jpg</cousa>
+              <cousa nome="boat">boat.jpg</cousa>
+              <cousa nome="car">car.jpg</cousa>
+        </paxina>
+        <paxina id="49" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="board game">boardgame.jpg</cousa>
+              <cousa nome="doll">doll.jpg</cousa>
+              <cousa nome="kite">kite.jpg</cousa>
+              <cousa nome="robot">robot.jpg</cousa>
+              <cousa nome="scooter">scooter.jpg</cousa>
+        </paxina>
+        <paxina id="50" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="board game">boardgame.jpg</cousa>
+              <cousa nome="doll">doll.jpg</cousa>
+              <cousa nome="kite">kite.jpg</cousa>
+              <cousa nome="robot">robot.jpg</cousa>
+              <cousa nome="scooter">scooter.jpg</cousa>
+        </paxina>
+        <paxina id="51" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="skateboard">skateboard.jpg</cousa>
+              <cousa nome="teddy bear">teddybear.jpg</cousa>
+              <cousa nome="toys">toys1.jpg</cousa>
+              <cousa nome="train">train.jpg</cousa>
+              <cousa nome="scooter">scooter.jpg</cousa>
+        </paxina>
+        <paxina id="52" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="skateboard">skateboard.jpg</cousa>
+              <cousa nome="teddy bear">teddybear.jpg</cousa>
+              <cousa nome="toys">toys1.jpg</cousa>
+              <cousa nome="train">train.jpg</cousa>
+              <cousa nome="scooter">scooter.jpg</cousa>
+        </paxina>
+        <paxina id="53" >
+              <tipo>11</tipo>
+              <cabeceira>Choose</cabeceira>
+              <modo>3</modo>
+              <cousa nome="skateboard">puzzle.jpg</cousa>
+              <cousa nome="teddy bear">puppet.jpg</cousa>
+              <cousa nome="toys">computergame.jpg</cousa>
+              <cousa nome="train">plane.jpg</cousa>
+              <cousa nome="scooter">blocks.jpg</cousa>
+        </paxina>
+        <paxina id="54" >
+              <tipo>11</tipo>
+              <cabeceira>Write</cabeceira>
+              <modo>1</modo>
+              <cousa nome="skateboard">puzzle.jpg</cousa>
+              <cousa nome="teddy bear">puppet.jpg</cousa>
+              <cousa nome="toys">computergame.jpg</cousa>
+              <cousa nome="train">plane.jpg</cousa>
+              <cousa nome="scooter">blocks.jpg</cousa>
+        </paxina>
+        <paxina id="55" >
+              <tipo>39</tipo>
+              <cabeceira>Matching Game</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="" texto="BLOCKS">blocks.jpg</parellas>
+              <parellas imaxe="" texto="COMPUTER GAME">computergame.jpg</parellas>
+              <parellas imaxe="" texto="PLANE">plane.jpg</parellas>
+              <parellas imaxe="" texto="PUPPET">puppet.jpg</parellas>
+              <parellas imaxe="" texto="PUZZLE">puzzle.jpg</parellas>
+              <parellas imaxe="" texto="TOY BOX">toybox.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FF0000</ctapa>
+        </paxina>
+        <paxina id="56" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words.</cabeceira>
+              <modo>2</modo>
+              <sopa enun="boardgame.jpg">board game</sopa>
+              <sopa enun="teddybear.jpg">teddy bear</sopa>
+              <sopa enun="skateboard.jpg">skateboard</sopa>
+              <sopa enun="train.jpg">train</sopa>
+              <sopa enun="car.jpg">car</sopa>
+              <sopa enun="toybox.png">toy box</sopa>
+              <sopa enun="kite.jpg">kite</sopa>
+              <sopa enun="doll.jpg">doll</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="57" >
+              <tipo>24</tipo>
+              <cabeceira>The PUPPET is made of ...</cabeceira>
+              <etiqueta imaxe="plastic.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="paper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="metal.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="wood.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="materials.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fabric.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="58" >
+              <tipo>24</tipo>
+              <cabeceira>The BLOCKS are made of ...</cabeceira>
+              <etiqueta imaxe="plastic.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="paper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="metal.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="wood.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="materials.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fabric.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="59" >
+              <tipo>24</tipo>
+              <cabeceira>The TRAIN is made of ...</cabeceira>
+              <etiqueta imaxe="plastic.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="paper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="metal.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="wood.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="materials.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fabric.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="60" >
+              <tipo>24</tipo>
+              <cabeceira>The SCOOTER is made of ...</cabeceira>
+              <etiqueta imaxe="plastic.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="paper.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="metal.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="wood.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="materials.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fabric.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="61" >
+              <tipo>24</tipo>
+              <cabeceira>The BOARD GAME is made of ...</cabeceira>
+              <etiqueta imaxe="plastic.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="paper.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="metal.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="wood.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="materials.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="fabric.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="62" >
+              <tipo>24</tipo>
+              <cabeceira>ON</cabeceira>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="on.png" texto="">1</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="in.png" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="63" >
+              <tipo>24</tipo>
+              <cabeceira>IN</cabeceira>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="on.png" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="in.png" texto="">1</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="64" >
+              <tipo>24</tipo>
+              <cabeceira>UNDER</cabeceira>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="on.png" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="in.png" texto="">0</etiqueta>
+              <etiqueta imaxe="" texto="">0</etiqueta>
+              <etiqueta imaxe="under.jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="65" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="7" posy="0">on.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>on</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="66" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="33" posy="8">in.png</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>in</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="67" >
+              <tipo>5</tipo>
+              <imaxe>qm.jpg</imaxe>
+              <imfondo  posx="44" posy="5">under.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>under</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="68" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="" texto="plastic">plastic.jpg</parellas>
+              <parellas imaxe="" texto="paper">paper.jpg</parellas>
+              <parellas imaxe="" texto="wood">wood.jpg</parellas>
+              <parellas imaxe="" texto="metal">metal.jpg</parellas>
+              <parellas imaxe="" texto="fabric">fabric.jpg</parellas>
+              <parellas imaxe="" texto="materials">materials.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>FFFF00</ctapa>
+        </paxina>
+        <paxina id="69" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="plastic.jpg">plastic</sopa>
+              <sopa enun="toys1.jpg">toys</sopa>
+              <sopa enun="wood.jpg">wood</sopa>
+              <sopa enun="puppet.jpg">puppet</sopa>
+              <sopa enun="fabric.jpg">fabric</sopa>
+              <sopa enun="puzzle.jpg">puzzle</sopa>
+              <sopa enun="metal.jpg">metal</sopa>
+              <sopa enun="under.jpg">under</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="70" >
+              <tipo>3</tipo>
+              <imaxe>toys2.jpg</imaxe>
+              <imfondo  trans="20">toys2.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
